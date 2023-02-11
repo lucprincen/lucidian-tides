@@ -5,7 +5,7 @@ aliases: [T'hau]
 ## T'hau's appearance
 
 ![[shelly.jpg]]
-
+![[shelly-3d-beach.jpg]]
 T'hau is a crustacean-like creature, called the K't'haumi, with their appearance somewhat resembling that of a mutated humanoid crustacean with crab-like features. Their carapace is covered in spiky and bumpy protrusions, and barnacles grow from its back and shoulder. The colour of the carapace usually a spotted mix of blues, dark turquoise and browns, but can change colour to blend in with the features of their surroundings. When seen in the light, their carapace features a kind of pearlescent sheen. From their torso protrude four arms, two smaller limbs with nimble three-pointed claws, and two larger stronger arms featuring strong pincer claws.
 
 As their hardened carapace provides all the protection they need, they're not fond of wearing additional clothing or armour. To carry around their items and weapons they wield, all they have is a backpack featuring four sturdy leather straps that clip together on their chest. The straps also feature some satchels and pouches for quick access to tools, weapons and potions. Around their hip is a leather belt, featuring two rapiers with grips slightly customised for their uncommon hands.
