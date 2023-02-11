@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9ab5e081d8857d2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. T'hau/Origins of the K't'haumi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. T'hau/Origins of the K't'haumi.md",
+                "file": "1. T'hau/Backstory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. T'hau/Origins of the K't'haumi.md",
+                "file": "1. T'hau/Backstory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. T'hau/Origins of the K't'haumi.md"
+                "file": "1. T'hau/Backstory.md"
               }
             }
           }
@@ -158,17 +145,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ab5e081d8857d2a",
+  "active": "640325eb39bdd1d8",
   "lastOpenFiles": [
+    "Home.md",
+    "Sessions/Session index.md",
+    "1. T'hau/Origins of the K't'haumi.md",
     "3. Locations/Darktow Isle/The Muddy Hut.md",
     "1. T'hau/Backstory.md",
     "2. People/Darktow/Lghun 'Pock'.md",
     "Assets/Characters/myrtle-the-grin-zain.webp",
     "3. Locations/Darktow Isle/Darktow.md",
-    "1. T'hau/Origins of the K't'haumi.md",
     "2. People/Darktow/Myrtle 'The Grin' Zain.md",
-    "2. People/Darktow/Plank Queen Yucalia.md",
-    "1. T'hau/Art/shelly.jpg",
-    "1. T'hau/Art/shelly-render.jpg"
+    "2. People/Darktow/Plank Queen Yucalia.md"
   ]
 }
