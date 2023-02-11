@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a82c3282ac5dfb6",
+        "id": "52f5d9b3b2c38e1a",
         "type": "tabs",
         "children": [
           {
-            "id": "67279443c1cebe83",
+            "id": "ef09cdfb1ef47e92",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67279443c1cebe83",
+  "active": "ef09cdfb1ef47e92",
   "lastOpenFiles": [
+    "2. People/Darktow/Myrtle 'The Grin' Zain.md",
     "2. People/Darktow/Lghun 'Pock'.md",
     "1. T'hau/Backstory.md",
+    "1. T'hau/Origins of the K't'haumi.md",
     "Home.md",
     "Sessions/Session index.md",
-    "1. T'hau/Origins of the K't'haumi.md",
     "3. Locations/Darktow Isle/The Muddy Hut.md",
     "Assets/Characters/myrtle-the-grin-zain.webp",
     "3. Locations/Darktow Isle/Darktow.md",
-    "2. People/Darktow/Myrtle 'The Grin' Zain.md",
     "2. People/Darktow/Plank Queen Yucalia.md"
   ]
 }
