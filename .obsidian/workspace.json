@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c09cddf71423bcf2",
+        "id": "75a31fd753c3793b",
         "type": "tabs",
         "children": [
           {
-            "id": "a53de2c2e3e3f0f1",
+            "id": "5ff3388a4377d16b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. T'hau/Backstory.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. T'hau/Backstory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. T'hau/Backstory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. T'hau/Backstory.md"
+              }
             }
           }
         ]
@@ -138,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a53de2c2e3e3f0f1",
+  "active": "5ff3388a4377d16b",
   "lastOpenFiles": [
+    "1. T'hau/Origins of the K't'haumi.md",
+    "1. T'hau/Backstory.md",
+    "0. Assets/Characters/lghun-pock.jpg",
     "0. Assets/Memes/tank.jpg",
     "0. Assets/Memes/crab-ear.jpg",
-    "1. T'hau/Backstory.md",
-    "1. T'hau/Origins of the K't'haumi.md",
     "2. People/Darktow/Lg'hun 'Pock'.md",
     "2. People/Darktow/Myrtle 'The Grin' Zain.md",
     "2. People/Darktow/Plank Queen Yucalia.md",
     "3. Locations/Darktow Isle/The Muddy Hut.md",
-    "0. Assets/Locations/muddy-hut.jpg",
-    "Home.md"
+    "0. Assets/Locations/muddy-hut.jpg"
   ]
 }
