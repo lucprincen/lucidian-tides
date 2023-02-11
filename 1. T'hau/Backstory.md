@@ -92,4 +92,4 @@ The unusual appearance of T'hau and their friends attracted quite a few folks wh
 
 As the number of visitors and frequency of their visits increased, this eventually led to the conversion of The Muddy Hut into a tavern of sorts. Expanding deeper into the cavern, and constructing the hut further out on the beach and into the sea, it allowed for more patrons to visit and stay.
 
-T'hau wasn't directly involved in running The Muddy Hut, but it always has a place to stay for them, as they were one of the original folks to live here. When they make landfall after a pirate raid or exploring mission, it is one of the first places they usually visit, and tell grand stories about their adventures
+T'hau wasn't directly involved in running The Muddy Hut, but it always has a place to stay for them, as they were one of the original folks to live here. When they make landfall after a pirate raid or exploring mission, it is one of the first places they usually visit, and tell grand stories about their adventures.
