@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "16f267e4e936e38d",
+        "id": "c09cddf71423bcf2",
         "type": "tabs",
         "children": [
           {
-            "id": "0fb4b852ce1506b1",
+            "id": "a53de2c2e3e3f0f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. T'hau/Backstory.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. T'hau/Backstory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. T'hau/Backstory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. T'hau/Backstory.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da2b65103e37cd2f",
+  "active": "a53de2c2e3e3f0f1",
   "lastOpenFiles": [
+    "0. Assets/Memes/tank.jpg",
     "0. Assets/Memes/crab-ear.jpg",
     "1. T'hau/Backstory.md",
     "1. T'hau/Origins of the K't'haumi.md",
@@ -156,7 +149,6 @@
     "2. People/Darktow/Plank Queen Yucalia.md",
     "3. Locations/Darktow Isle/The Muddy Hut.md",
     "0. Assets/Locations/muddy-hut.jpg",
-    "Home.md",
-    "Sessions/Session index.md"
+    "Home.md"
   ]
 }
