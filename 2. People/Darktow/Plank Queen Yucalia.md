@@ -1,0 +1,1 @@
+The ruling queen in [[Darktow]].

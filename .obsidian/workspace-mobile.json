@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "8bc43bf47c5fb0cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f2b78f031625ee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e360a0ed01d003d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. T'hau/Backstory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a15dabcc1720296",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4b1a295c78dd457c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "52368511b88f236d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "58ebd2cf3e253fd3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b805f40c236f3818",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f4f1ec746eca3b8e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "16e7c043e924a285",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "1. T'hau/Backstory.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3342b109069c08a3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "1. T'hau/Backstory.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b3c76a3116b70f07",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "1. T'hau/Backstory.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "4e360a0ed01d003d",
+  "lastOpenFiles": [
+    "1. T'hau/Art/shelly-3d.jpg"
+  ]
+}
