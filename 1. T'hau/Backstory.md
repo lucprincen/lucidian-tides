@@ -40,7 +40,7 @@ Seeing how T'hau managed to disarm several of the fishermen with ease, the fishe
 
 Hesitant to bring all of these unknown creatures back to Darktow, they offered to take back T'hau for an audience with the Plank Queen and try to make their plea. T'hau assured his friends that he would be back for them after meeting the Plank Queen and urged them to not stray too far from here so he could find them later again.
 
-On the ship, T'hau tried to make some conversation with the fishermen, who were still a bit creeped out by the deep chittering voice in their minds because of Thau's telepathy. When the fishermen left T'hau unattended for a bit, T'hau started wandering around the small vessel and found some of the fish they caught, a few barrels worth of fish, clams, and the sort. Hungry as a seahorse, T'hau engorged themself on the fish, unaware that this was the fishermen's haul to sell in Darktow. It was only after having eaten through half a barrel of fish, that the fishermen noticed. Very annoyed at T'hau's sudden appetite, they urged T'hau to take a seat on the bow of the vessel, so they could keep an eye on him during the trip back.
+On the ship, T'hau tried to make some conversation with the fishermen, who were still a bit creeped out by the deep chittering voice in their minds because of T'hau's telepathy. When the fishermen left T'hau unattended for a bit, T'hau started wandering around the small vessel and found some of the fish they caught, a few barrels worth of fish, clams, and the sort. Hungry as a seahorse, T'hau engorged themself on the fish, unaware that this was the fishermen's haul to sell in Darktow. It was only after having eaten through half a barrel of fish, that the fishermen noticed. Very annoyed at T'hau's sudden appetite, they urged T'hau to take a seat on the bow of the vessel, so they could keep an eye on him during the trip back.
 
 ### Meeting Yucalia
 
@@ -62,7 +62,7 @@ Over the next few weeks and months, the K't'haumi troupe settled themselves in a
 
 It is during this time that T'hau starts having recurring nightmares...
 
-### Thau's recurring nightmare
+### T'hau's recurring nightmare
 
 They're on a large three-master ship sailing across the sea, standing on the foredeck. Up ahead brew a massive storm, they're heading straight for it. The sky slowly turns a deep dark turquoise, clouds swirling overhead, rain pouring over the deck and winds hammering the sails. 
 
