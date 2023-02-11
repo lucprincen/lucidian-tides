@@ -1,5 +1,6 @@
 {
   "spellcheck": true,
-  "attachmentFolderPath": "Assets",
-  "newFileLocation": "current"
+  "attachmentFolderPath": "0. Assets",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
 }
