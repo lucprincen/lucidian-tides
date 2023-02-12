@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Locations/Darktow Isle/The Muddy Hut.md",
+                "file": "1. T'hau/Origins of the K't'haumi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Locations/Darktow Isle/The Muddy Hut.md",
+                "file": "1. T'hau/Origins of the K't'haumi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Locations/Darktow Isle/The Muddy Hut.md",
+                "file": "1. T'hau/Origins of the K't'haumi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Locations/Darktow Isle/The Muddy Hut.md"
+                "file": "1. T'hau/Origins of the K't'haumi.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "5ff3388a4377d16b",
   "lastOpenFiles": [
+    "1. T'hau/Backstory.md",
+    "3. Locations/Darktow Isle/The Muddy Hut.md",
     "3. Locations/Darktow Isle/Darktow.md",
     "2. People/Darktow/Plank Queen Yucalia.md",
     "2. People/Darktow/Myrtle 'The Grin' Zain.md",
     "2. People/Darktow/Lg'hun 'Pock'.md",
-    "1. T'hau/Backstory.md",
     "1. T'hau/Origins of the K't'haumi.md",
     "0. Assets/Characters/lghun-pock.jpg",
     "0. Assets/Memes/tank.jpg",
-    "0. Assets/Memes/crab-ear.jpg",
-    "3. Locations/Darktow Isle/The Muddy Hut.md"
+    "0. Assets/Memes/crab-ear.jpg"
   ]
 }
