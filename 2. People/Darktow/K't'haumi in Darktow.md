@@ -1,0 +1,3 @@
+- [[Lg'hun 'Pock']] - Closest friend of [[Backstory|T'hau]]. Owner and proprietor of [[The Muddy Hut]].
+- Sur'ik 'Shriek' - Fisherman / fishmonger. Regularly sails out to go fishing and then prepares and sells the fish in a shop near the harbour.
+- 'Snip'
