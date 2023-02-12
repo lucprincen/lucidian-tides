@@ -6,6 +6,4 @@ Not very long after being enslaved by them, each reanimated sailor would start a
 
 Not only their physical form was affected by this curse, it also affected the memories of their former selves. With each moulting, they would shed a portion of their memories that would be incorporated into the controlling hive mind, causing memories to be mixed up among the K't'haumi.
 
-However, hardly any of this is known to [[Backstory|T'hau]] or their friends anymore, as they have gone through numerous moultings already, and forgotten their true past and former identity. 
-
-The only memories they do have, are mostly from after their unfateful curse bound them in servitude to the aboleth.
+However, hardly any of this is known to [[Backstory|T'hau]] or their friends anymore, as they have gone through numerous moultings already, and forgotten their true past and former identity. The memories they do have are completely jumbled, a confusing mix of memories from other people. The only valid memories they do have, are from after their unfateful curse bound them in servitude to the aboleth.
