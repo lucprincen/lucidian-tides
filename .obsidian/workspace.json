@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ff3388a4377d16b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. People/Darktow/Other K't'haumi in Darktow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33c442d4d3d4309d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. People/Darktow/Other K't'haumi in Darktow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4181492f2c94491a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. People/Darktow/Sur'ik 'Shriek'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0bbc706d94209cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. People/Darktow/Ser'ruk 'Shelly'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4969edcced18ea45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. People/Darktow/Kr'uth 'Snip'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a7276695c4d03d2d",
             "type": "leaf",
             "state": {
@@ -79,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,19 +118,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "3c1e1db5b7736404",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2. People/Darktow/Sur'ik 'Shriek'.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -207,15 +136,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4181492f2c94491a",
+  "active": "a7276695c4d03d2d",
   "lastOpenFiles": [
-    "2. People/Darktow/Ser'ruk 'Shelly'.md",
-    "2. People/Darktow/Myrtle 'The Grin' Zain.md",
-    "2. People/Darktow/Other K't'haumi in Darktow.md",
-    "2. People/Darktow/Plank Queen Yucalia.md",
-    "2. People/Darktow/Sur'ik 'Shriek'.md",
-    "2. People/Darktow/Lg'hun 'Pock'.md",
     "2. People/Darktow/Kr'uth 'Snip'.md",
+    "2. People/Darktow/Ser'ruk 'Shelly'.md",
+    "2. People/Darktow/Other K't'haumi in Darktow.md",
+    "2. People/Darktow/Sur'ik 'Shriek'.md",
+    "2. People/Darktow/Myrtle 'The Grin' Zain.md",
+    "2. People/Darktow/Plank Queen Yucalia.md",
+    "2. People/Darktow/Lg'hun 'Pock'.md",
     "1. T'hau/Backstory.md",
     "1. T'hau/Origins of the K't'haumi.md",
     "3. Locations/Darktow Isle/The Muddy Hut.md"
