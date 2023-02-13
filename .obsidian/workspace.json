@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. T'hau/Origins of the K't'haumi.md",
+                "file": "2. People/Lucidian Ocean/Nagh'Khun.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. T'hau/Origins of the K't'haumi.md",
+                "file": "2. People/Lucidian Ocean/Nagh'Khun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. T'hau/Origins of the K't'haumi.md",
+                "file": "2. People/Lucidian Ocean/Nagh'Khun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. T'hau/Origins of the K't'haumi.md"
+                "file": "2. People/Lucidian Ocean/Nagh'Khun.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "cc7de6e3f60f42a2",
   "lastOpenFiles": [
-    "2. People/Darktow.md",
-    "1. T'hau/Origins of the K't'haumi.md",
+    "Home.md",
     "1. T'hau/Backstory.md",
+    "1. T'hau/Origins of the K't'haumi.md",
+    "2. People/Darktow.md",
     "2. People/Lucidian Ocean/Nagh'Khun.md",
     "2. People/Darktow/Other K't'haumi in Darktow.md",
     "2. People/Darktow/Sur'ik 'Shriek'.md",
     "2. People/Darktow/Kr'uth 'Snip'.md",
     "2. People/Darktow/Ser'ruk 'Shelly'.md",
-    "2. People/Darktow/Myrtle 'The Grin' Zain.md",
-    "2. People/Darktow/Plank Queen Yucalia.md"
+    "2. People/Darktow/Myrtle 'The Grin' Zain.md"
   ]
 }
