@@ -1,4 +1,4 @@
-The origin of the K't'haumi creatures is tied to the abominations of the deep in the Lucidian ocean. The bodies of drowned and forgotten sailors on the Lucidian Ocean who fell prey to aboleths, ixitxachitl, morkoth and the like, were often brought before a single particularly powerful aboleth, Nagh'khun. Nagh'khun served Uk'otoa for a long time, until Uk'otoa's defeat some time ago. Leading a pack of deep sea abominations, they preyed upon whoever ventured too far into their domain.
+The origin of the K't'haumi creatures is tied to the abominations of the deep in the Lucidian ocean. The bodies of drowned and forgotten sailors on the Lucidian Ocean who fell prey to aboleths, ixitxachitl, morkoth and the like, were often brought before a single particularly powerful aboleth, [[Nagh'Khun]]. Nagh'khun served Uk'otoa for a long time, until Uk'otoa's defeat some time ago. Leading a pack of deep sea abominations, they preyed upon whoever ventured too far into their domain.
 
 The bodies of the drowned sailors would be tainted and cursed by these creatures, causing each of their dead bodies to be reanimated, bound to live in servitude to their sea demon masters.
 
