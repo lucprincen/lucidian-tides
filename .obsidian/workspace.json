@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8a216692d1b25cdd",
+        "id": "ffca1b7743cf4f70",
         "type": "tabs",
         "children": [
           {
-            "id": "3d62ffae1ee2a226",
+            "id": "654430ba04e636ff",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "1. T'hau/Art/shelly-3d-beach.jpg"
+                "file": "1. T'hau/Backstory.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. T'hau/Art/shelly-3d-beach.jpg",
+                "file": "1. T'hau/Backstory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. T'hau/Art/shelly-3d-beach.jpg",
+                "file": "1. T'hau/Backstory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. T'hau/Art/shelly-3d-beach.jpg"
+                "file": "1. T'hau/Backstory.md"
               }
             }
           }
@@ -144,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d62ffae1ee2a226",
+  "active": "654430ba04e636ff",
   "lastOpenFiles": [
-    "1. T'hau/Art/shelly.jpg",
     "1. T'hau/Art/shelly-3d-beach.jpg",
+    "1. T'hau/Art/shelly.jpg",
     "1. T'hau/Art/shelly-render.jpg",
     "1. T'hau/Art/shelly-3d.jpg",
     "Session index.md",
