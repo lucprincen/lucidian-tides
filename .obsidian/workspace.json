@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "367c868b93df4aed",
+        "id": "3cbaff55a821a1a3",
         "type": "tabs",
         "children": [
           {
-            "id": "5303e8d31e0f3ed6",
+            "id": "da39dbcedd303f4d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0. Assets/Memes/tank.jpg"
+                "file": "1. T'hau/Origins of the K't'haumi.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Assets/Memes/tank.jpg",
+                "file": "1. T'hau/Origins of the K't'haumi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Assets/Memes/tank.jpg",
+                "file": "1. T'hau/Origins of the K't'haumi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Assets/Memes/tank.jpg"
+                "file": "1. T'hau/Origins of the K't'haumi.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -144,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5303e8d31e0f3ed6",
+  "active": "da39dbcedd303f4d",
   "lastOpenFiles": [
-    "2. People/Lucidian Ocean/Nagh'Khun.md",
     "2. People/Darktow/Other K't'haumi in Darktow.md",
+    "2. People/Darktow/Ser'ruk 'Shelly'.md",
+    "1. T'hau/Backstory.md",
+    "0. Assets/Memes/crabbo-stabbo.webp",
+    "0. Assets/Memes/tank.jpg",
+    "2. People/Lucidian Ocean/Nagh'Khun.md",
     "2. People/Darktow/Kr'uth 'Snip'.md",
     "2. People/Darktow/Lg'hun 'Pock'.md",
     "2. People/Darktow/Myrtle 'The Grin' Zain.md",
-    "2. People/Darktow/Ser'ruk 'Shelly'.md",
-    "2. People/Darktow/Sur'ik 'Shriek'.md",
-    "Home.md",
-    "1. T'hau/Backstory.md",
-    "1. T'hau/Origins of the K't'haumi.md"
+    "2. People/Darktow/Sur'ik 'Shriek'.md"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-aliases: [T'hau]
+aliases: T'hau
 ---
 
 ## T'hau's appearance
@@ -92,6 +92,6 @@ Since that bizarre event with the echo, something weird started happening with T
 
 The unusual appearance of T'hau and their friends attracted quite a few folks who were interested in their origins, visiting [[The Muddy Hut]] to get acquainted. Some of these folks returned on a regular basis and stuck around for casual conversation and drinks. Over time, this got more and more folks attracted to The Muddy Hut. As the place was located in a shallow cavern that flooded during high tide, it attracted mostly folks of a more aquatic origin, like merfolk, water genasi, sea elves, triton and tortles.
 
-As the number of visitors and frequency of their visits increased, this eventually led to the conversion of The Muddy Hut into a tavern of sorts. Expanding deeper into the cavern, and constructing the hut further out on the beach and into the sea, it allowed for more patrons to visit and stay.
+As the number of visitors and frequency of their visits increased, this eventually led to the conversion of The Muddy Hut into a tavern of sorts. Expanding deeper into the cavern, and constructing the hut further out on the beach and into the sea, it allowed for more patrons to visit and stay. From the start, [[Lg'hun 'Pock'|Pock]] has run the tavern
 
 T'hau wasn't directly involved in running The Muddy Hut, but it always has a place to stay for them, as they were one of the original folks to live here. When they make landfall after a pirate raid or exploring mission, it is one of the first places they usually visit, and tell grand stories about their adventures.
