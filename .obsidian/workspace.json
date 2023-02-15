@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 0.md",
+                "file": "1. T'hau/Backstory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 0.md",
+                "file": "1. T'hau/Backstory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 0.md",
+                "file": "1. T'hau/Backstory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 0.md"
+                "file": "1. T'hau/Backstory.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffc8af9884b90c3f",
+  "active": "da2b65103e37cd2f",
   "lastOpenFiles": [
-    "2. People/Darktow/Plank Queen Yucalia.md",
     "Sessions/Session 0.md",
+    "2. People/Darktow/Plank Queen Yucalia.md",
     "1. T'hau/Backstory.md",
     "1. T'hau/Art/shelly-3d-beach.jpg",
     "1. T'hau/Art/shelly.jpg",
