@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "75a31fd753c3793b",
+        "id": "4f92c7aca1993d14",
         "type": "tabs",
         "children": [
           {
-            "id": "a7276695c4d03d2d",
+            "id": "96c134a9479da187",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. People/Darktow/Other K't'haumi in Darktow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc7de6e3f60f42a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. People/Darktow/Sur'ik 'Shriek'.md",
+                "file": "2. People/Lucidian Ocean/Nagh'Khun.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. People/Darktow/Sur'ik 'Shriek'.md",
+                "file": "2. People/Lucidian Ocean/Nagh'Khun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. People/Darktow/Sur'ik 'Shriek'.md",
+                "file": "2. People/Lucidian Ocean/Nagh'Khun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. People/Darktow/Sur'ik 'Shriek'.md"
+                "file": "2. People/Lucidian Ocean/Nagh'Khun.md"
               }
             }
           }
@@ -159,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc7de6e3f60f42a2",
+  "active": "96c134a9479da187",
   "lastOpenFiles": [
-    "2. People/Darktow/Ser'ruk 'Shelly'.md",
-    "2. People/Darktow/Other K't'haumi in Darktow.md",
-    "2. People/Darktow/Myrtle 'The Grin' Zain.md",
-    "2. People/Darktow/Lg'hun 'Pock'.md",
-    "2. People/Darktow/Kr'uth 'Snip'.md",
     "2. People/Lucidian Ocean/Nagh'Khun.md",
+    "2. People/Darktow/Other K't'haumi in Darktow.md",
+    "2. People/Darktow/Kr'uth 'Snip'.md",
+    "2. People/Darktow/Lg'hun 'Pock'.md",
+    "2. People/Darktow/Myrtle 'The Grin' Zain.md",
+    "2. People/Darktow/Ser'ruk 'Shelly'.md",
+    "2. People/Darktow/Sur'ik 'Shriek'.md",
     "Home.md",
     "1. T'hau/Backstory.md",
-    "1. T'hau/Origins of the K't'haumi.md",
-    "2. People/Darktow.md"
+    "1. T'hau/Origins of the K't'haumi.md"
   ]
 }
