@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. People/Darktow/Plank Queen Yucalia.md",
+                "file": "Sessions/Session 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. People/Darktow/Plank Queen Yucalia.md",
+                "file": "Sessions/Session 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. People/Darktow/Plank Queen Yucalia.md",
+                "file": "Sessions/Session 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. People/Darktow/Plank Queen Yucalia.md"
+                "file": "Sessions/Session 0.md"
               }
             }
           }
@@ -148,7 +148,8 @@
   },
   "active": "ffc8af9884b90c3f",
   "lastOpenFiles": [
-    "Untitled.md",
+    "2. People/Darktow/Plank Queen Yucalia.md",
+    "Sessions/Session 0.md",
     "1. T'hau/Backstory.md",
     "1. T'hau/Art/shelly-3d-beach.jpg",
     "1. T'hau/Art/shelly.jpg",
@@ -156,7 +157,6 @@
     "1. T'hau/Art/shelly-3d.jpg",
     "Session index.md",
     "1. T'hau/Origins of the K't'haumi.md",
-    "2. People/Darktow/Other K't'haumi in Darktow.md",
-    "2. People/Darktow/Ser'ruk 'Shelly'.md"
+    "2. People/Darktow/Other K't'haumi in Darktow.md"
   ]
 }
