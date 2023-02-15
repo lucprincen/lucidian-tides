@@ -8,4 +8,4 @@ Not only their physical form was affected by this curse, it also affected the me
 
 The memories they do have are completely jumbled, a confusing mix of memories from other people. Most of these memories lie in the back of their minds, with vague flashes sometimes occurring when they remember something from a former life. Memories from after their enslaving bond was broken remain unaffected however.
 
-Aside from their appearance and unfateful cure, all K't'haumi have another thing in common: they all have the occasional dream about the unfateful event that led to their ill-fated misfortune. These dreams all seem to happen on, near or above the sea. Crews  thrown overboar
+Aside from their appearance and unfateful cure, all K't'haumi have another thing in common: they all have the occasional dream about the unfateful event that led to their ill-fated misfortune. These dreams all seem to happen on, near or above the sea. Crews  thrown overboard, beach workers pulled into the sea, skyships suddenly failing and plunging to their demise.
