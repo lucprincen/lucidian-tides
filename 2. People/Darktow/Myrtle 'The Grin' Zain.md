@@ -1,5 +1,5 @@
 ---
-aliases: [Myrtle, The Grin, Zain]
+aliases: Myrtle, The Grin, Zain
 ---
 ![[myrtle-the-grin-zain.webp]]
 

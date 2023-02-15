@@ -1,5 +1,5 @@
 ---
-aliases: [Lg'hun, Pock]
+aliases: Lg'hun, Pock
 ---
 ![[lghun-pock.jpg]]
 

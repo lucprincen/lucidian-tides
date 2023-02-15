@@ -1,3 +1,7 @@
+---
+aliases: Kr'uth, Snip
+---
+
 ![[kruth-snip.png]]
 
 Former Aboleth guard, fled together with [[Backstory|T'hau]]'s group. Cocky, aggressive, ruthless.
