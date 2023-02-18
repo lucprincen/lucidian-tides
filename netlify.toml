@@ -6,14 +6,14 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Explore"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Notes from the adventures of T'hau"
+LANDING_DESCRIPTION = "Notes from the adventures of the crew of The Serpent's Tide"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "Home"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Lucidian Tides"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
-REPO_URL = "https://github.com/ppeetteerrs/obsidian-zola"
+REPO_URL = "https://github.com/iainvdw/lucidian-tides"
 # (Optional) Site title in navbar
 SITE_TITLE = "Lucidian Tides - T'hau's notes"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
