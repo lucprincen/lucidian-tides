@@ -1,1 +1,1 @@
-Female human with a forked tongue, originally from Marquet. Joined the crew in [[Darktow]]. Had a bad run in with some yuan-ti.
+Female human with a forked tongue, originally from Marquet. Joined the crew in [[Darktow]]. Had a bad run in with some Yuan-ti.
