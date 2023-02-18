@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/0. The Serpent's Tide gets her crew.md",
+                "file": "Session index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/0. The Serpent's Tide gets her crew.md",
+                "file": "Session index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/0. The Serpent's Tide gets her crew.md",
+                "file": "Session index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/0. The Serpent's Tide gets her crew.md"
+                "file": "Session index.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "f3e5aa19da8f4a8d",
   "lastOpenFiles": [
-    "2. People/Serpent's Tide/Remmi Rattlebones.md",
+    "Home.md",
+    "Session index.md",
     "Sessions/0. The Serpent's Tide gets her crew.md",
+    "2. People/Serpent's Tide/Remmi Rattlebones.md",
     "3. Locations/Darktow Isle/Darktow.md",
     "2. People/Serpent's Tide/Julnar Norra.md",
     "2. People/Lucidian Ocean/The Gravid Archipelago.md",
     "2. People/Lucidian Ocean/Struff Gibbons.md",
     "2. People/Lucidian Ocean/Revelry.md",
-    "4. Factions/The Revelry.md",
-    "0. Assets/Locations/the-keel-hall.png",
-    "3. Locations/Darktow Isle/The Keel Hall.md"
+    "4. Factions/The Revelry.md"
   ]
 }
