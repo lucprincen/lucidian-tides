@@ -1,0 +1,1 @@
+The very first ship to come out of [[Darktow]]'s own shipyard. A brigantine.

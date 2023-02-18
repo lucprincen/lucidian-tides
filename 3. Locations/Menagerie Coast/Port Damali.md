@@ -1,0 +1,1 @@
+Port town along the [[Menagerie Coast]]. Under control of the [[Clovis Concord]].

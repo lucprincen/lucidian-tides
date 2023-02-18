@@ -1,0 +1,1 @@
+Tavern in [[Darktow]]. The party first met here to hire some new crew for [[The Serpent's Tide]] to go on its very first mission.
