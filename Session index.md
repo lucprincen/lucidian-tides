@@ -1,6 +1,3 @@
-```oql
-name: "Sessions"
-query: "/Sessions/**"
-template: "list"
-format: "{title}"
+```dataview
+list from "Sessions" sort rating desc
 ```
