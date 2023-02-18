@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9d4dba18948be25a",
+        "id": "130c6b87692c09ee",
         "type": "tabs",
         "children": [
           {
-            "id": "f3e5aa19da8f4a8d",
+            "id": "792dfe18f9e5f6e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3b9968724d1f427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1993103451fb4c11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/0. The Serpent's Tide gets her crew.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a181d6d562330d2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Factions/The Revelry.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Factions/The Revelry.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Factions/The Revelry.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Factions/The Revelry.md"
+                "file": "Home.md"
               }
             }
           }
@@ -183,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a181d6d562330d2f",
+  "active": "792dfe18f9e5f6e9",
   "lastOpenFiles": [
-    "3. Factions/Clovis Concord.md",
-    "3. Factions/The Revelry.md",
+    "Session index.md",
+    "The party.md",
+    "Home.md",
     "Sessions/0. The Serpent's Tide gets her crew.md",
+    "3. Factions/The Revelry.md",
+    "3. Factions/Clovis Concord.md",
     "1. People/Nicodranas/Tamulia.md",
     "1. People/Lucidian Ocean/‘Ole Thick.md",
     "2. Locations/Lucidian Ocean/Twinward Isles.md",
-    "2. Locations/Lucidian Ocean/The Gravid Archipelago.md",
-    "2. Locations/Darktow Isle/The Muddy Hut.md",
-    "1. People/Darktow/Sur'ik 'Shriek'.md",
-    "1. People/Darktow/Ser'ruk 'Shelly'.md"
+    "2. Locations/Lucidian Ocean/The Gravid Archipelago.md"
   ]
 }
