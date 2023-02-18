@@ -69,7 +69,6 @@ GRAPH_OPTIONS = """
           },
           height: "100%",
           width: "100%",
-          hierarchical: true,
           physics: {
             solver: "hierarchicalRepulsion",
           },
