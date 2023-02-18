@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a9540dd3fd4359f",
+        "id": "b91430acddf9e9e7",
         "type": "tabs",
         "children": [
           {
-            "id": "d25ff679537d823e",
+            "id": "840664b6e39023c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d25ff679537d823e",
+  "active": "840664b6e39023c1",
   "lastOpenFiles": [
-    "Sessions/Rayn.md",
+    "0. Assets/Locations/the-keel-hall.png",
+    "3. Locations/Darktow Isle/The Keel Hall.md",
     "Sessions/Session 0.md",
+    "2. People/The party/Bartholomew Brittlestone.md",
+    "2. People/The party/Mallory Calder.md",
+    "2. People/The party/Rayna Khatri.md",
+    "Sessions/Rayn.md",
     "2. People/Serpent's Tide/Julnar Norra.md",
     "2. People/Serpent's Tide/Big Neela.md",
-    "2. People/The party/Bartholomew Brittlestone.md",
-    "2. People/Nicodranas/Tamulia.md",
-    "4. Factions/The Revelry.md",
-    "3. Locations/Darktow Isle/The Serpent's Tide.md",
-    "2. People/Serpent's Tide/Remmi Rattlebones.md",
-    "2. People/Serpent's Tide/Odell Blackmoore.md"
+    "2. People/Nicodranas/Tamulia.md"
   ]
 }
