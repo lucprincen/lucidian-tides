@@ -1,1 +1,1 @@
-A [[The Revelry|Revelry]] contact we are meeting in [[Nicodranas]].
+A [[The Revelry|Revelry]] contact we are supposed to be meeting in [[Nicodranas]].

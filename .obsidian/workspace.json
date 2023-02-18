@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The party.md",
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1993103451fb4c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/0. The Serpent's Tide gets her crew.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a181d6d562330d2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. People/Nicodranas/Tamulia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thau",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The party.md",
+                "file": "1. People/Nicodranas/Tamulia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The party.md",
+                "file": "1. People/Nicodranas/Tamulia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The party.md"
+                "file": "1. People/Nicodranas/Tamulia.md"
               }
             }
           }
@@ -147,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3b9968724d1f427",
+  "active": "a181d6d562330d2f",
   "lastOpenFiles": [
-    "Home.md",
-    "Session index.md",
-    "1. People/The party/T'hau.md",
-    "1. T'hau/Backstory.md",
-    "1. T'hau/Origins of the K't'haumi.md",
-    "0. Assets/Characters/T'hau/thau.jpg",
-    "0. Assets/Characters/T'hau/thau-3d.jpg",
+    "1. People/Lucidian Ocean/‘Ole Thick.md",
+    "2. Locations/Lucidian Ocean/Twinward Isles.md",
     "Sessions/0. The Serpent's Tide gets her crew.md",
-    "1. People/Serpent's Tide/Remmi Rattlebones.md",
-    "2. Locations/Darktow Isle/Darktow.md"
+    "2. Locations/Lucidian Ocean/The Gravid Archipelago.md",
+    "2. Locations/Darktow Isle/The Muddy Hut.md",
+    "1. People/Darktow/Sur'ik 'Shriek'.md",
+    "1. People/Darktow/Ser'ruk 'Shelly'.md",
+    "1. People/Darktow/Other K't'haumi in Darktow.md",
+    "1. People/Lucidian Ocean/Nagh'Khun.md",
+    "1. People/Darktow/Myrtle 'The Grin' Zain.md"
   ]
 }

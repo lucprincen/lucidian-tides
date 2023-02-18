@@ -1,1 +1,0 @@
-Archipelago in the Lucidian Ocean, smuggling location for [[The Revelry]]. A contact lives there by the name of [[Struff Gibbons|‘Ole Thick]].

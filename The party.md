@@ -1,3 +1,5 @@
-```dataview
-list from "1. People/The party"
-```
+- [[Bartholomew Brittlestone]]
+- [[Doloris]]
+- [[Mallory Calder]]
+- [[Rayna Khatri]]
+- [[T'hau]]

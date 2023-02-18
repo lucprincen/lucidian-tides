@@ -9,4 +9,4 @@ White braids decorated with clasps of various precious metals extend past her sh
 
 She got her nickname 'The Grin' as she grins a lot telling her grand tales, and everyone listening to her stories could witness the unsightly state of her teeth lining that grin.
 
-Has trained [[Backstory|T'hau]] for their first few months in Darktow as a fierce fighter.
+Has trained [[T'hau]] for their first few months in Darktow as a fierce fighter.

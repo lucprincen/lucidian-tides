@@ -1,3 +1,1 @@
-```dataview
-list from "Sessions" sort rating desc
-```
+0. [[0. The Serpent's Tide gets her crew]]
