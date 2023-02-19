@@ -1,0 +1,1 @@
+Dwarven man who joined the crew in [Darktow](../../2.%20Locations/Darktow%20Isle/Darktow.md). Has been part of [The Revelry](../../3.%20Factions/The%20Revelry.md) for a very long time. Rumoured to have snuck aboard a [Clovis Concord](../../3.%20Factions/Clovis%20Concord.md) ship and rigged a bomb, making it out alive whilst the entire ship sank. Originally from Stilben.

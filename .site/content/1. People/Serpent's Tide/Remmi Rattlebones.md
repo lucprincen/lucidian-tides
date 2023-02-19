@@ -1,0 +1,1 @@
+Male goblin who joined the crew in [Darktow](../../2.%20Locations/Darktow%20Isle/Darktow.md). Originally from Xhorhas, came to [Nicodranas](../../2.%20Locations/Menagerie%20Coast/Nicodranas.md) with the people who turned up in Assarius from Avernus.
