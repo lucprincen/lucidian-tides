@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The party.md",
+                "file": "Session index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The party.md",
+                "file": "Session index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The party.md",
+                "file": "Session index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The party.md"
+                "file": "Session index.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "792dfe18f9e5f6e9",
   "lastOpenFiles": [
+    "The party.md",
     "Session index.md",
     "Home.md",
-    "The party.md",
     "Sessions/0. The Serpent's Tide gets her crew.md",
     "3. Factions/The Revelry.md",
     "3. Factions/Clovis Concord.md",
