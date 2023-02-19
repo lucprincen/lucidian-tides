@@ -1,1 +1,0 @@
-Archipelago in the Lucidian Ocean, smuggling location for [The Revelry](../../3.%20Factions/The%20Revelry.md). A contact lives there by the name of [‘Ole Thick](../../1.%20People/Lucidian%20Ocean/%E2%80%98Ole%20Thick.md).

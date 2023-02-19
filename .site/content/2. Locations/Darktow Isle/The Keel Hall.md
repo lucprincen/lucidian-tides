@@ -1,1 +1,0 @@
-![the-keel-hall.png](../../0.%20Assets/Locations/the-keel-hall.png)Tavern in [Darktow](Darktow.md). The party first met here to hire some new crew for [The Serpent's Tide](The%20Serpent's%20Tide.md) to go on its very first mission.

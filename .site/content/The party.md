@@ -1,5 +1,0 @@
-* [Bartholomew Brittlestone](1.%20People/The%20party/Bartholomew%20Brittlestone.md)
-* [Doloris](1.%20People/The%20party/Doloris.md)
-* [Mallory Calder](1.%20People/The%20party/Mallory%20Calder.md)
-* [Rayna Khatri](1.%20People/The%20party/Rayna%20Khatri.md)
-* [T'hau](1.%20People/The%20party/T'hau.md)

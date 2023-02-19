@@ -1,1 +1,0 @@
-Nicodranas is the first and one of the major port cities on the [Menagerie Coast](Menagerie%20Coast.md). The city is under the control of the [Clovis Concord](../../3.%20Factions/Clovis%20Concord.md).
