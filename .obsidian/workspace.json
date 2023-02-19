@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions.md",
+                "file": "Sessions/0. The Serpent's Tide gets her crew.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions.md",
+                "file": "Sessions/0. The Serpent's Tide gets her crew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions.md",
+                "file": "Sessions/0. The Serpent's Tide gets her crew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +138,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions.md"
+                "file": "Sessions/0. The Serpent's Tide gets her crew.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,10 +160,10 @@
   },
   "active": "6d8e3177f63fb9fb",
   "lastOpenFiles": [
-    "Sessions/The Serpent's Tide gets her crew.md",
-    "Sessions.md",
     "The party.md",
+    "Sessions.md",
     "Home.md",
+    "Sessions/0. The Serpent's Tide gets her crew.md",
     "3. Factions/The Revelry.md",
     "3. Factions/Clovis Concord.md",
     "1. People/Nicodranas/Tamulia.md",
