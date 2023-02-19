@@ -1,2 +1,2 @@
-- [[Session index]]
+- [[Sessions]]
 - [[The party]]
