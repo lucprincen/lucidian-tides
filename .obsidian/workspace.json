@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Locations/Locations.md",
+                "file": "1. People/People.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Locations/Locations.md",
+                "file": "1. People/People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Locations/Locations.md",
+                "file": "1. People/People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Locations/Locations.md"
+                "file": "1. People/People.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "ff05958130f86caf",
   "lastOpenFiles": [
-    "1. People/People.md",
     "2. Locations/Locations.md",
+    "1. People/People.md",
     "2. Locations/Darktow Isle/Darktow.md",
     "1. People/Darktow/Other K't'haumi in Darktow.md",
     "1. People/Darktow/Kr'uth 'Snip'.md",
