@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. People/The party/T'hau.md",
+                "file": "1. People/The party/Bartholomew Brittlestone.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. People/The party/T'hau.md",
+                "file": "1. People/The party/Bartholomew Brittlestone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. People/The party/T'hau.md",
+                "file": "1. People/The party/Bartholomew Brittlestone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. People/The party/T'hau.md"
+                "file": "1. People/The party/Bartholomew Brittlestone.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "6d1b8734d4924a99",
   "lastOpenFiles": [
-    "1. People/The party/Rayna Khatri.md",
-    "0. Assets/Characters/doloris.png",
-    "1. People/The party/Mallory Calder.md",
     "1. People/The party/Doloris.md",
+    "1. People/The party/Mallory Calder.md",
+    "1. People/The party/Rayna Khatri.md",
+    "1. People/The party/T'hau.md",
+    "0. Assets/Characters/doloris.png",
     "Session list.md",
     "0. Assets/Characters/bartholomew-brittlestone.png",
     "1. People/The party/Bartholomew Brittlestone.md",
     "Sessions/1 - Session one.md",
-    "Sessions/2 - Session two.md",
-    "Sessions/10 - Session ten.md"
+    "Sessions/2 - Session two.md"
   ]
 }
