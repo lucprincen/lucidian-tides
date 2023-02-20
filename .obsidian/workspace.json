@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "da64df4737f53d5b",
+        "id": "2235ecb3481cc3e7",
         "type": "tabs",
         "children": [
           {
-            "id": "ebe20a4bcbea355c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97086e4842e0370d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7f9de73472b6b1a9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2c10b17d75f63b09",
+            "id": "6d1b8734d4924a99",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,17 +137,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da2b65103e37cd2f",
+  "active": "6d1b8734d4924a99",
   "lastOpenFiles": [
+    "1. People/The party/Rayna Khatri.md",
+    "0. Assets/Characters/doloris.png",
+    "1. People/The party/Mallory Calder.md",
+    "1. People/The party/Doloris.md",
     "Session list.md",
-    "Sessions/2 - Session two.md",
-    "Sessions/10 - Session ten.md",
+    "0. Assets/Characters/bartholomew-brittlestone.png",
+    "1. People/The party/Bartholomew Brittlestone.md",
     "Sessions/1 - Session one.md",
-    "Sessions/0 - The Serpent's Tide gets her crew.md",
-    "Home.md",
-    "2. Locations/Darktow Isle/The Serpent's Tide.md",
-    "The party.md",
-    "1. People/People.md",
-    "1. People/Serpent's Tide/Captain Cassian Sariel de Rochefort.md"
+    "Sessions/2 - Session two.md",
+    "Sessions/10 - Session ten.md"
   ]
 }
