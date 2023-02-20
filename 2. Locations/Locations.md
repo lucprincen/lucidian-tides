@@ -1,3 +1,3 @@
-- [Darktow Isle][darktow-isle]
-- [Lucidian Ocean][lucidian-ocean]
-- [Menagerie Coast][menagerie-coast]
+- [Darktow Isle](darktow-isle)
+- [Lucidian Ocean](lucidian-ocean)
+- [Menagerie Coast](menagerie-coast)
