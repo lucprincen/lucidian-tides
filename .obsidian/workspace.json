@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/001. The Serpent's Tide gets her crew.md",
+                "file": "Session.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/001. The Serpent's Tide gets her crew.md",
+                "file": "Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/001. The Serpent's Tide gets her crew.md",
+                "file": "Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/001. The Serpent's Tide gets her crew.md"
+                "file": "Session.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "ed7527324d99d602",
   "lastOpenFiles": [
-    "Session.md",
+    "2. Locations/Untitled.md",
     "Sessions/001. The Serpent's Tide gets her crew.md",
+    "Session.md",
     "The party.md",
     "Home.md",
     "3. Factions/The Revelry.md",
     "3. Factions/Clovis Concord.md",
     "1. People/Nicodranas/Tamulia.md",
     "1. People/Lucidian Ocean/‘Ole Thick.md",
-    "2. Locations/Lucidian Ocean/Twinward Isles.md",
-    "2. Locations/Lucidian Ocean/The Gravid Archipelago.md"
+    "2. Locations/Lucidian Ocean/Twinward Isles.md"
   ]
 }
