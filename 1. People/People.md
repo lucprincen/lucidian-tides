@@ -1,1 +1,1 @@
-[Darktow](../darktow)
+[Darktow](darktow)
