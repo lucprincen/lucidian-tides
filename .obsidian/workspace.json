@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. People/People.md",
+                "file": "Sessions/0 - The Serpent's Tide gets her crew.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c0df5fc09000b68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Locations/Darktow Isle/Flotsam Court.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "roost",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. People/People.md",
+                "file": "2. Locations/Darktow Isle/Flotsam Court.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. People/People.md",
+                "file": "2. Locations/Darktow Isle/Flotsam Court.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. People/People.md"
+                "file": "2. Locations/Darktow Isle/Flotsam Court.md"
               }
             }
           }
@@ -145,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff05958130f86caf",
+  "active": "9c0df5fc09000b68",
   "lastOpenFiles": [
-    "2. Locations/Locations.md",
+    "Sessions/0 - The Serpent's Tide gets her crew.md",
     "1. People/People.md",
+    "2. Locations/Locations.md",
     "2. Locations/Darktow Isle/Darktow.md",
     "1. People/Darktow/Other K't'haumi in Darktow.md",
     "1. People/Darktow/Kr'uth 'Snip'.md",
     "1. People/The Party/T'hau.md",
     "1. People/The Party/Bartholomew Brittlestone.md",
     "1. People/The Party/Doloris.md",
-    "1. People/The Party/Mallory Calder.md",
-    "1. People/The Party/Rayna Khatri.md"
+    "1. People/The Party/Mallory Calder.md"
   ]
 }
