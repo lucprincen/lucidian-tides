@@ -1,1 +1,1 @@
-- [[001. The Serpent's Tide gets her crew]]
+- [[001 The Serpent's Tide gets her crew]]
