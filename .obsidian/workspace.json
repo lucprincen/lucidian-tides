@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "130c6b87692c09ee",
+        "id": "42ebbcd7e27e0334",
         "type": "tabs",
         "children": [
           {
-            "id": "792dfe18f9e5f6e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d8e3177f63fb9fb",
+            "id": "ed7527324d99d602",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,11 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d8e3177f63fb9fb",
+  "active": "ed7527324d99d602",
   "lastOpenFiles": [
-    "Sessions/1. The Serpent's Tide gets her crew.md",
-    "The party.md",
+    "Sessions/001 The Serpent's Tide gets her crew.md",
     "Session.md",
+    "The party.md",
     "Home.md",
     "3. Factions/The Revelry.md",
     "3. Factions/Clovis Concord.md",
