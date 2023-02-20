@@ -1,2 +1,4 @@
 - [[Session list]]
 - [[The party]]
+- [[People]]
+- [[Locations]]
