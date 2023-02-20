@@ -1,2 +1,2 @@
-- [[Sessions]]
+- [[Session]]
 - [[The party]]
