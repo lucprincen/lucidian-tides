@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b2f72e90f95390cb",
+        "id": "4530afe0f75552c5",
         "type": "tabs",
         "children": [
           {
-            "id": "96a32300f88a7be3",
+            "id": "efd2338b88c32932",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. People/Serpent's Tide/Captain Cassian Sariel de Rochefort.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. People/Serpent's Tide/Captain Cassian Sariel de Rochefort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. People/Serpent's Tide/Captain Cassian Sariel de Rochefort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. People/Serpent's Tide/Captain Cassian Sariel de Rochefort.md"
+              }
             }
           }
         ]
@@ -137,17 +145,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96a32300f88a7be3",
+  "active": "efd2338b88c32932",
   "lastOpenFiles": [
+    "1. People/Serpent's Tide/Captain Cassian Sariel de Rochefort.md",
+    "1. People/Serpent's Tide/Julnar Norra.md",
+    "1. People/Serpent's Tide/Odell Blackmoore.md",
+    "1. People/Serpent's Tide/Remmi Rattlebones.md",
+    "0. Assets/Characters/big-neela.png",
+    "1. People/Serpent's Tide/Big Neela.md",
     "1. People/People.md",
     "2. Locations/Locations.md",
     "3. Factions/Factions.md",
-    "Sessions.md",
-    "Index of Lucidian Tides.md",
-    "Sessions/001. The Serpent's Tide gets her crew.md",
-    "The party.md",
-    "Home.md",
-    "3. Factions/The Revelry.md",
-    "3. Factions/Clovis Concord.md"
+    "Sessions.md"
   ]
 }
