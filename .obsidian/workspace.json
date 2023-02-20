@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2235ecb3481cc3e7",
+        "id": "6691195e39d5b7cf",
         "type": "tabs",
         "children": [
           {
-            "id": "6d1b8734d4924a99",
+            "id": "f945cb15e2ae6d89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. People/The party/T'hau.md",
+                "file": "1. People/People.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. People/The party/T'hau.md",
+                "file": "1. People/People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. People/The party/T'hau.md",
+                "file": "1. People/People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. People/The party/T'hau.md"
+                "file": "1. People/People.md"
               }
             }
           }
@@ -145,17 +145,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d1b8734d4924a99",
+  "active": "f945cb15e2ae6d89",
   "lastOpenFiles": [
+    "2. Locations/Locations.md",
+    "1. People/Darktow/Other K't'haumi in Darktow.md",
+    "1. People/Darktow/Kr'uth 'Snip'.md",
+    "1. People/The party/T'hau.md",
     "1. People/The party/Bartholomew Brittlestone.md",
     "1. People/The party/Doloris.md",
     "1. People/The party/Mallory Calder.md",
     "1. People/The party/Rayna Khatri.md",
-    "1. People/The party/T'hau.md",
     "0. Assets/Characters/doloris.png",
-    "Session list.md",
-    "0. Assets/Characters/bartholomew-brittlestone.png",
-    "Sessions/1 - Session one.md",
-    "Sessions/2 - Session two.md"
+    "Session list.md"
   ]
 }
