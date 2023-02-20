@@ -2,5 +2,6 @@
   "spellcheck": true,
   "attachmentFolderPath": "0. Assets",
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
