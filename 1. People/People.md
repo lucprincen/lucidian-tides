@@ -1,5 +1,5 @@
 [Darktow](darktow)
-[Lucidian Ocean](lucidiean-ocean)
+[Lucidian Ocean](lucidean-ocean)
 [Nicodranas](nicodranas)
-[Serpent's Tide Crew](serpents-tide-crew)
+[Serpent's Tide Crew](serpent-s-tide-crew)
 [The Party](the-party)
