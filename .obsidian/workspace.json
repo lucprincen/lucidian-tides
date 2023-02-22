@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f8d7a31c71a2435c",
+        "id": "4f02583d9f660d5c",
         "type": "tabs",
         "children": [
           {
-            "id": "84fb2d0a3906f0e6",
+            "id": "efcad39c9a853be8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/0 - The Serpent's Tide gets her crew.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0a43385901cd5d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session list.md",
+                "file": "Sessions/1 - Session 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session list.md",
+                "file": "Sessions/1 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session list.md",
+                "file": "Sessions/1 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session list.md"
+                "file": "Sessions/1 - Session 1.md"
               }
             }
           }
@@ -158,10 +145,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0a43385901cd5d2",
+  "active": "efcad39c9a853be8",
   "lastOpenFiles": [
+    "1. People/Lucidian Ocean/‘Ole Thick.md",
     "Sessions/1 - Session 1.md",
     "Sessions/0 - The Serpent's Tide gets her crew.md",
+    "2. Locations/Lucidian Ocean/The Gravid Archipelago.md",
+    "0. Assets/Locations/gravid-archipelago.png",
+    "Session list.md",
     "2. Locations/Darktow Isle/Flotsam Court.md",
     "Home.md",
     "1. People/People.md",

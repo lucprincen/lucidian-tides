@@ -1,1 +1,3 @@
+![[gravid-archipelago.png]]
+
 Archipelago in the Lucidian Ocean, smuggling location for [[The Revelry]]. A contact lives there by the name of [[‘Ole Thick|‘Ole Thick]].

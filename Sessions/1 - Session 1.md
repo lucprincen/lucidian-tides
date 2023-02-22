@@ -1,0 +1,9 @@
+- Arrive at [[The Gravid Archipelago]]
+- Need green coloured light to signal [[‘Ole Thick]] we're coming
+- Sloop arrives, four torches being doused
+- Throw us a line, need to be towed in
+- Take us to a gaping maw of a damp cave inlet
+- [[‘Ole Thick]] arrives and welcomes us in
+- Hear talk in tavern that a Mr. Higgins was ambushed by the [[Clovis Concord]]
+	- Two 
+- 
