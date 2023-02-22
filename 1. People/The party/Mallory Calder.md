@@ -1,5 +1,5 @@
 ---
-aliases: Mallory
+aliases: Mallory, Mal
 ---
 ![[mallory-calder.png]]
 

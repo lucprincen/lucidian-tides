@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4f02583d9f660d5c",
+        "id": "748d879952e4d3d8",
         "type": "tabs",
         "children": [
           {
-            "id": "efcad39c9a853be8",
+            "id": "50be48e3e0eea810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Ship Roles/First Gunner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ead0a7e06693cb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efcad39c9a853be8",
+  "active": "6ead0a7e06693cb8",
   "lastOpenFiles": [
+    "0. Assets/Misc/First Gunner.jpg",
     "Misc/Ship Roles/First Gunner.md",
     "Sessions/1 - Session 1.md",
+    "1. People/The Party/Mallory Calder.md",
     "0. Assets/Pasted image 20230222205101.png",
     "0. Assets/Pasted image 20230222205104.png",
-    "0. Assets/Misc/First Gunner.jpg",
     "0. Assets/Misc",
     "Misc/Ship Roles",
     "Misc",

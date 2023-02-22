@@ -20,4 +20,13 @@
 - [[Mallory Calder|Mallory]] trains with [[Bartholomew Brittlestone|Bartholomew]] on forging documents, trying to improve the documents for the ale
 - [[Mallory Calder|Mallory]] also tries learning how to mend sails with [[Julnar Norra|Julnar]]
 - [[Odell Blackmoore]] man's the crows nest and spots [[Twinward Isles]]
-- [[Doloris]] navigates [[The Serpent's Tide]] towards 
+- [[Doloris]] lays down a few options for where to put the ship
+	- an inlet for surprise
+	- from around the island and approach head on, to keep suspicion low
+- We decide for the second option
+
+**Combat**
+- We fire chained cannon balls at masts and sails right as we sail by. Main mast of the Relentless breaks off
+- Relentless fires back, does some hull damage
+- [[Doloris]] and [[Mallory Calder|Mal]] make a sharp manoeuver, getting us behind the Relentless
+- [[Rayna Khatri|Rayna]] sets the back sails on fire
