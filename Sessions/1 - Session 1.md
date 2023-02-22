@@ -30,3 +30,4 @@
 - Relentless fires back, does some hull damage
 - [[Doloris]] and [[Mallory Calder|Mal]] make a sharp manoeuver, getting us behind the Relentless
 - [[Rayna Khatri|Rayna]] sets the back sails on fire
+- 

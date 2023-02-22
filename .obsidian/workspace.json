@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/1 - Session 1.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd1262760d6d6cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/1 - Session 1.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/1 - Session 1.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/1 - Session 1.md"
+                "file": "Misc/Ship Roles/First Gunner.md"
               }
             }
           }
@@ -159,11 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ead0a7e06693cb8",
+  "active": "cd1262760d6d6cb1",
   "lastOpenFiles": [
+    "Sessions/1 - Session 1.md",
     "0. Assets/Misc/First Gunner.jpg",
     "Misc/Ship Roles/First Gunner.md",
-    "Sessions/1 - Session 1.md",
     "1. People/The Party/Mallory Calder.md",
     "0. Assets/Pasted image 20230222205101.png",
     "0. Assets/Pasted image 20230222205104.png",
