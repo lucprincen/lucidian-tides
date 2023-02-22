@@ -8,7 +8,7 @@
 	- Mr Higgins was captain of one of [[The Revelry|Revelry]]'s greatest fighting ships, The Belligerent
 	- Two large ships fresh out of the shipyard
 	- Got ambushed after following a tip from the Blushing Mermaid in Nicodranas
-- Get a writ for one shipment
+- Get a writ for one shipment. Can choose from:
 	- 1200gp spices from Marquet
 	- 1400gp Taldorei ale
 	- 2300gp gold bars from Marquet, logo pressed in of House Sherome
