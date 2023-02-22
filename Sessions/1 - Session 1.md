@@ -25,9 +25,11 @@
 	- from around the island and approach head on, to keep suspicion low
 - We decide for the second option
 
-**Combat**
+**Combat with The Relentless**
 - We fire chained cannon balls at masts and sails right as we sail by. Main mast of the Relentless breaks off
 - Relentless fires back, does some hull damage
-- [[Doloris]] and [[Mallory Calder|Mal]] make a sharp manoeuver, getting us behind the Relentless
+- [[Doloris]] and [[Mallory Calder|Mal]] make a sharp manoeuver assisted by [[Rayna Khatri|Rayna]], getting us behind the Relentless
 - [[Rayna Khatri|Rayna]] sets the back sails on fire
+- Fire the two manned cannons, but they miss
+- We board the ship, see the [[Clovis Concord]] commander who grabs his sword and pistol as soon as he sees us
 - 

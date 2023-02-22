@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md",
+                "file": "Sessions/1 - Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md",
+                "file": "Sessions/1 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md",
+                "file": "Sessions/1 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md"
+                "file": "Sessions/1 - Session 1.md"
               }
             }
           }
@@ -173,9 +173,12 @@
   },
   "active": "cd1262760d6d6cb1",
   "lastOpenFiles": [
+    "1. People/Clovis Concord/Commander Blasco.md",
+    "0. Assets/Characters/commander-blasco.png",
+    "Misc/Ship Roles/First Gunner.md",
+    "1. People/Clovis Concord",
     "Sessions/1 - Session 1.md",
     "0. Assets/Misc/First Gunner.jpg",
-    "Misc/Ship Roles/First Gunner.md",
     "1. People/The Party/Mallory Calder.md",
     "0. Assets/Pasted image 20230222205101.png",
     "0. Assets/Pasted image 20230222205104.png",
