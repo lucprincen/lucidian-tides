@@ -4,4 +4,4 @@
 1 / 10
 
 **Cannon balls + black powder**
-95 shots left worth of black powder
+86 shots left worth of black powder
