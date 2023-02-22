@@ -32,7 +32,8 @@
 - [[Rayna Khatri|Rayna]] sets the back sails on fire
 - Fire the two manned cannons, but they miss
 - We board the ship, see the [[Clovis Concord]] commander who grabs his sword and pistol as soon as he sees us
-- We take knock the commander unconscious, and kill the Zhelezo lieutenant on deck
+- We take knock the commander unconscious, and kill the [[Zhelezo]] lieutenant on deck
 - [[T'hau]] intimidates the captain to tell the crew to back off the cannons
-- Zhelezo soldier runs to the deck below to get to the prisoners. [[Mallory Calder|Mal]], [[Bartholomew Brittlestone|Bartholomew]] and [[T'hau]] follow and find another Zhelezo lieutenant and ten more soldiers
+- [[Zhelezo]] soldier runs to the deck below to get to the prisoners. [[Mallory Calder|Mal]], [[Bartholomew Brittlestone|Bartholomew]] and [[T'hau]] follow and find another [[Zhelezo]] lieutenant and ten more soldiers
 - [[Bartholomew Brittlestone|Bartholomew]] frees two [[The Revelry|Revelry]] pirates
+- [[Rayna Khatri|Rayna]] burns seven of the ten soldiers to death, scaring the lieutenant and the remaining soldiers to stand down

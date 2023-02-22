@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Factions/Zhelezo.md",
+                "file": "Sessions/1 - Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Factions/Zhelezo.md",
+                "file": "Sessions/1 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Factions/Zhelezo.md",
+                "file": "Sessions/1 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Factions/Zhelezo.md"
+                "file": "Sessions/1 - Session 1.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "c3b072e02b1f7777",
   "lastOpenFiles": [
-    "Sessions/1 - Session 1.md",
     "3. Factions/Zhelezo.md",
+    "Sessions/1 - Session 1.md",
     "Misc/Ship Roles/First Gunner.md",
     "2. Locations/Menagerie Coast/Nicodranas.md",
     "0. Assets/Locations/Nicodranas.png",
