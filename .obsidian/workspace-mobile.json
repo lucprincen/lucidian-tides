@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 0.md",
+                "file": "The Party.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sessions/Session 0.md",
+            "file": "The Party.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Sessions/Session 0.md",
+            "file": "The Party.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Sessions/Session 0.md"
+            "file": "The Party.md"
           }
         }
       }
@@ -123,6 +123,9 @@
   },
   "active": "4e360a0ed01d003d",
   "lastOpenFiles": [
+    "1. People/The Party/Bartholomew Brittlestone.md",
+    "The Party.md",
+    "Sessions/0 - The Serpent's Tide gets her crew.md",
     "1. T'hau/Backstory.md",
     "1. T'hau/Memes/tank.jpg",
     "1. T'hau/Memes/crabbo-stabbo.webp",
