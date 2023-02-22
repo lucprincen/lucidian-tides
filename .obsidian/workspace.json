@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/1 - Session 1.md",
+                "file": "Session list.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/1 - Session 1.md",
+                "file": "Session list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/1 - Session 1.md",
+                "file": "Session list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/1 - Session 1.md"
+                "file": "Session list.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "d0a43385901cd5d2",
   "lastOpenFiles": [
-    "Sessions/0 - The Serpent's Tide gets her crew.md",
     "Sessions/1 - Session 1.md",
+    "Sessions/0 - The Serpent's Tide gets her crew.md",
     "2. Locations/Darktow Isle/Flotsam Court.md",
     "Home.md",
     "1. People/People.md",
