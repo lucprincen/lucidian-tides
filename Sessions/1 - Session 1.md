@@ -5,5 +5,14 @@
 - Take us to a gaping maw of a damp cave inlet
 - [[‘Ole Thick]] arrives and welcomes us in
 - Hear talk in tavern that a Mr. Higgins was ambushed by the [[Clovis Concord]]
-	- Two 
-- 
+	- Mr Higgins was captain of one of [[The Revelry|Revelry]]'s greatest fighting ships, The Belligerent
+	- Two large ships fresh out of the shipyard
+	- Got ambushed after following a tip from the Blushing Mermaid in Nicodranas
+- Get a writ for one shipment
+	- 1200gp spices from Marquet
+	- 1400gp Taldorei ale
+	- 2300gp gold bars from Marquet, logo pressed in of House Sherome
+- We ask [[Remmi Rattlebones]] for contacts in [[Nicodranas]]
+	- Family Candlehollow, run a funeral service, smuggle through casket
+	- Sell it to Mr. Gallin Primewater, older gentleman, well off
+	- 
