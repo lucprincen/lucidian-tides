@@ -15,4 +15,9 @@
 - We ask [[Remmi Rattlebones]] for contacts in [[Nicodranas]]
 	- Family Candlehollow, run a funeral service, smuggle through casket
 	- Sell it to Mr. Gallin Primewater, older gentleman, well off
-	- 
+- We decide to go with the ale to go legit for now and sell that to the [[Clovis Concord]] to keep us out of suspicion for now, which allows us to scout Nicodranas with a low profile
+- We do a cannon drill on the way to the [[Twinward Isles]], [[Rayna Khatri|Rayna]] helps out with manning the third crew
+- [[Mallory Calder|Mallory]] trains with [[Bartholomew Brittlestone|Bartholomew]] on forging documents, trying to improve the documents for the ale
+- [[Mallory Calder|Mallory]] also tries learning how to mend sails with [[Julnar Norra|Julnar]]
+- [[Odell Blackmoore]] man's the crows nest and spots [[Twinward Isles]]
+- [[Doloris]] navigates [[The Serpent's Tide]] towards 

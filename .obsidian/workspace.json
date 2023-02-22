@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bde22217e7a7efc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. People/Lucidian Ocean/‘Ole Thick.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. People/Lucidian Ocean/‘Ole Thick.md",
+                "file": "Sessions/1 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. People/Lucidian Ocean/‘Ole Thick.md",
+                "file": "Sessions/1 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. People/Lucidian Ocean/‘Ole Thick.md"
+                "file": "Sessions/1 - Session 1.md"
               }
             }
           }
@@ -146,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,11 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da2b65103e37cd2f",
+  "active": "efcad39c9a853be8",
   "lastOpenFiles": [
-    "0. Assets/Characters/Pasted image 20230222204508.png",
+    "Misc/Ship Roles/First Gunner.md",
     "Sessions/1 - Session 1.md",
+    "0. Assets/Pasted image 20230222205101.png",
+    "0. Assets/Pasted image 20230222205104.png",
+    "0. Assets/Misc/First Gunner.jpg",
+    "0. Assets/Misc",
+    "Misc/Ship Roles",
+    "Misc",
     "1. People/Lucidian Ocean/‘Ole Thick.md",
+    "0. Assets/Characters/ole-thick.png",
     "Sessions/0 - The Serpent's Tide gets her crew.md",
     "2. Locations/Lucidian Ocean/The Gravid Archipelago.md",
     "0. Assets/Locations/gravid-archipelago.png",
