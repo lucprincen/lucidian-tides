@@ -1,6 +1,6 @@
 ![[First Gunner.jpg]]
 
-**Drill checks**
+**Drill checks successful**
 1 / 10
 
 **Cannon balls + black powder**

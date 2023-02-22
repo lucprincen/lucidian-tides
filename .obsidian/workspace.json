@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md",
+                "file": "Sessions/1 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3b072e02b1f7777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Factions/Zhelezo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md",
+                "file": "3. Factions/Zhelezo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md",
+                "file": "3. Factions/Zhelezo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md"
+                "file": "3. Factions/Zhelezo.md"
               }
             }
           }
@@ -146,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50be48e3e0eea810",
+  "active": "c3b072e02b1f7777",
   "lastOpenFiles": [
+    "Sessions/1 - Session 1.md",
+    "3. Factions/Zhelezo.md",
+    "Misc/Ship Roles/First Gunner.md",
     "2. Locations/Menagerie Coast/Nicodranas.md",
     "0. Assets/Locations/Nicodranas.png",
-    "Misc/Ship Roles/First Gunner.md",
-    "Sessions/1 - Session 1.md",
     "1. People/Clovis Concord/Commander Blasco.md",
     "0. Assets/Characters/commander-blasco.png",
     "1. People/Clovis Concord",
