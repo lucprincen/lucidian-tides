@@ -3,9 +3,9 @@ As we enter a lagoon at  [[The Gravid Archipelago]], they spot a sloop with four
 As they’re having drinks, the crew overhears a conversation about some new [[Clovis Concord]] ships that ambushed one of Mr. Higgins’ ships. [[Doloris]] recognises this name, sharing that Mr. Higgins was the captain of one of the [[The Revelry|Revelry]]’s greatest fighting ships, the Belligerent. It seems that ship was sunk in this Clovid Concord ambush.
 
 The captain soon returns, going over three options of cargo with the crew:
-1. 1200gp worth of Marquisian spices. 
+1. 1200gp worth of Marquisian spices
 2. 1400gp worth of Tal'dorei ale (harder to smuggle, because bigger) 
-3. Or 2300gp worth of Marquisian gold bars, which are going to be really hard to sell as they have a logo pressed into them from House Sherome.
+3. Or 2300gp worth of Marquisian gold bars, which are going to be really hard to sell as they have a logo pressed into them from House Sherome
 
 [[Mallory Calder|Mal]] is familiar with the name of House Sherome, which is a noble family that isn’t native to Nicodranas. The head of the family is a wealthy business woman and there are rumours of her buying up old plots / houses in [[Nicodranas]] now that the city has returned from Avernus, subletting these places for outrageous amounts of money. 
 
@@ -15,7 +15,7 @@ Remmi shares that he’s familiar with two options for smuggling items into the 
 
 When it comes to people who would be interested in buying their goods, he knows of a Mister Primewater, though it’s not someone he’s personally too familiar with. Mallory recognises this name, knowing the man’s full name to be Gellan Primewater. He is originally from Nicodranas, moved away, but came back after Nicodranas returned from Avernus. She knows this name because he was previously stationed out of [[Port Damali]]. 
 
-As they continue discussing Nicodranas, Doloris shares she knows of a way into the city by sea, through a temple of Melora. This would potentially mean they can avoid the harbour, which would mean they don’t have to pay the 40% Nicodranas taxes.       
+As they continue discussing Nicodranas, Doloris shares she knows of a way into the city by sea, through a temple of Melora. This would potentially mean they can avoid the harbour, which would mean they don’t have to pay the 40% Nicodranas taxes. But they would have to dock first to find the contact before continuing on to smuggle the payload to the temple. This might be deemed suspicious e
 
 The crew eventually decides to go with the ale and to try and legitimately sell this cargo, hoping to make connections in Nicodranas when they get there so they can consider more illicit dealings later on. With this decision made, they have some more drinks, mingling with the other pirates at the bar, who they learn are the crew of the Dragon Fang, captained by Captain Laskillar. They’re the ones who collect the cargos that other pirates can then pick up here. 
 
