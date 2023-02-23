@@ -14,7 +14,7 @@
 	- 2300gp gold bars from Marquet, logo pressed in of House Sherome
 - We ask [[Remmi Rattlebones]] for contacts in [[Nicodranas]]
 	- Family Candlehollow, run a funeral service, smuggle through casket
-	- Sell it to Mr. Gallin Primewater, older gentleman, well off
+	- Sell it to Mr. Gellan Primewater, older gentleman, well off
 - We decide to go with the ale to go legit for now and sell that to the [[Clovis Concord]] to keep us out of suspicion for now, which allows us to scout Nicodranas with a low profile
 - We do a cannon drill on the way to the [[Twinward Isles]], [[Rayna Khatri|Rayna]] helps out with manning the third crew
 - [[Mallory Calder|Mallory]] trains with [[Bartholomew Brittlestone|Bartholomew]] on forging documents, trying to improve the documents for the ale
