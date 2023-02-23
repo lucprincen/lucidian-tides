@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8fc10d4feea0d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/1 - Twinward Ambush.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8ec0d3a4210f3dd",
+  "active": "a8fc10d4feea0d50",
   "lastOpenFiles": [
-    "2. Locations/Lucidian Ocean/The Gravid Archipelago.md",
     "Sessions/1 - Twinward Ambush.md",
+    "2. Locations/Lucidian Ocean/The Gravid Archipelago.md",
     "Session list.md",
     "Sessions/Bartholomew.md",
     "1. People/The Party/Mallory Calder.md",
