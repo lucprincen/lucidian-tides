@@ -1,1 +1,0 @@
-Main guard of the [[Clovis Concord]].

@@ -1,0 +1,1 @@
+![[Pasted image 20230223081603.png]]Main guard of the [[Clovis Concord]]. No uniform clothing, although they do tend to wear fabrics in various blue and green hues. Encountered some on The Relentless.
