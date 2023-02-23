@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "748d879952e4d3d8",
+        "id": "a355386728974576",
         "type": "tabs",
         "children": [
           {
-            "id": "50be48e3e0eea810",
+            "id": "c8ec0d3a4210f3dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/1 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3b072e02b1f7777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/1 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/1 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/1 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sessions/1 - Session 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3b072e02b1f7777",
+  "active": "c8ec0d3a4210f3dd",
   "lastOpenFiles": [
+    "Sessions/1 - Session 1.md",
     "1. People/Clovis Concord/Zhelezo.md",
     "0. Assets/Pasted image 20230223081603.png",
-    "Sessions/1 - Session 1.md",
     "Misc/Ship Roles/First Gunner.md",
     "2. Locations/Menagerie Coast/Nicodranas.md",
     "0. Assets/Locations/Nicodranas.png",
