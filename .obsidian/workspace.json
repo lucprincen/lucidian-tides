@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. People/Lucidian Ocean/‘Ole Thick.md",
+                "file": "1. Characters/Clovis Concord/Zhelezo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. People/Lucidian Ocean/‘Ole Thick.md",
+                "file": "1. Characters/Clovis Concord/Zhelezo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. People/Lucidian Ocean/‘Ole Thick.md",
+                "file": "1. Characters/Clovis Concord/Zhelezo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. People/Lucidian Ocean/‘Ole Thick.md"
+                "file": "1. Characters/Clovis Concord/Zhelezo.md"
               }
             }
           }
@@ -146,45 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8ec0d3a4210f3dd",
+  "active": "da2b65103e37cd2f",
   "lastOpenFiles": [
-    "1. People/The Party/T'hau.md",
-    "1. People/The Party/Rayna Khatri.md",
-    "1. People/The Party/Mallory Calder.md",
-    "1. People/The Party/Doloris.md",
-    "1. People/The Party/Bartholomew Brittlestone.md",
-    "1. People/Serpent's Tide Crew/Remmi Rattlebones.md",
-    "1. People/Serpent's Tide Crew/Odell Blackmoore.md",
-    "1. People/Serpent's Tide Crew/Julnar Norra.md",
-    "1. People/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
-    "1. People/Serpent's Tide Crew/Big Neela.md",
+    "0. Assets/Characters/zhelezo.png",
+    "1. Characters/Lucidian Ocean/‘Ole Thick.md",
+    "1. Characters/The Party/T'hau.md",
+    "1. Characters/The Party/Rayna Khatri.md",
+    "1. Characters/The Party/Mallory Calder.md",
+    "1. Characters/The Party/Doloris.md",
+    "1. Characters/The Party/Bartholomew Brittlestone.md",
+    "1. Characters/Serpent's Tide Crew/Remmi Rattlebones.md",
+    "1. Characters/Serpent's Tide Crew/Odell Blackmoore.md",
+    "1. Characters/Serpent's Tide Crew/Julnar Norra.md",
+    "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
+    "1. Characters/Serpent's Tide Crew/Big Neela.md",
     "Sessions/1 - Twinward Ambush.md",
     "2. Locations/Lucidian Ocean/The Gravid Archipelago.md",
     "Session list.md",
     "Sessions/Bartholomew.md",
     "Sessions/1 - Session 1.md",
-    "1. People/Clovis Concord/Zhelezo.md",
-    "0. Assets/Pasted image 20230223081603.png",
+    "1. Characters/Clovis Concord/Zhelezo.md",
     "Misc/Ship Roles/First Gunner.md",
     "2. Locations/Menagerie Coast/Nicodranas.md",
     "0. Assets/Locations/Nicodranas.png",
-    "1. People/Clovis Concord/Commander Blasco.md",
+    "1. Characters/Clovis Concord/Commander Blasco.md",
     "0. Assets/Characters/commander-blasco.png",
-    "1. People/Clovis Concord",
+    "1. Characters/Clovis Concord",
     "0. Assets/Misc/First Gunner.jpg",
     "0. Assets/Pasted image 20230222205101.png",
     "0. Assets/Pasted image 20230222205104.png",
     "0. Assets/Misc",
     "Misc/Ship Roles",
     "Misc",
-    "1. People/Lucidian Ocean/‘Ole Thick.md",
     "0. Assets/Characters/ole-thick.png",
     "Sessions/0 - The Serpent's Tide gets her crew.md",
     "0. Assets/Locations/gravid-archipelago.png",
     "2. Locations/Darktow Isle/Flotsam Court.md",
     "Home.md",
-    "1. People/People.md",
-    "2. Locations/Locations.md",
-    "2. Locations/Darktow Isle/Darktow.md"
+    "1. Characters/People.md",
+    "2. Locations/Locations.md"
   ]
 }
