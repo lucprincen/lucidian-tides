@@ -16,6 +16,10 @@ Doloris speaks to Obaya, Obaya was invited to head to Port Damali. Obaya doesn't
 
 Doloris spots the cook acting a bit strangely, positioning himself between Doloris and Obaya and something he is packing up. Obaya says she doesn't really know the cook herself, but he was better company than some of the Zhelezo. Obaya asks if the ship still goes to Port Damali, but Doloris denies that. Obaya asks if we are willing to drop her off in Port Zoon, or if she is property of [[The Revelry]] now.
 
-We take her upstairs to the captain to ask what we should do with her
+We take her upstairs to the captain to ask what we should do with her. Eventually we decide it's best if we take her to Nicodranas, as Port Zoon has a high Concord activity.
 
-Box contains a vial with a blue liquid, has a necklace tied to the stopper. A note lies next to the box. Bartholomew opens the note and finds some magical markings, symbols and runes on it. Contains celestial symbols. 
+Box contains a vial with a blue liquid, has a necklace tied to the stopper. A note lies next to the box. Bartholomew opens the note and finds some magical markings, symbols and runes on it. Contains celestial symbols. [[Doloris]] and [[Mallory Calder|Mal]] both seem to recognize something. Doloris notes that the symbols relate to the WildMother, but also sees symbols of the Moon from Avandra. [[Mallory Calder|Mal]] notes that a symbol of fire in the middle with thorny branches might be related to the Ki'Nau. 
+
+Chef tells he is the son of the marquis of Port Zoon, can't tell who he is supposed to delivering the box to. We decide to take the box with us and send Lorenzo on to Port Damali with empty hands.
+
+Back on [[The Serpent's Tide]], the captain asks for Stormbreaker to come into their cabin. Captain asks about their involvement in the Concord, why the defected. Stormbreaker tells it might feel a bit like a trap. Otherwise, Stormbreaker isn't sure what information might help. Captain tells that our main mission is to keep Nicodranas open to Revelry business. Anything that Stormbreaker knows that might help, would be welcome. Stormbreaker tells they're building a few new ships, because of the Revelry. Might be warships, designed to fight. Implies the high taxes are being used to fund the construction of the ships. Captain mentions that the taxes the Revelry takes isn't being used at least for funding endeavours that the people don't believe in, in contrary to the Concord.
