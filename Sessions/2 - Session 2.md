@@ -16,3 +16,6 @@ Doloris speaks to Obaya, Obaya was invited to head to Port Damali. Obaya doesn't
 
 Doloris spots the cook acting a bit strangely, positioning himself between Doloris and Obaya and something he is packing up. Obaya says she doesn't really know the cook herself, but he was better company than some of the Zhelezo. Obaya asks if the ship still goes to Port Damali, but Doloris denies that. Obaya asks if we are willing to drop her off in Port Zoon, or if she is property of [[The Revelry]] now.
 
+We take her upstairs to the captain to ask what we should do with her
+
+Box contains a vial with a blue liquid, has a necklace tied to the stopper. A note lies next to the box. Bartholomew opens the note and finds some magical markings, symbols and runes on it. Contains celestial symbols. 

@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ccc6d7294fd86d25",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0. Assets/Locations/menagerie-coast.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Assets/Locations/menagerie-coast.png",
+                "file": "Sessions/2 - Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Assets/Locations/menagerie-coast.png",
+                "file": "Sessions/2 - Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Assets/Locations/menagerie-coast.png"
+                "file": "Sessions/2 - Session 2.md"
               }
             }
           }
@@ -157,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccc6d7294fd86d25",
+  "active": "a6021454eff8071d",
   "lastOpenFiles": [
-    "Sessions/2 - Session 2.md",
     "0. Assets/Locations/menagerie-coast.png",
+    "Sessions/2 - Session 2.md",
     "Sessions/1 - Twinward Ambush.md",
     "1. Characters/lucidian-ocean.md",
     "1. Characters/People.md",
