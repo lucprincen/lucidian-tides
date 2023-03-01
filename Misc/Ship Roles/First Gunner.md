@@ -1,7 +1,7 @@
 ![[First Gunner.jpg]]
 
 **Drill checks successful**
-1 / 10
+2 / 10
 
 **Cannon balls + black powder**
-86 shots left worth of black powder
+80 shots left worth of black powder
