@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a355386728974576",
+        "id": "b3351cfb4ad4ba55",
         "type": "tabs",
         "children": [
           {
-            "id": "c8ec0d3a4210f3dd",
+            "id": "a6021454eff8071d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Characters/Clovis Concord/Zhelezo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Characters/Clovis Concord/Zhelezo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Characters/Clovis Concord/Zhelezo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Characters/Clovis Concord/Zhelezo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da2b65103e37cd2f",
+  "active": "a6021454eff8071d",
   "lastOpenFiles": [
+    "1. Characters/lucidian-ocean.md",
+    "1. Characters/People.md",
+    "1. Characters/Clovis Concord/Zhelezo.md",
     "0. Assets/Characters/zhelezo.png",
     "1. Characters/Lucidian Ocean/‘Ole Thick.md",
     "1. Characters/The Party/T'hau.md",
@@ -165,7 +160,6 @@
     "Session list.md",
     "Sessions/Bartholomew.md",
     "Sessions/1 - Session 1.md",
-    "1. Characters/Clovis Concord/Zhelezo.md",
     "Misc/Ship Roles/First Gunner.md",
     "2. Locations/Menagerie Coast/Nicodranas.md",
     "0. Assets/Locations/Nicodranas.png",
@@ -183,7 +177,6 @@
     "0. Assets/Locations/gravid-archipelago.png",
     "2. Locations/Darktow Isle/Flotsam Court.md",
     "Home.md",
-    "1. Characters/People.md",
     "2. Locations/Locations.md"
   ]
 }
