@@ -50,3 +50,7 @@ A second salvo of shots causes the merchant's ship's rudder to be shot to pieces
 We decide to only take the spices and leave the palm leaves for the merchant ship.
 
 Stormbreaker reveals after the battle that he was reprimanded because he didn't fire at an unarmed vessel, refusing orders to sink a ship and kill everyone on it. He seems doubtful at our motives. Captain chimes in and tells that Stormbreaker revealed that there is a vault containing a massive load of gold intended for the construction of a warfleet.
+
+After two more days, we sail into Nicodranas' port, specifically the Restless Wharf. Dockmaster Ironbeard meets us on deck, looking to inspect our cargo. Looks closely at the forged documents, but deems them fine. Names a few options to sell the cargo to.
+
+We spot a poster mentioning Tamulia, performing at an inn.
