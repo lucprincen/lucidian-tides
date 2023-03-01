@@ -35,7 +35,7 @@ After the two days pass, Neela returns to the ship, alerting everyone that sheâ€
 
 On board, we see a [[Clovis Concord]] commander, captain, crew and a Zhelezo lieutenant with  some guards. The commander grabs his sword and pistol as soon as he sees us. We focus on the commander and lieutenant first and manage to knock the commander unconscious. We kill the [[Zhelezo]] lieutenant on deck, after he manages to shout at the Zhelezo to run downstairs towards the prisoners. [[Mallory Calder|Mal]] and [[Bartholomew Brittlestone|Bartholomew]] follow the Zhelezo guard downstairs.
 
-[[T'hau]] runs up to the captain to tell the deckhands to back off the cannons, as [[The Serpent's Tide]] is about to pass by The Relentless. Not immediately backing down, T'hau attacks the captain to show they mean business, and this finally gets the crew to back away. Afterwards, T'hau follows Mal and Bartholomew below deck.
+[[T'hau]] runs up to the captain to tell the deckhands to back off the cannons, as [[2. Locations/Darktow Isle/The Serpent's Tide]] is about to pass by The Relentless. Not immediately backing down, T'hau attacks the captain to show they mean business, and this finally gets the crew to back away. Afterwards, T'hau follows Mal and Bartholomew below deck.
 
 [[Rayna Khatri|Rayna]] and [[Doloris]] keep the deck situation under control, fighting off the remaining Zhelezo and rounding up the crew on deck.
 

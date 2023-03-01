@@ -5,4 +5,4 @@ aliases: Mallory, Mal
 
 Class: Blood Hunter
 
-Master Rigger of [[The Serpent's Tide]]
+Master Rigger of [[2. Locations/Darktow Isle/The Serpent's Tide]]

@@ -5,4 +5,4 @@ aliases: Rayna
 
 Class: Druid
 
-Alchemist of [[The Serpent's Tide]]
+Alchemist of [[2. Locations/Darktow Isle/The Serpent's Tide]]

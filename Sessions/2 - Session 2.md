@@ -22,7 +22,7 @@ Box contains a vial with a blue liquid, has a necklace tied to the stopper. A no
 
 Chef tells he is the son of the marquis of Port Zoon, can't tell who he is supposed to delivering the box to. We decide to take the box with us and send Lorenzo on to Port Damali with empty hands.
 
-Back on [[The Serpent's Tide]], the captain asks for Stormbreaker to come into their cabin. Captain asks about their involvement in the Concord, why the defected. Stormbreaker tells it might feel a bit like a trap. Otherwise, Stormbreaker isn't sure what information might help. Captain tells that our main mission is to keep Nicodranas open to Revelry business. Anything that Stormbreaker knows that might help, would be welcome. Stormbreaker tells they're building a few new ships, because of the Revelry. Might be warships, designed to fight. Implies the high taxes are being used to fund the construction of the ships. Captain mentions that the taxes the Revelry takes isn't being used at least for funding endeavours that the people don't believe in, in contrary to the Concord.
+Back on [[2. Locations/Darktow Isle/The Serpent's Tide]], the captain asks for Stormbreaker to come into their cabin. Captain asks about their involvement in the Concord, why the defected. Stormbreaker tells it might feel a bit like a trap. Otherwise, Stormbreaker isn't sure what information might help. Captain tells that our main mission is to keep Nicodranas open to Revelry business. Anything that Stormbreaker knows that might help, would be welcome. Stormbreaker tells they're building a few new ships, because of the Revelry. Might be warships, designed to fight. Implies the high taxes are being used to fund the construction of the ships. Captain mentions that the taxes the Revelry takes isn't being used at least for funding endeavours that the people don't believe in, in contrary to the Concord.
 
 On the way to Nicodranas, Mal and Doloris work together on the scroll to try and decipher. They start to understand that it's both a calendar and a map, depicting the stars and passage of a moon. Pointing to a location where the sky is at a certain point in a certain time. Vial has something to do with it, but not sure what yet. Some divination magic, appears not to be for drinking.
 
@@ -37,6 +37,16 @@ Thau's dream:
 - vision stays black for, minutes, hours, days
 - remember the face was important, but not who
 
-Doloris spots sails on the horizon, a merchant ship. Ship looks like it's made in Marquet, tripoint sails, fairly big. It's not up to full capacity, but that's not very unusual, as ships tend to sometimes visit multiple ports to find cargo to sell back at home.
+Doloris spots sails on the horizon, a merchant ship. Ship looks like it's made in Marquet, tri-point sails, fairly big. It's not up to full capacity, but that's not very unusual, as ships tend to sometimes visit multiple ports to find cargo to sell back at home.
 
-We discuss among ourselves and decide to go after the vessel and see if we can loot some additional cargo. Mal tries to signal the ship that we need help, but it seems they don't believe us and tack away. We ready ourselves for pursuit
+We discuss among ourselves and decide to go after the vessel and see if we can loot some additional cargo. Mal tries to signal the ship that we need help, but it seems they don't believe us and tack away. We ready ourselves for pursuit. Manoeuvering besides the ship, we fire the cannons to the waterline, as suggested by Bartholomew. Rayna tries to burn the sails again, and a sail catches fire.
+
+We don't spot any cannons, but there are three large ballista. Two of them fire at us, hitting our hull from the side.
+
+A second salvo of shots causes the merchant's ship's rudder to be shot to pieces, disabling the manoeuverability of the ship. The captain of the ship calls for the crew to halt the ship and we eventually board the ship. We spot the ship's name is The Golden Dawn. Captain asks for the crew to remain unharmed. Checking the cargo, we find:
+- 2 bags of Marquesian spices, worth 500gp
+- Huge palm leaves that could be used to extract oil, worth 500gp
+
+We decide to only take the spices and leave the palm leaves for the merchant ship.
+
+Stormbreaker reveals after the battle that he was reprimanded because he didn't fire at an unarmed vessel, refusing orders to sink a ship and kill everyone on it. He seems doubtful at our motives. Captain chimes in and tells that Stormbreaker revealed that there is a vault containing a massive load of gold intended for the construction of a warfleet.
