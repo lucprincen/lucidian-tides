@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ccc6d7294fd86d25",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "0. Assets/Locations/menagerie-coast.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2 - Session 2.md",
+                "file": "0. Assets/Locations/menagerie-coast.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2 - Session 2.md",
+                "file": "0. Assets/Locations/menagerie-coast.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2 - Session 2.md"
+                "file": "0. Assets/Locations/menagerie-coast.png"
               }
             }
           }
@@ -146,10 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6021454eff8071d",
+  "active": "ccc6d7294fd86d25",
   "lastOpenFiles": [
-    "Sessions/1 - Twinward Ambush.md",
     "Sessions/2 - Session 2.md",
+    "0. Assets/Locations/menagerie-coast.png",
+    "Sessions/1 - Twinward Ambush.md",
     "1. Characters/lucidian-ocean.md",
     "1. Characters/People.md",
     "1. Characters/Clovis Concord/Zhelezo.md",
@@ -184,7 +196,6 @@
     "0. Assets/Characters/ole-thick.png",
     "Sessions/0 - The Serpent's Tide gets her crew.md",
     "0. Assets/Locations/gravid-archipelago.png",
-    "2. Locations/Darktow Isle/Flotsam Court.md",
-    "Home.md"
+    "2. Locations/Darktow Isle/Flotsam Court.md"
   ]
 }
