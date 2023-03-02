@@ -26,7 +26,7 @@ Back on [[2. Locations/Darktow Isle/The Serpent's Tide]], the captain asks for S
 
 On the way to Nicodranas, Mal and Doloris work together on the scroll to try and decipher. They start to understand that it's both a calendar and a map, depicting the stars and passage of a moon. Pointing to a location where the sky is at a certain point in a certain time. Vial has something to do with it, but not sure what yet. Some divination magic, appears not to be for drinking.
 
-Rayna asks Bartholomew for a room to do some gardening. Bartholomew suggests the room where we keep the cannon balls and black powder, but T'hau isn't too keen on letting a fire genasi with a flammable gecko on their should near the barrels.
+Rayna asks Bartholomew for a room to do some gardening. Bartholomew suggests the room where we keep the cannon balls and black powder, but T'hau isn't too keen on letting a fire genasi with a flammable gecko on their should near the powder room.
 
 Thau's dream:
 - they're sinking
