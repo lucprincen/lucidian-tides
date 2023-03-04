@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8cfebe11b8acc0dc",
+        "id": "9c2f078956c00b0e",
         "type": "tabs",
         "children": [
           {
-            "id": "2971ab9c13bbed29",
+            "id": "7328eb6fe75b0a49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Party.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Party.md"
+              }
             }
           }
         ]
@@ -138,8 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2971ab9c13bbed29",
+  "active": "7328eb6fe75b0a49",
   "lastOpenFiles": [
+    "Sessions/2 - A Defector's Decency.md",
+    "1. Characters/The Party/Bartholomew Brittlestone.md",
+    "Sessions/0 - The Serpent's Tide gets her crew.md",
     "2. Locations/Darktow Isle/The Keel Hall.md",
     "1. Characters/The Party/T'hau.md",
     "1. Characters/The Party/Rayna Khatri.md",
@@ -147,10 +157,7 @@
     "1. Characters/The Party/Doloris.md",
     "2. Locations/Darktow Isle/The Serpent's Tide.md",
     "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
-    "1. Characters/The Party/Bartholomew Brittlestone.md",
-    "Sessions/0 - The Serpent's Tide gets her crew.md",
     "Session list.md",
-    "Sessions/2 - A Defector's Decency.md",
     "3. Factions/Clovis Concord.md",
     "1. Characters/Nicodranas/Tamulia.md",
     "Sessions/Bartholomew.md",
