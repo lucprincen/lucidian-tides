@@ -2,4 +2,4 @@
 
 Class: Cleric
 
-Navigator of [[2. Locations/Darktow Isle/The Serpent's Tide]]
+Navigator of [[The Serpent's Tide]]

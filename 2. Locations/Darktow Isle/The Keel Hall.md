@@ -1,1 +1,1 @@
-![[the-keel-hall.png]]Tavern in [[Darktow]]. The party first met here to hire some new crew for [[2. Locations/Darktow Isle/The Serpent's Tide]] to go on its very first mission.
+![[the-keel-hall.png]]Tavern in [[Darktow]]. The party first met here to hire some new crew for [[The Serpent's Tide]] to go on its very first mission.

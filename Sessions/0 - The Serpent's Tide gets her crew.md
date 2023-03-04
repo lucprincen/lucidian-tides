@@ -1,4 +1,4 @@
- The adventure begins in [[Darktow]], a town of pirates on the island of the same name, Darktow Isle. The island is run by a pirate organisation calling themselves [[The Revelry]]. Recently, construction finished on the first ship coming out of Darktow's own shipyard, which has been named [[2. Locations/Darktow Isle/The Serpent's Tide]].
+The adventure begins in [[Darktow]], a town of pirates on the island of the same name, Darktow Isle. The island is run by a pirate organisation calling themselves [[The Revelry]]. Recently, construction finished on the first ship coming out of Darktow's own shipyard, which has been named [[The Serpent's Tide]].
 
 [[Captain Cassian Sariel de Rochefort|Captain Sariel]] and his quartermaster [[Bartholomew Brittlestone]] are summoned to [[Flotsam Court]] by the [[Plank Queen Yucalia]]. Yucalia briefs them on a new mission: intercept the prisoner transport of a [[Clovis Concord]] defector and free them. The ship is they're being transported on is called The Relentless. Afterwards, we should sail on to meet with [[Tamulia]] in [[Nicodranas]], and find a way to keep the port open for Revelry business.
 

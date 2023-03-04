@@ -4,4 +4,4 @@
 
 Class: Fighter
 
-First Gunner of [[2. Locations/Darktow Isle/The Serpent's Tide]]
+First Gunner of [[The Serpent's Tide]]
