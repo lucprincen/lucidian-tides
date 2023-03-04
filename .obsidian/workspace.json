@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "344d6cf5988be65c",
+        "id": "8c4c5b50a4712816",
         "type": "tabs",
         "children": [
           {
-            "id": "84ed4ae5ce91f4ba",
+            "id": "62cc0ef017b2a488",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Sessions/2 - Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d256327c4e84a47e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Characters/Nicodranas/Obaya.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,11 +145,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84ed4ae5ce91f4ba",
+  "active": "62cc0ef017b2a488",
   "lastOpenFiles": [
-    "1. Characters/Nicodranas/Obaya.md",
-    "0. Assets/Characters/obaya.png",
+    "Sessions/Bartholomew.md",
     "Sessions/2 - Session 2.md",
+    "3. Factions/Golden Chain.md",
+    "1. Characters/Nicodranas/Obaya.md",
+    "3. Factions/The Revelry.md",
+    "Sessions/Revelry.md",
+    "3. Factions/Clovis Concord.md",
+    "1. Characters/The Party/Stormbreaker.md",
+    "1. Characters/The Party/T'hau.md",
+    "0. Assets/Characters/stormbreaker.png",
+    "0. Assets/Characters/obaya.png",
     "1. Characters/Gravid Archipelago/‘Ole Thick.md",
     "1. Characters/People.md",
     "1. Characters/Gravid Archipelago",
@@ -173,7 +169,6 @@
     "Misc/Ship Roles/First Gunner.md",
     "Misc/Ship Roles/The Serpent's Tide - Ship.md",
     "0. Assets/Misc/First Gunner.jpg",
-    "1. Characters/The Party/T'hau.md",
     "0. Assets/Locations/the-serpents-tide.png",
     "0. Assets/Locations/menagerie-coast.png",
     "1. Characters/lucidian-ocean.md",
@@ -186,16 +181,10 @@
     "1. Characters/Serpent's Tide Crew/Remmi Rattlebones.md",
     "1. Characters/Serpent's Tide Crew/Odell Blackmoore.md",
     "1. Characters/Serpent's Tide Crew/Julnar Norra.md",
-    "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
-    "1. Characters/Serpent's Tide Crew/Big Neela.md",
-    "2. Locations/Lucidian Ocean/The Gravid Archipelago.md",
-    "Session list.md",
-    "Sessions/Bartholomew.md",
     "0. Assets/Locations/nicodranas-map.png",
     "0. Assets/Characters/commander-blasco.png",
     "1. Characters/Clovis Concord",
     "0. Assets/Pasted image 20230222205101.png",
-    "0. Assets/Pasted image 20230222205104.png",
     "0. Assets/Misc",
     "Misc/Ship Roles",
     "Misc"

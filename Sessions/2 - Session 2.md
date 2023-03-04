@@ -8,7 +8,7 @@
 
 [[Mallory Calder|Mal]] and [[T'hau]] open the toilet and find an unusually large man with their arms and legs in chains. [[Bartholomew Brittlestone|Bartholomew]] starts working on the manacles around his ankles, and T'hau picks them up to reach the manacles up high around his wrists. 
 
-As soon as he is freed, he wants to find the commander and ask about someone called Sheila. Walking over to the cells where the Zhelezo are locked up, the freed prisoner demands that they tell him what they did to Sheila. The commander wakes up and sees the large man angrily talking to him. The commander points to a door leading to the armoury, and the man walks off to investigate. Rummaging through a few crates, he finally emerges with a large maul in his hands, revealing that Sheila isn't a someone, it's their maul. He introduces himself as [[Stormbrea]]
+As soon as he is freed, he wants to find the commander and ask about someone called Sheila. Walking over to the cells where the Zhelezo are locked up, the freed prisoner demands that they tell him what they did to Sheila. The commander wakes up and sees the large man angrily talking to him. The commander points to a door leading to the armoury, and the man walks off to investigate. Rummaging through a few crates, he finally emerges with a large maul in his hands, revealing that Sheila isn't a someone, it's their maul. He introduces himself as [[Stormbreaker]], a defector from the [[Clovis Concord]] that got caught and taken prisoner.
 
 [[Doloris]] speaks to [[Obaya]], Obaya was invited to head to [[Port Damali]]. Obaya doesn't really know what the invitation is about, but she is a bit curious to find out why. Invited by the Grand Admiral. She tells Doloris that if someone gets an invitation from the [[Clovis Concord]], you don't usually ignore it.
 
@@ -16,36 +16,39 @@ As soon as he is freed, he wants to find the commander and ask about someone cal
 
 We take her upstairs to [[Captain Cassian Sariel de Rochefort|Captain Sariel]] to ask what we should do with her. Eventually we decide it's best if we take her to [[Nicodranas]], as [[Port Zoon]] has a high Concord activity and is a bit of a detour for us.
 
+[[Captain Cassian Sariel de Rochefort|Captain Sariel]] speaks to Mr. Donahue in the meanwhile, promising command of the ship to him.
+
 As gather on the upper deck, we spot that Lorenzo is trying to sneak by us carrying a small ornate box under his arms. Lorenzo beats around the question what the box contains or who it is for, so we demand it off of him to investigate. [[Bartholomew Brittlestone|Bartholomew]] starts working the lock on the box but has a bit of trouble with it. After a few attempts he manages to unlock it, but by doing so, he triggers a magical trap. Suddenly, Bartholomew is attacked by a large blue magical hand. A short fight ensues where we defeat the hand and it dissipates in a fizzle of arcane energy.
 
-Inspecting the box, we find it contains a vial with a blue liquid, which has a necklace tied to the stopper. A note lies next to the box. [[Bartholomew Brittlestone|Bartholomew]] opens the note and finds some magical markings, symbols and runes on the note. [[Doloris]] and [[Mallory Calder|Mal]] both seem to recognise some of the symbols. Doloris notes that the symbols relate to the Wildmother, but also sees symbols of the moon which are tied to Avandra the Changebringer. [[Mallory Calder|Mal]] notes that a symbol of fire in the middle with thorny branches might be related to the Ki'Nau. 
+Inspecting the box, we find it contains a vial with a blue liquid, which has a necklace tied to the stopper. A note lies next to the box. [[Bartholomew Brittlestone|Bartholomew]] opens the note and finds some magical markings, symbols and runes on the note. [[Doloris]] and [[Mallory Calder|Mal]] both seem to recognise some of the strange symbols, and tell that the symbols look arcane and divine in nature. Doloris notes that some symbols relate to the Wildmother, but also spots other symbols of the moon which are tied to Avandra the Changebringer. [[Mallory Calder|Mal]] notes that a symbol of fire in the middle with thorny branches might be related to the Ki'Nau. [[Doloris]] and [[Mallory Calder|Mal]] think they might be able to make a proper translation or interpretation, given a few days time.
 
-Questioning Lorenzo about the box and its contents, he eventually tells he is the son of the marquis of Port Zoon. Says he can't tell who he is supposed to delivering the box to. We decide to take the box with us and send Lorenzo on to Port Damali with the remaining Zhelezo with empty hands. They will have to row the rest of the way in a few dinghies.
+Questioning Lorenzo about the box and its contents, he eventually tells he is the son of the marquis of [[Port Zoon]]. Says he can't tell who he is supposed to delivering the box to. We decide to take the box with us and send Lorenzo on to [[Port Damali]] with the remaining [[Zhelezo]] with empty hands. They will have to row the rest of the way in a few dinghies.
 
-Back on [[The Serpent's Tide]], [[Captain Cassian Sariel de Rochefort|Captain Sariel]] asks for Stormbreaker to come into their cabin. Captain asks about their involvement in the Concord, why the defected. Stormbreaker tells it might feel a bit like a trap. Otherwise, Stormbreaker isn't sure what information might help. Captain tells that our main mission is to keep Nicodranas open to Revelry business. Anything that Stormbreaker knows that might help, would be welcome. Stormbreaker tells they're building a few new ships, because of the Revelry. Might be warships, designed to fight. Implies the high taxes are being used to fund the construction of the ships. Captain mentions that the taxes the Revelry takes isn't being used at least for funding endeavours that the people don't believe in, in contrary to the Concord.
+After having dealt with all of that, we get back on [[The Serpent's Tide]] and continue our journey towards [[Nicodranas]]. A short while later, [[Captain Cassian Sariel de Rochefort|Captain Sariel]] asks for [[Stormbreaker]] to come into their cabin and asks about his involvement in the Concord and why he defected. [[Stormbreaker]] reveals that he captained one of the [[Clovis Concord|Concord]]'s ships and one day was given orders that he didn't agree with; firing upon an unarmed civilian vessel with the intent of killing them all. He didn't follow through with those orders, and as such, was punished for the crime of ignoring orders.
 
-On the way to Nicodranas, Mal and Doloris work together on the scroll to try and decipher. They start to understand that it's both a calendar and a map, depicting the stars and passage of a moon. Pointing to a location where the sky is at a certain point in a certain time. Vial has something to do with it, but not sure what yet. Some divination magic, appears not to be for drinking.
+The conversation then turns to the [[Golden Chain]], a mercenary company that was initially hired to keep Nicodranas safe after it first returned from Avernus. The captain says he’s heard they’re nastier than the [[Zhelezo]] and he expects more trouble from the Golden Chain than he does from the local Zhelezo. [[Stormbreaker]] says he isn’t sure why they’re even still around.
 
-Rayna asks Bartholomew for a room to do some gardening. Bartholomew suggests the room where we keep the cannon balls and black powder, but T'hau isn't too keen on letting a fire genasi with a flammable gecko on their should near the powder room.
+Otherwise, [[Stormbreaker]] isn't sure what information might help. [[Captain Cassian Sariel de Rochefort|Captain Sariel]] tells him that our main mission is to keep [[Nicodranas]] open to [[The Revelry|Revelry]] business. Anything that Stormbreaker knows that might help, would be welcome. Stormbreaker tells they're building a few new ships, because of [[The Revelry]]. He thinks they might be warships, designed to fight. Implies the [[Clovis Concord|Concord]]'s high taxes are being used to fund the construction of these ships. He further shares that the funds for these ships are in the Golden Chain vaults in Nicodranas. Captain mentions that the taxes the Revelry takes isn't being used at least for funding endeavours that the people don't believe in, in contrary to the Concord.
 
-Thau's dream:
-- they're sinking
-- spot female face in the moonlight in the water
-- tries to swim towards me, but not fast enough, she grows smaller as she fades in the distance
-- lose her eventually
-- last thing I hear is a scream
-- vision stays black for, minutes, hours, days
-- remember the face was important, but not who
+On the way to [[Nicodranas]], [[Mallory Calder|Mal]] and [[Doloris]] work together on the scroll to try and decipher the symbols and marking. They are beginning to to understand that it's both a calendar and a map, depicting the stars and passage of a moon. Might be pointing to a location where the sky is at a certain point in a certain time. The vial has something to do with all of this, but they are not sure yet how it ties to the symbols. The liquid in the vial seems to bear some divination magic, but appears not to be for drinking, but for a different purpose.
 
-Doloris spots sails on the horizon, a merchant ship. Ship looks like it's made in Marquet, tri-point sails, fairly big. It's not up to full capacity, but that's not very unusual, as ships tend to sometimes visit multiple ports to find cargo to sell back at home.
+[[Rayna Khatri|Rayna]] asks [[Bartholomew Brittlestone|Bartholomew]] for a room to do some gardening. Bartholomew suggests powder room, but T'hau isn't too keen on letting a fire genasi with a flammable gecko on their should near the powder room. Bartholomew finally appoints the broom closest to [[Rayna Khatri|Rayna]].
 
-We discuss among ourselves and decide to go after the vessel and see if we can loot some additional cargo. Mal tries to signal the ship that we need help, but it seems they don't believe us and tack away. We ready ourselves for pursuit. Manoeuvering besides the ship, we fire the cannons to the waterline, as suggested by Bartholomew. Rayna tries to burn the sails again, and a sail catches fire.
+After three days of travel, [[T'hau]] has a dream. They’re sinking, nothing they can do about it, swallowed by the cold dark. There’s a female face in the moonlight, eyes growing large as she notices T'hau. The female figure starts swimming down towards them, but she’s not fast enough, getting smaller as it grows colder and darker still. T'hau tries to fight the current, but they know its pointless. They hear a muffled scream in the distance, and then their vision goes black for a long time. Feels like days, months, an eternity.
 
-We don't spot any cannons, but there are three large ballista. Two of them fire at us, hitting our hull from the side.
+Eventually, they wake, noting that this dream felt different than the others. They sneak out onto the deck to clear their head. Having noted the absence of their echo when they wake up, [[T'hau]] tries to summon it onto the deck, but nothing strange can be seen. Then T'hau tries to recall the face of the woman from their dreams, but their memories are such a mess that they can’t recall. All they know is that she was important.
 
-A second salvo of shots causes the merchant's ship's rudder to be shot to pieces, disabling the manoeuverability of the ship. The captain of the ship calls for the crew to halt the ship and we eventually board the ship. We spot the ship's name is The Golden Dawn. Captain asks for the crew to remain unharmed. Checking the cargo, we find:
+On day four, [[Doloris]] spots sails on the horizon, a merchant ship called The Golden Dawn. Ship looks like it's made in Marquet, a fairly big vessel with tripoint sails. Doloris notes the ship is not up to its full capacity, but that's not very unusual, as ships tend to sometimes visit multiple ports to find cargo to sell back at home.
+
+We discuss among ourselves and decide to go after the vessel and see if we can loot some additional cargo. [[Mallory Calder|Mal]] tries to signal the ship that we need help, but it seems they don't buy into our deception and tack away from us. We ready ourselves for pursuit and start manoeuvering besides the ship. [[T'hau]] instructs the crew to fire the cannons where the ship meets waterline, as suggested by [[Bartholomew Brittlestone|Bartholomew]]. [[Rayna Khatri|Rayna]] tries to burn the sails again, and a sail catches fire.
+
+We don't spot any cannons, but there are three large ballista on the ship. Two of them fire at us, hitting our hull from the side.
+
+A second salvo of cannon shots causes the merchant's ship's rudder to be shot to pieces, disabling the manoeuverability of the ship. The captain of the merchant ship calls for the crew to halt the ship and we eventually board the ship. Captain asks for the crew to remain unharmed.
+
+Checking the ship's cargo, we find:
 - 2 bags of Marquesian spices, worth 500gp
-- Huge palm leaves that could be used to extract oil, worth 500gp
+- Huge palm leaves that could be used to extract oil, also worth 500gp
 
 We decide to only take the spices and leave the palm leaves for the merchant ship.
 
