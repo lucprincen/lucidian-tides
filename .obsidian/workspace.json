@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Party.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Party.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Party.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Party.md"
+                "file": "Misc/Ship Roles/First Gunner.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "7328eb6fe75b0a49",
   "lastOpenFiles": [
+    "The Party.md",
     "Sessions/2 - A Defector's Decency.md",
     "1. Characters/The Party/Bartholomew Brittlestone.md",
     "Sessions/0 - The Serpent's Tide gets her crew.md",
@@ -179,7 +180,6 @@
     "0. Assets/Misc/First Gunner.jpg",
     "0. Assets/Locations/the-serpents-tide.png",
     "0. Assets/Locations/menagerie-coast.png",
-    "1. Characters/lucidian-ocean.md",
     "0. Assets/Characters/zhelezo.png",
     "0. Assets/Locations/nicodranas-map.png",
     "0. Assets/Characters/commander-blasco.png",
