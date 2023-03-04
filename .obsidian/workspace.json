@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8c4c5b50a4712816",
+        "id": "61b711eaac62dfb8",
         "type": "tabs",
         "children": [
           {
-            "id": "62cc0ef017b2a488",
+            "id": "9f02ae237cfa154e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2 - Session 2.md",
+                "file": "Session list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb6a454b16335654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2 - A Defector's Decency.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2 - Session 2.md",
+                "file": "Sessions/2 - A Defector's Decency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2 - Session 2.md",
+                "file": "Sessions/2 - A Defector's Decency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2 - Session 2.md"
+                "file": "Sessions/2 - A Defector's Decency.md"
               }
             }
           }
@@ -145,15 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62cc0ef017b2a488",
+  "active": "bb6a454b16335654",
   "lastOpenFiles": [
+    "3. Factions/Clovis Concord.md",
+    "Sessions/2 - A Defector's Decency.md",
+    "Session list.md",
+    "1. Characters/Nicodranas/Tamulia.md",
     "Sessions/Bartholomew.md",
-    "Sessions/2 - Session 2.md",
     "3. Factions/Golden Chain.md",
     "1. Characters/Nicodranas/Obaya.md",
     "3. Factions/The Revelry.md",
     "Sessions/Revelry.md",
-    "3. Factions/Clovis Concord.md",
     "1. Characters/The Party/Stormbreaker.md",
     "1. Characters/The Party/T'hau.md",
     "0. Assets/Characters/stormbreaker.png",
@@ -179,8 +194,6 @@
     "1. Characters/The Party/Doloris.md",
     "1. Characters/The Party/Bartholomew Brittlestone.md",
     "1. Characters/Serpent's Tide Crew/Remmi Rattlebones.md",
-    "1. Characters/Serpent's Tide Crew/Odell Blackmoore.md",
-    "1. Characters/Serpent's Tide Crew/Julnar Norra.md",
     "0. Assets/Locations/nicodranas-map.png",
     "0. Assets/Characters/commander-blasco.png",
     "1. Characters/Clovis Concord",

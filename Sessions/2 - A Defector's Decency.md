@@ -1,4 +1,4 @@
-[[Bartholomew Brittlestone|Bartholomew]] opens all cells of the ship and frees all the remaining prisoners. More Revelry pirates come out of the cells. An orc by the name of Mr. Donahue is among them, says he was Mr. Higgins' first mate and was captured during the ambush that destroyed the ship and killed Mr. Higgins. Mr. Donahue says these pirates are what remain of Higgins' crew.
+[[Bartholomew Brittlestone|Bartholomew]] opens all cells on the lower deck and frees all the remaining prisoners. More Revelry pirates come out of the cells. An orc by the name of Mr. Donahue is among them, says he was Mr. Higgins' first mate and was captured during the ambush that destroyed the ship and killed Mr. Higgins. Mr. Donahue says these pirates are what remain of Higgins' crew.
 
 [[Mallory Calder|Mal]] and [[T'hau]] round up all [[Zhelezo]] and the [[Clovis Concord]] commander in one of the opened cells and relieve them of their weapons.
 
@@ -44,7 +44,7 @@ We discuss among ourselves and decide to go after the vessel and see if we can l
 
 We don't spot any cannons, but there are three large ballista on the ship. Two of them fire at us, hitting our hull from the side.
 
-A second salvo of cannon shots causes the merchant's ship's rudder to be shot to pieces, disabling the manoeuverability of the ship. The captain of the merchant ship calls for the crew to halt the ship and we eventually board the ship. Captain asks for the crew to remain unharmed.
+A second salvo of cannon shots causes the merchant's ship's rudder to be shot to pieces, disabling the manoeuverability of the ship. The captain of the merchant ship calls for the crew to halt the ship and we eventually board the ship. The captain introduces himself as Captain Jamuz and asks for the crew to remain unharmed.
 
 Checking the ship's cargo, we find:
 - 2 bags of Marquesian spices, worth 500gp
@@ -52,8 +52,14 @@ Checking the ship's cargo, we find:
 
 We decide to only take the spices and leave the palm leaves for the merchant ship.
 
-Stormbreaker reveals after the battle that he was reprimanded because he didn't fire at an unarmed vessel, refusing orders to sink a ship and kill everyone on it. He seems doubtful at our motives. Captain chimes in and tells that Stormbreaker revealed that there is a vault containing a massive load of gold intended for the construction of a warfleet.
+After the battle, [[Stormbreaker]] reveals to the rest of the crew that he was reprimanded because he didn't fire at an unarmed vessel, refusing orders to sink a ship and kill everyone on it. A short discussion on motives and morality ensues. They agree that, as the [[The Revelry|Revelry]] does sometimes work together with merchants, they should refrain from attacking merchant ships and instead focus on [[Clovis Concord|Concord]] ships.
 
-After two more days, we sail into Nicodranas' port, specifically the Restless Wharf. Dockmaster Ironbeard meets us on deck, looking to inspect our cargo. Looks closely at the forged documents, but deems them fine. Names a few options to sell the cargo to.
+As they’re getting closer to [[Nicodranas]], [[Captain Cassian Sariel de Rochefort|Captain Sariel]] calls everyone together so they can talk about what they’ll do when they get there. He mentions the [[Golden Chain]] to the crew, as well as the vault that apparently contains the funds for warships specifically to target the [[The Revelry|Revelry]]. The crew are quick to decide that the vault should be their target.
 
-We spot a poster mentioning Tamulia, performing at an inn.
+After two more days of travel, they reach [[Nicodranas]]. During said travel, [[Mallory Calder|Mallory]] made sure to forge some documents for the Marquesian spices they stole. They dock [[The Serpent's Tide]] at the Restless Wharf, spotting the Counting House a little further up. After they dock, they are soon approached by a dwarf, flanked by two [[Zhelezo]] guards. The dwarf introduces himself as Dockmaster Ironbeard. 
+
+The dockmaster explains how things work around these docks. They are welcome to dock here in the Restless Wharf, which does come with a docking fee of ten gold a day. They then have two options: either they can unload and sell their goods directly to the Counting House, or they can unload and sell their goods to whatever other local buyer they have lined up. For the latter, a single guard will be sent with them to oversee the transaction. 
+
+We tell the dockmaster we already have a seller in mind, and he simply tells them that when they start unloading their goods, one of his people will come over to them to escort them.
+
+As they’re having this conversation, the crew takes notes of numerous posters throughout the Restless Wharf. All of them advertise the [[Tamulia|Terrific Tamulia]], performing at the Fortuitous Serenade Inn and Casino. 

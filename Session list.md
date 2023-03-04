@@ -1,2 +1,3 @@
 - [[0 - The Serpent's Tide gets her crew]]
 - [[1 - Twinward Ambush]]
+- [[2 - A Defector's Decency]]
