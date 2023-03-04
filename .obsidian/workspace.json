@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2 - A Defector's Decency.md",
+                "file": "Session list.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2 - A Defector's Decency.md",
+                "file": "Session list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2 - A Defector's Decency.md",
+                "file": "Session list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2 - A Defector's Decency.md"
+                "file": "Session list.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "bb6a454b16335654",
   "lastOpenFiles": [
-    "3. Factions/Clovis Concord.md",
     "Sessions/2 - A Defector's Decency.md",
+    "3. Factions/Clovis Concord.md",
     "Session list.md",
     "1. Characters/Nicodranas/Tamulia.md",
     "Sessions/Bartholomew.md",
