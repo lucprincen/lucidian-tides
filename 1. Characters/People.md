@@ -3,3 +3,5 @@
 - [Darktow](darktow)
 - [Lucidian Ocean](lucidian-ocean)
 - [Nicodranas](nicodranas)
+- [Clovis Concord](clovis-concord)
+- [Gravid Archipelago](gravid-archipelago)
