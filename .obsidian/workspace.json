@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md",
+                "file": "Sessions/2 - A Defector's Decency.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md",
+                "file": "Sessions/2 - A Defector's Decency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md",
+                "file": "Sessions/2 - A Defector's Decency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md"
+                "file": "Sessions/2 - A Defector's Decency.md"
               }
             }
           }
@@ -147,8 +147,11 @@
   },
   "active": "7328eb6fe75b0a49",
   "lastOpenFiles": [
-    "The Party.md",
+    "1. Characters/Port Zoon/Lorenzo.md",
     "Sessions/2 - A Defector's Decency.md",
+    "1. Characters/Port Zoon",
+    "Misc/Ship Roles/First Gunner.md",
+    "The Party.md",
     "1. Characters/The Party/Bartholomew Brittlestone.md",
     "Sessions/0 - The Serpent's Tide gets her crew.md",
     "2. Locations/Darktow Isle/The Keel Hall.md",
@@ -175,8 +178,6 @@
     "Sessions/1 - Twinward Ambush.md",
     "2. Locations/Menagerie Coast/Nicodranas.md",
     "0. Assets/Locations/nicodranas-view.png",
-    "Misc/Ship Roles/First Gunner.md",
-    "Misc/Ship Roles/The Serpent's Tide - Ship.md",
     "0. Assets/Misc/First Gunner.jpg",
     "0. Assets/Locations/the-serpents-tide.png",
     "0. Assets/Locations/menagerie-coast.png",
