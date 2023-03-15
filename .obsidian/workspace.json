@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7328eb6fe75b0a49",
+            "id": "7c4cfff5aef903d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2 - A Defector's Decency.md",
+                "file": "Sessions/3 - Session 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2 - A Defector's Decency.md",
+                "file": "Sessions/3 - Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2 - A Defector's Decency.md",
+                "file": "Sessions/3 - Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2 - A Defector's Decency.md"
+                "file": "Sessions/3 - Session 3.md"
               }
             }
           }
@@ -145,10 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7328eb6fe75b0a49",
+  "active": "7c4cfff5aef903d5",
   "lastOpenFiles": [
-    "1. Characters/Port Zoon/Lorenzo.md",
     "Sessions/2 - A Defector's Decency.md",
+    "Sessions/3 - Session 3.md",
+    "1. Characters/Port Zoon/Lorenzo.md",
     "1. Characters/Port Zoon",
     "Misc/Ship Roles/First Gunner.md",
     "The Party.md",
@@ -176,7 +177,6 @@
     "1. Characters/People.md",
     "1. Characters/Gravid Archipelago",
     "Sessions/1 - Twinward Ambush.md",
-    "2. Locations/Menagerie Coast/Nicodranas.md",
     "0. Assets/Locations/nicodranas-view.png",
     "0. Assets/Misc/First Gunner.jpg",
     "0. Assets/Locations/the-serpents-tide.png",
