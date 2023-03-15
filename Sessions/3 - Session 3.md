@@ -31,3 +31,5 @@ Captain relays some more options.
 We go to scout the vault. We walk up town and walk
 
 South wall isn't patrolled. Roof has two guard. Patrol in front of building. Larger patrol of six men, one in command, walking in a line up and down the perimeter of the building, east to north to west and back. Nearest house is across the street. One house is in a bad state, no lights on.
+
+[[Mallory Calder|Mal]] finds a head of a mace, still glowing and smouldering. Seems to be a remnant relic from the heavy fighting when [[Nicodranas]] was in the Nine Hells. [[Stormbreaker]] picks it up to see what happens. Feels hot. Starts bursting into flame when he starts to shake it. Hands it over to [[Mallory Calder|Mal]]. Might be a good option to reforge and turn into a new magic weapon.
