@@ -18,3 +18,10 @@ We finish the conversation with Tamulia and head upstairs. Get some more drinks 
 
 Rayna asks Stormbreaker if he's with us now and he replies that he has nothing else to do and would like to.
 
+We go to The Wide, a market square, and get us some equipment. Decent new clothes for [[Stormbreaker]], and some cloaks to stay hidden.
+
+On the edge of the square, we spot some Golden Chain soldiers pulling an armoured cart stopping at a blacksmith called The Eternal Flame. A heavy box is loaded into the cart. A fire genasi couple comes out of the smithy. The male is consoling the woman. Rayna seems to recognise the couple and walks towards them. The cart moves onwards, not stopping anywhere else.
+
+Rayna starts talking to the couple and says she recognises them from Ank'harel. Asks what the issue with the guards was about. Apparently they operated without a license for The Wide. First time Rayna hears about a license in The Restless Wharf. Couple hoped to start a business in Nicodranas, a city that needs rebuilding, but keep bumping into issues.
+
+The couple invite us in and offer us some tea. Get some equipment from them, and they're grateful for our patronage.
