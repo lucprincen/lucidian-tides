@@ -25,3 +25,9 @@ On the edge of the square, we spot some Golden Chain soldiers pulling an armoure
 Rayna starts talking to the couple and says she recognises them from Ank'harel. Asks what the issue with the guards was about. Apparently they operated without a license for The Wide. First time Rayna hears about a license in The Restless Wharf. Couple hoped to start a business in Nicodranas, a city that needs rebuilding, but keep bumping into issues.
 
 The couple invite us in and offer us some tea. Get some equipment from them, and they're grateful for our patronage.
+
+Captain relays some more options.
+
+We go to scout the vault. We walk up town and walk
+
+South wall isn't patrolled. Roof has two guard. Patrol in front of building. Larger patrol of six men, one in command, walking in a line up and down the perimeter of the building, east to north to west and back. Nearest house is across the street. One house is in a bad state, no lights on.
