@@ -4,7 +4,7 @@ Three kids play in the docks as we get off the boat, ask us if we're new here. T
 
 We continue to the Fortuitous Serenade Inn and Casino to find Tamulia. [[Mallory Calder|Mal]] talks to the bartender, orders some drinks. Inquires if Tamulia's around, bartender says she performs each night. Mal asks if we can talk to her, and bartender goes to find Tamulia in the back.
 
-[[Tamulia]] walks in, and recognizes [[Stormbreaker]]. She takes us to her chamber and asks us to close the door behind us.
+[[Tamulia]] walks in, and recognises [[Stormbreaker]]. She takes us to her chamber and asks us to close the door behind us.
 
 She starts talking about her role with [[The Revelry]], she has been hired and is our eyes and ears here.
 
