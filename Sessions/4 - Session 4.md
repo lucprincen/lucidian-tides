@@ -52,7 +52,7 @@ Later that morning, we head out to see Gallen Primewater in the Restless Wharf. 
 
 ![[primewater-hall.png]]
 
-Knock on the door, half elf opens the door. Mal asks if he is Mr Primewater. Man is Ezequiel, asks if we have an appointment. Mal says we don't and that we would like to discuss business, having goods for trade. Invites us inside and Ezequiel goes to ask if Mr Primewater has interest.
+Knock on the door, half elf opens the door. Mal asks if he is Mr Primewater. Man is Ezekiel, asks if we have an appointment. Mal says we don't and that we would like to discuss business, having goods for trade. Invites us inside and Ezequiel goes to ask if Mr Primewater has interest.
 
 ![[primewater-hall-inside.png]]
 
@@ -61,3 +61,11 @@ Mal says we are from the Serpent's Tide, looking for a trade. Gellan seems inter
 We head back to the shop, and about an hour later Mr Orlen shows up, a very pale man, to do the trading. Inspects the wares and offers 1800gp, lowballing a bit. But we agree with the initial offer conveying the message that we see this as an investment into a future relationship. Orlen says that they might be back later for a future transaction. Zhelezo sergeant by the name of [[First Sergeant Brehkan]] is called on deck to oversee the deal, and immediately take 720gp as part of the taxes. 
 
 Discussing our next plans to scout out the location of the Myriad ambush, we decide to go to the Blushing Mermaid as our way to the temple of Melora. Doloris walks up to the barkeep and greets him. Barkeep asks what her business is coming back with a larger group. Doloris replies that she intends to defend the temple from some people. Barkeep is suspicious who we're defending the temple from.
+
+We head down and discuss the barkeep's suspicious questions and answers. 
+
+Barkeep reports to the Myriad who gains entrance to the Undercellar. Stormbreaker and T'hau intimidate the barkeep into not telling the Myriad about our presence. Mentions lot 32, abandoned merchant place on The Wide, lock was broken couple months ago. We came in through there, not through the Blushing Mermaid.
+
+We continue to the temple. Sister Fariah greets us as we arrive, glad to see us. Has had a good talk with Lyrndal, thinks the Revelry is a better bet than the Myriad. Fariah hands us some lanterns to lead us through the temple. Lights images of constellations on the ceiling, seeming eerily familiar to Mal and Doloris.
+
+Rushing water can be heard from up ahead and leads us to the entrance that the Myriad will be using to smuggle their wares. We scout out the area for a proper ambush. Myriad would be coming by boat, diving through the sea towards the entrance.
