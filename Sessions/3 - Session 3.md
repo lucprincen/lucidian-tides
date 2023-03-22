@@ -38,12 +38,22 @@ Rayna starts talking to the couple and says she recognises them from Ank'harel. 
 
 Rayna talks to them some more, that she recognises them from when she was a bit younger. It takes the couple a few moments, but when Rayna mentions her parents' shop, they recognise Rayna too. To try and make up for what just happened, the crew offer to buy some equipment from them.
 
-After we did our shopping, we start heading back to our ship. On the ship, the captain asks us how things went, and we relay what we found out. The captain then relays some options for us. He has been talking to some people and has lined up some potential buyers. [[Mallory Calder|Mal]] then points out that we intend to speak to Mr Primewater, and the captain agrees that may be our best lead, suggesting we seek him out the next day.
+After we did our shopping, we start heading back to our ship. On the ship, [[Captain Cassian Sariel de Rochefort|Captain Sariel]] asks us how things went, and we relay what we found out. The captain then relays some options for us. He has been talking to some people and has lined up some potential buyers. [[Mallory Calder|Mal]] then points out that we intend to speak to Mr Primewater, and the captain agrees that may be our best lead, suggesting we seek him out the next day.
 
-Captain also shares that he learned something else. Every night around 3 AM, a thick fog sets around Nicodranas, ever since it returned from Avernus. The crew figure they migh
+Captain then shares that he learned something else. Every night around 3 AM, a thick fog sets around Nicodranas, ever since it returned from Avernus. The crew figure they might use this to their advantage, especially when it comes to the heist on The Golden Chain Vault.
 
-We go to scout the vault. We walk up town and walk
+Finally, the captain points out the Helm & Cloak, a bar up in White Cliffs that gets frequented by a lot of Golden Chain and Zhelezo guards. Might learn a thing or two if we meddle with some disgruntled employees, or a way to get some hands on a few uniforms. Could helps us plan our heist on the vault.
 
-South wall isn't patrolled. Roof has two guard. Patrol in front of building. Larger patrol of six men, one in command, walking in a line up and down the perimeter of the building, east to north to west and back. Nearest house is across the street. One house is in a bad state, no lights on.
+We discuss what to do for the rest of the day, and as there are still a few hours left to the day, we decide to go scout the vault. We climb up to the Opal Archways neighbourhood, and walk through a part of the city that hasn't seen much restoration done yet. Lots of houses still have cracks in them, and continue to smoulder from magical remnants from Avernus. Some of the houses seem to have been fashioned into living quarters for the Golden Chain guards. Eventually, we round a corner and spot the building containing the vault.
+
+Having a quick look at the building, we see that the south wall is facing the a cliff and isn't patrolled. We spot two guards on the roof, some guards on the balcony and a patrol in front of building. There's a ladder lying in the grass that leads up to the balcony, and [[Commander Da'urlo Vidorant|Vidorant]]'s office. Small windows lead into the court room, library and lobby, as well as into the break room. The office upstairs also has some windows.
+
+The patrol consists of six men, one in command, walking in a line up and down the perimeter of the building, east to north to west and back. There are a few houses across the street, one of them in a pretty bad shape.
+
+[[Rayna Khatri|Rayna]] suggests that she can try to take a look inside, after promising not to set the building on fire. She wild shapes into a squirrel and skitters across the street, climbing the building to peer in through the windows.
+
+As Rayna starts scouting, [[Mallory Calder|Mal]], [[T'hau]] and [[Stormbreaker]] start moving to the derelict house across the vault is in a pretty bad state, practically unliveable, and has no lighting on. We figure that might be a good scouting location, so we decide to sneak inside and find a good observation spot.
+
+
 
 [[Mallory Calder|Mal]] finds a head of a mace, still glowing and smouldering. Seems to be a remnant relic from the heavy fighting when [[Nicodranas]] was in the Nine Hells. [[Stormbreaker]] picks it up to see what happens. Feels hot. Starts bursting into flame when he starts to shake it. Hands it over to [[Mallory Calder|Mal]]. Might be a good option to reforge and turn into a new magic weapon.
