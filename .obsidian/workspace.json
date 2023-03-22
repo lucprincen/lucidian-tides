@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,15 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da2b65103e37cd2f",
+  "active": "9cf864877ae13d85",
   "lastOpenFiles": [
-    "0. Assets/briar-crown.png",
-    "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
+    "1. Characters/Nicodranas/Gellan Primewater.md",
+    "0. Assets/gellan-primewater.png",
     "Sessions/4 - Session 4.md",
+    "0. Assets/Locations/primewater-hall-inside.png",
+    "0. Assets/Locations/primewater-hall.png",
+    "0. Assets/Locations/menagerie-coast.png",
+    "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
+    "Sessions/menagerie-coast.md",
+    "0. Assets/Misc/briar-crown.png",
     "1. Characters/Nicodranas/Commodore de Modesto.md",
     "0. Assets/Characters/commodore-de-modesto.png",
     "1. Characters/Nicodranas/Nicodranas' Councillors.md",
-    "1. Characters/Nicodranas/Gellan Primewater.md",
     "Sessions/1 - Twinward Ambush.md",
     "Session list.md",
     "1. Characters/Golden Chain/Commander Da'urlo Vidorant.md",
@@ -167,7 +173,6 @@
     "0. Assets/Locations/nicodranas-map.png",
     "0. Assets/Locations/nicodranas-map.png",
     "1. Characters/Nicodranas/Tamulia.md",
-    "0. Assets/Characters/tamulia.png",
     "1. Characters/Port Zoon/Lorenzo.md",
     "1. Characters/Port Zoon",
     "Misc/Ship Roles/First Gunner.md",
@@ -180,12 +185,7 @@
     "1. Characters/The Party/Mallory Calder.md",
     "1. Characters/The Party/Doloris.md",
     "2. Locations/Darktow Isle/The Serpent's Tide.md",
-    "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
-    "0. Assets/Characters/stormbreaker.png",
-    "0. Assets/Characters/obaya.png",
     "1. Characters/Gravid Archipelago",
-    "0. Assets/Locations/nicodranas-view.png",
-    "0. Assets/Misc/First Gunner.jpg",
     "1. Characters/Clovis Concord",
     "0. Assets/Misc",
     "Misc/Ship Roles",

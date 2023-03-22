@@ -36,6 +36,24 @@ Mentions temple can't fend for themselves, so we could help the temple by fighti
 
 We get some drinks and discuss the plans for the next day.
 
-Doloris dreams. On a derelict crumbling wooden ship. Helmed by a faceless creature in a massive black cloak. Darkness surrounds her, ambient green light coming from the bottom. Sees the familiar waters of the river Styx. A shape in the water, shroud covering face. Wet crumpled angelic wings coming out the back. Mentally hears "it is you again child". Asks if Doloris has deciphered it yet. Shape changes into a flame out of hands, with a briar crown underneath, similar to the scroll with the calendar. It is the briar blaze heart, conjured to remain a secret. 
+Doloris dreams. On a derelict crumbling wooden ship. Helmed by a faceless creature in a massive black cloak. Darkness surrounds her, ambient green light coming from the bottom. Sees the familiar waters of the river Styx. A shape in the water, shroud covering face. Wet crumpled angelic wings coming out the back. Mentally hears "it is you again child". Asks if Doloris has deciphered it yet. Shape changes into a flame out of hands, with a briar crown underneath, similar to the scroll with the calendar. 
 
 ![[briar-crown.png]]
+
+It is the briar blaze heart, conjured to remain a secret. Only followers of Evandra may lay eyes upon her, decreed by their lady. Doloris asks if she is allowed to decipher it. Creature says the ones we took it from is also looking, rather has Doloris decipher it than them. Spirit starts sinking into the depths. Finally Doloris hears "briar blaze must remain intact".
+
+Doloris wakes up. Gets out of bed, unfolds the scroll with the calendar. Takes the scroll and gets up to the deck to get some fresh air. Super foggy at this time, like the captain mentioned. Sighing not being able to peer out over the sea, she gets back to bed. Bumps into Captain Sariel on the way back. Doloris asks why the fog is here, Captain mentions that the fog comes from the waters surrounding Nicodranas. Relic from the city's trip to Avernus. Doloris goes back to bed.
+
+We wake up and get some breakfast. Doloris asks Mal to take another look at the map. T'hau asks about Mal's name, if it's Mal or Louise. A short and awkward conversation starts over Mal's past, and it is implied that we are not to inquire any further for now.
+
+Doloris and Mal leave the table and look at the map. Doloris mentions that it is the Briar Blaze and someone else is after it, learned from her matron. They get to work on deciphering the map. Managing to make some progress, they learn that the sky on the scroll points to  a date connected to Melora, Wild's Grandure. Equinox, 20th day of third month. Just missed that mark, as it's early spring. Looking at the sky and thinking of that day, scroll seems to point to Menagerie Coast, specifically the Lushgut Forest. Location of Melora fighting Zehir and Bane. Forest itself was a prison created by Melora to keep followers of Zehir and Bane locked in. Hundreds of Melora's followers sacrificed themselves during this battle, depicted by the hands in the symbol.
+
+Later that morning, we head out to see Gallen Primewater in the Restless Wharf. Primewater Hall stands out about from the other buildings. Looks out over the canal and a park.
+
+![[primewater-hall.png]]
+
+Knock on the door, half elf opens the door. Mal asks if he is Mr Primewater. Man is Ezequiel, asks if we have an appointment. Mal says we don't and that we would like to discuss business, having goods for trade. Invites us inside and Ezequiel goes to ask if Mr Primewater has interest.
+
+![[primewater-hall-inside.png]]
+
+Mal says we are from the Serpent's Tide, looking for a trade. Gellan seems interested, would send one of his contacts to come by later and seal the deal. Primewater inquires why we came to him, Mal says because we heard that he is good for his people. Primewater says that the people of the Restless Wharf have had a rough time rebuilding. Finally mentions that Mr Orlen will come by to make the deal.
