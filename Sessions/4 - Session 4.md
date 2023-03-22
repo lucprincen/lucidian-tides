@@ -56,4 +56,8 @@ Knock on the door, half elf opens the door. Mal asks if he is Mr Primewater. Man
 
 ![[primewater-hall-inside.png]]
 
-Mal says we are from the Serpent's Tide, looking for a trade. Gellan seems interested, would send one of his contacts to come by later and seal the deal. Primewater inquires why we came to him, Mal says because we heard that he is good for his people. Primewater says that the people of the Restless Wharf have had a rough time rebuilding. Finally mentions that Mr Orlen will come by to make the deal.
+Mal says we are from the Serpent's Tide, looking for a trade. Gellan seems interested, would send one of his contacts to come by later and seal the deal. Primewater inquires why we came to him, Mal says because we heard that he is good for his people. Primewater says that the people of the Restless Wharf have had a rough time rebuilding. Finally mentions that Mr Orlen will come by to make the deal. He asks if that is all, kind of implying that we might be there for more business.
+
+We head back to the shop, and about an hour later Mr Orlen shows up, a very pale man, to do the trading. Inspects the wares and offers 1800gp, lowballing a bit. But we agree with the initial offer conveying the message that we see this as an investment into a future relationship. Orlen says that they might be back later for a future transaction. Zhelezo sergeant by the name of [[First Sergeant Brehkan]] is called on deck to oversee the deal, and immediately take 720gp as part of the taxes. 
+
+Discussing our next plans to scout out the location of the Myriad ambush, we decide to go to the Blushing Mermaid as our way to the temple of Melora. Doloris walks up to the barkeep and greets him. Barkeep asks what her business is coming back with a larger group. Doloris replies that she intends to defend the temple from some people. Barkeep is suspicious who we're defending the temple from.

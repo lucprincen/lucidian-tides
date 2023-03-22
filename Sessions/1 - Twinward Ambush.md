@@ -4,7 +4,7 @@ As they’re having drinks, the crew overhears a conversation about some new [[C
 
 The captain soon returns, going over three options of cargo with the crew:
 1. 1200gp worth of Marquisian spices
-2. 1400gp worth of Tal'dorei ale (harder to smuggle, because bigger) 
+2. 1400gp worth of Tal'dorei ale (harder to smuggle, because bigger)
 3. Or 2300gp worth of Marquisian gold bars, which are going to be really hard to sell as they have a logo pressed into them from House Sherome
 
 [[Mallory Calder|Mal]] is familiar with the name of House Sherome, which is a noble family that isn’t native to Nicodranas. The head of the family is a wealthy business woman and there are rumours of her buying up old plots / houses in [[Nicodranas]] now that the city has returned from Avernus, subletting these places for outrageous amounts of money. 
