@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session list.md",
+                "file": "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session list.md",
+                "file": "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session list.md",
+                "file": "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session list.md"
+                "file": "Sessions/3 - A Golden Chain Is A Heavy Burden.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "a324b2e85824e8af",
   "lastOpenFiles": [
+    "Session list.md",
     "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
     "1. Characters/Golden Chain/Commander Da'urlo Vidorant.md",
     "Sessions/Rayna.md",
@@ -174,7 +175,6 @@
     "1. Characters/The Party/Doloris.md",
     "2. Locations/Darktow Isle/The Serpent's Tide.md",
     "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
-    "Session list.md",
     "3. Factions/Clovis Concord.md",
     "Sessions/Bartholomew.md",
     "3. Factions/Golden Chain.md",
