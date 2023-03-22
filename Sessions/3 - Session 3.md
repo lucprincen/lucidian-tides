@@ -48,12 +48,14 @@ We discuss what to do for the rest of the day, and as there are still a few hour
 
 Having a quick look at the building, we see that the south wall is facing the a cliff and isn't patrolled. We spot two guards on the roof, some guards on the balcony and a patrol in front of building. There's a ladder lying in the grass that leads up to the balcony, and [[Commander Da'urlo Vidorant|Vidorant]]'s office. Small windows lead into the court room, library and lobby, as well as into the break room. The office upstairs also has some windows.
 
-The patrol consists of six men, one in command, walking in a line up and down the perimeter of the building, east to north to west and back. There are a few houses across the street, one of them in a pretty bad shape.
+The patrol consists of six men, one in command, walking in a line up and down the perimeter of the building, east to north to west and back. There are a few houses across the street, with dim light coming from inside of them.
 
 [[Rayna Khatri|Rayna]] suggests that she can try to take a look inside, after promising not to set the building on fire. She wild shapes into a squirrel and skitters across the street, climbing the building to peer in through the windows.
 
-As Rayna starts scouting, [[Mallory Calder|Mal]], [[T'hau]] and [[Stormbreaker]] start moving to the derelict house across the vault is in a pretty bad state, practically unliveable, and has no lighting on. We figure that might be a good scouting location, so we decide to sneak inside and find a good observation spot.
+As Rayna starts scouting, [[Mallory Calder|Mal]], [[T'hau]] and [[Stormbreaker]] start moving towards the houses across the vault. One of them is looks pretty derelict, cracks in the walls and holes in the roofing. No light can be seen coming from inside. It looks uninhabited so we figure that might be a good stake-out location, and sneak inside to find a good observation spot.
 
+Inside, [[Mallory Calder|Mal]] finds a head of a mace, still glowing and smouldering. Seems to be a remnant relic from the heavy fighting when [[Nicodranas]] was in Avernus. [[Stormbreaker]] picks it up to see what happens. Nothing serious happens, it just feels hot still after all this time. After he starts shaking the mace, it bursts into flame, slightly scorching his hand. He hands it over to [[Mallory Calder|Mal]], who figures it might be good to try and reforge it to turn into a proper magic weapon.
 
+Meanwhile, in her squirrel form, Rayna start climbing the building and looking inside the open windows. She doesn't spot much worthing, except for some guards in the break room. At this time of night, most of the other rooms are quite empty, including Vidorant's office. Afterwards she heads back into the stake-out building as well to meet back up with the others.
 
-[[Mallory Calder|Mal]] finds a head of a mace, still glowing and smouldering. Seems to be a remnant relic from the heavy fighting when [[Nicodranas]] was in the Nine Hells. [[Stormbreaker]] picks it up to see what happens. Feels hot. Starts bursting into flame when he starts to shake it. Hands it over to [[Mallory Calder|Mal]]. Might be a good option to reforge and turn into a new magic weapon.
+Turning our focus on the vault building, we start looking to see if our vantage point is any good. We have a clear view on the building and all of the patrols, and see how they all move around. The vault seems pretty well guarded, and we figure the safest option is to approach the vault from the cliffside.
