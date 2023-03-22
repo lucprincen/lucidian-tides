@@ -24,3 +24,18 @@ Terrace has a number of people still in uniform. Inside there are fewer people. 
 
 We head outside, find a table. [[Mallory Calder|Mal]] and [[T'hau]] try to pick up on some conversations. Mal hears a Golden Chain guard talk about a party.
 
+Suddenly, we hear someone call out "Lou" behind us. Mal turns around as she recognizes the voice. Asks what she is doing here, mentions she died. Says her parents say she's dead, Mal scoffs at her parents, saying that they are liars. We learn Mal's actual name is Louise.
+
+Avelina asks what Mal is doing here if she is dead. Mal mentions that she's here on trading business. Avelina wears Zhelezo levery. Lots of activity on the sea, Restless Wharf and the Skew councillors have spewed on folk to protests. Golden Chain has been a great help to the Zhelezo and Concord. Mal's parents put in a good word for her, so she is able to work in the Open Quay. Avelina leaves us alone, mentions she rents a room her.
+
+As soon as the two guards who were talking about the party, we inquire about the party. In 12 days there is a party to celebrate the completion of the fortress / vault.
+
+We meet back up with Doloris on the ship. Doloris inquires about our day. Learns that we heard about the party, opportune moment to steal the gold. Asking about how we intend to smuggle the gold, we mention that we haven't worked out that part yet. Doloris mentions she has a lead, but we have to fight the Myriad for it. 
+
+Mentions temple can't fend for themselves, so we could help the temple by fighting off the Myriad who intend to use the routes forcefully. As the Myriad is a fierce competitor, we would be gaining a favour with the temple and fight off a competing organisation.
+
+We get some drinks and discuss the plans for the next day.
+
+Doloris dreams. On a derelict crumbling wooden ship. Helmed by a faceless creature in a massive black cloak. Darkness surrounds her, ambient green light coming from the bottom. Sees the familiar waters of the river Styx. A shape in the water, shroud covering face. Wet crumpled angelic wings coming out the back. Mentally hears "it is you again child". Asks if Doloris has deciphered it yet. Shape changes into a flame out of hands, with a briar crown underneath, similar to the scroll with the calendar. It is the briar blaze heart, conjured to remain a secret. 
+
+![[briar-crown.png]]
