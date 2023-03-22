@@ -1,14 +1,20 @@
-We get into Nicodranas, beautiful colourful city.
+As we are about to get off the ship, the captain informs us that [[Doloris]] has some personal matters to attend to, and will be going her own way today. The rest of us are to go into [[Nicodranas]] and see what we can learn from [[Tamulia]].
 
-Three kids play in the docks as we get off the boat, ask us if we're new here. T'hau turns around and talks to them telepathically. Kids are a bit curious. Ask us if we're new here and need a tour, but [[Mallory Calder|Mal]] is from Nicodranas and we turn the kids down.
+Three kids play in the docks as we get off the ship, ask us if we're new here. [[T'hau]] turns around and talks to them telepathically. Kids are a bit curious. Ask us if we're new here and need a tour, but [[Mallory Calder|Mal]] mentions she is from Nicodranas and already knows the place, so we turn the kids' offer down.
 
-We continue to the Fortuitous Serenade Inn and Casino to find Tamulia. [[Mallory Calder|Mal]] talks to the bartender, orders some drinks. Inquires if Tamulia's around, bartender says she performs each night. Mal asks if we can talk to her, and bartender goes to find Tamulia in the back.
+We continue to the Fortuitous Serenade Inn and Casino to find [[Tamulia]]. Inside, there's just a handful of patrons at this time of day. [[Mallory Calder|Mal]] talks to the bartender, a bearded older man, and orders us some drinks. Inquires if [[Tamulia]]'s around, bartender replies she performs each night. Mal asks if she's around because we'd like to talk to her, bartender nods and goes to find Tamulia in the back.
 
-[[Tamulia]] walks in, and recognises [[Stormbreaker]]. She takes us to her chamber and asks us to close the door behind us.
+The bartender walks in with [[Tamulia]] a few moments later, and recognises [[Stormbreaker]]. She takes us to her chamber to talk in private and asks us to close the door behind us.
 
-She starts talking about her role with [[The Revelry]], she has been hired and is our eyes and ears here.
+She starts talking about her role with [[The Revelry]]. A while ago, The Revelry got her out of a pickle, for which she is thankful. As a ways of returning the favour, she has been hired by [[Plank Queen Yucalia]] to be our eyes and ears here.
 
-Together with some orphans, Tamulia has been carefully mapping out the Golden Chain Vault. Human male rules the Golden Chain, Commander Da'urlo Vidorant. Massive fan of dwarven culture. We're going to plan a heist to rob them blind. [[Stormbreaker]] and [[Tamulia]] work on a few last details on the map. Also serves as a magistrate and court room. There's a changing of the guards every four hours on the balcony. Vault holds 360k gold. 
+Together with a few orphans and street urchins, Tamulia has been carefully gathering details and mapping out the inside of the Golden Chain Vault. Stormbreaker and Tamulia run us through a few details of the place:
+
+- The Golden Chain is ruled by a human male, by the name of Commander Da'urlo Vidorant. Apparently he's a massive fan of dwarven culture, dressing into their fashion. Is the 
+
+We ask Tamulia for some more details on the security of the place, and we learn there's a changing of the guards every four hours on the balcony. Apparently, the vault holds 360k gold, intended to pay for the [[Clovis Concord]] war fleet they're building. Every so often, an armoured cart goes there to pick up the funds to pay for the next instalment, bringing it to the shipyard.
+
+Tamulia asks [[Stormbreaker]] to assist her and work on a few final details of the map, presenting it to us after a few moments.
 
 [[Mallory Calder|Mal]] also inquires about Gellan Primewater. He is a councillor in Nicodranas. Also asks about the Montfort family, also councillor, runs the Open Quay. Mal reveals she has had some business with them before.
 

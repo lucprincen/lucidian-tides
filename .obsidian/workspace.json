@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b5be37eb8f093013",
+        "id": "1d6ae998a5fb6c22",
         "type": "tabs",
         "children": [
           {
-            "id": "65dd930a68f25ccf",
+            "id": "0172c1759e62c5c5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/3 - Session 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/3 - Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/3 - Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions/3 - Session 3.md"
+              }
             }
           }
         ]
@@ -137,7 +145,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65dd930a68f25ccf",
+  "active": "0172c1759e62c5c5",
   "lastOpenFiles": [
     "Sessions/3 - Session 3.md",
     "2. Locations/Menagerie Coast/Nicodranas.md",
