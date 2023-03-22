@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d6ae998a5fb6c22",
+        "id": "725bad705da0ea24",
         "type": "tabs",
         "children": [
           {
-            "id": "0172c1759e62c5c5",
+            "id": "a324b2e85824e8af",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -145,9 +145,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0172c1759e62c5c5",
+  "active": "a324b2e85824e8af",
   "lastOpenFiles": [
+    "Sessions/Rayna.md",
     "Sessions/3 - Session 3.md",
+    "1. Characters/Darktow/Plank Queen Yucalia.md",
+    "0. Assets/Locations/golden-chain-vault-map.png",
+    "1. Characters/Golden Chain/Commander Da'urlo Vidorant.md",
+    "0. Assets/Characters/commander-duarlo-vidorant.png",
+    "1. Characters/Golden Chain",
     "2. Locations/Menagerie Coast/Nicodranas.md",
     "Sessions/2 - A Defector's Decency.md",
     "Sessions/1 - Twinward Ambush.md",
@@ -174,17 +180,12 @@
     "3. Factions/Golden Chain.md",
     "1. Characters/Nicodranas/Obaya.md",
     "3. Factions/The Revelry.md",
-    "Sessions/Revelry.md",
-    "1. Characters/The Party/Stormbreaker.md",
     "0. Assets/Characters/stormbreaker.png",
     "0. Assets/Characters/obaya.png",
-    "1. Characters/Gravid Archipelago/‘Ole Thick.md",
     "1. Characters/Gravid Archipelago",
     "0. Assets/Locations/nicodranas-view.png",
     "0. Assets/Misc/First Gunner.jpg",
     "0. Assets/Locations/the-serpents-tide.png",
-    "0. Assets/Locations/menagerie-coast.png",
-    "0. Assets/Characters/zhelezo.png",
     "1. Characters/Clovis Concord",
     "0. Assets/Misc",
     "Misc/Ship Roles",

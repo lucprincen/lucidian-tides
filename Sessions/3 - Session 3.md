@@ -10,29 +10,37 @@ She starts talking about her role with [[The Revelry]]. A while ago, The Revelry
 
 Together with a few orphans and street urchins, Tamulia has been carefully gathering details and mapping out the inside of the Golden Chain Vault. Stormbreaker and Tamulia run us through a few details of the place:
 
-- The Golden Chain is ruled by a human male, by the name of Commander Da'urlo Vidorant. Apparently he's a massive fan of dwarven culture, dressing into their fashion. Is the 
+- The location of the vault also serves as a magistrate and court room. There are cells to hold the convicted prisoners.
+- Inside the vault, there is approximately a total of 360,000 gold, intended to pay for the war fleet [[Clovis Concord|The Clovis Concord]] is building.
+- Every so often, armoured carts go to the vault to load up gold to pay for the next instalment. These carts are well guarded by Golden Chain guards. Carts go to the shipyard to deliver the payment.
+- The Golden Chain is ruled by a human male, by the name of Commander Da'urlo Vidorant. Apparently he's a massive fan of dwarven culture, dressing into their fashion. Is the owner of the Auric Gauntlet of El’bashaar, which he claims to have stolen from a Marquesian soldier. Has his office upstairs, next to the vault.
+- Every four hours, there is a changing of the guard on the balcony upstairs, outside of the commander's room.
 
-We ask Tamulia for some more details on the security of the place, and we learn there's a changing of the guards every four hours on the balcony. Apparently, the vault holds 360k gold, intended to pay for the [[Clovis Concord]] war fleet they're building. Every so often, an armoured cart goes there to pick up the funds to pay for the next instalment, bringing it to the shipyard.
+Tamulia asks [[Stormbreaker]] to assist her and work on a few final details of the map, presenting it to us after a few moments:
 
-Tamulia asks [[Stormbreaker]] to assist her and work on a few final details of the map, presenting it to us after a few moments.
+![[golden-chain-vault-map.png]]
 
-[[Mallory Calder|Mal]] also inquires about Gellan Primewater. He is a councillor in Nicodranas. Also asks about the Montfort family, also councillor, runs the Open Quay. Mal reveals she has had some business with them before.
+[[Mallory Calder|Mal]] also inquires about Gellan Primewater. He is a councillor here in Nicodranas. Also asks about the De Montfort family, also councillor, runs the Open Quay. Mal reveals she has had some business with them before.
 
-Places to visit to find more [[The Revelry|Revelry]] associates: Low Lantern, Blushing Mermaid.
+Finishing up the conversation with [[Tamulia]], we ask her for good places to visit to find more [[The Revelry|Revelry]] associates. She mentions two taverns or inns: the Low Lantern, and the Blushing Mermaid. Mal mentions to Tamulia that a bad tip from The Blushing Mermaid led to a trap from [[Clovis Concord|The Concord]].
 
-We finish the conversation with Tamulia and head upstairs. Get some more drinks and find a booth. Talk about the work we need to do here: sell cargo, find contacts, get equipment, scout vault.
+Finally, [[Tamulia]] mentions that she considers her debt to [[The Revelry]] to be paid in full now, so she can go back to concentrate on her performances. Any other future inquiries with her will cost The Revelry money. She does say to extend her thanks to the [[Plank Queen Yucalia|Plank Queen]], for helping her when she was in a bind.
 
-Rayna asks Stormbreaker if he's with us now and he replies that he has nothing else to do and would like to.
+After the conversation with Tamulia we head back upstairs. We get some more drinks and find a booth in a quiet spot for us to sit down and talk. We start listing the things we need to do here: sell our cargo, find some Revelry contacts, get some equipment for the heist and scout the vault.
 
-We go to The Wide, a market square, and get us some equipment. Decent new clothes for [[Stormbreaker]], and some cloaks to stay hidden.
+[[Rayna Khatri|Rayna]] asks [[Stormbreaker]] what he is going to do now. Asking if he is part of our crew now, he mentions that he has nothing else to do now, but is gladly staying around to see through to the part where we take the money from the vault. He does point out that it is a bit odd to welcome him in, as they just got to know him to be a defector. The rest mentions that he defected for a good cause and make nothing further of it.
 
-On the edge of the square, we spot some Golden Chain soldiers pulling an armoured cart stopping at a blacksmith called The Eternal Flame. A heavy box is loaded into the cart. A fire genasi couple comes out of the smithy. The male is consoling the woman. Rayna seems to recognise the couple and walks towards them. The cart moves onwards, not stopping anywhere else.
+After some drinks, we start heading to The Wide, a large market square in Nicodranas. There, we stock up on supplies and some equipment. Rayna offers to buy Stormbreaker some new clothes, and we get us some cloaks to stay hidden when scouting the vault later.
 
-Rayna starts talking to the couple and says she recognises them from Ank'harel. Asks what the issue with the guards was about. Apparently they operated without a license for The Wide. First time Rayna hears about a license in The Restless Wharf. Couple hoped to start a business in Nicodranas, a city that needs rebuilding, but keep bumping into issues.
+[[Rayna Khatri|Rayna]] is the first to spot that, on the edge of the square, some Golden Chain soldiers are pulling an armoured cart around. They stop at a blacksmith called The Eternal Flame. A heavy box is loaded into the cart, and a fire genasi couple comes out of the smithy. The husband is consoling his wife, who is in tears. Rayna seems to recognise the couple and starts walking towards them. They see the cart starts moving onwards, not stopping anywhere else.
 
-The couple invite us in and offer us some tea. Get some equipment from them, and they're grateful for our patronage.
+Rayna starts talking to the couple and says she recognises them from Ank'harel. They introduce themselves as Qon and Wuyiva. Asks what the issue with the guards was about. Apparently they operated without a license for The Wide, and the guards showed up to demand quite a hefty sum for said license. This is the first time Rayna hears about needing a license to work or trade in The Restless Wharf. Couple hoped to start a business in Nicodranas, a city that needs rebuilding, but the local authorities seem to have thrown hurdle after hurdle at them. The couple invite us in and offer us some tea.
 
-Captain relays some more options.
+Rayna talks to them some more, that she recognises them from when she was a bit younger. It takes the couple a few moments, but when Rayna mentions her parents' shop, they recognise Rayna too. To try and make up for what just happened, the crew offer to buy some equipment from them.
+
+After we did our shopping, we start heading back to our ship. On the ship, the captain asks us how things went, and we relay what we found out. The captain then relays some options for us. He has been talking to some people and has lined up some potential buyers. [[Mallory Calder|Mal]] then points out that we intend to speak to Mr Primewater, and the captain agrees that may be our best lead, suggesting we seek him out the next day.
+
+Captain also shares that he learned something else. Every night around 3 AM, a thick fog sets around Nicodranas, ever since it returned from Avernus. The crew figure they migh
 
 We go to scout the vault. We walk up town and walk
 
