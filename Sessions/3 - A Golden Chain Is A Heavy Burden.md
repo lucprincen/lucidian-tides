@@ -20,7 +20,7 @@ Tamulia asks [[Stormbreaker]] to assist her and work on a few final details of t
 
 ![[golden-chain-vault-map.png]]
 
-[[Mallory Calder|Mal]] also inquires about Gellan Primewater. He is a councillor here in Nicodranas. Also asks about the De Montfort family, also councillor, runs the Open Quay. Mal reveals she has had some business with them before.
+[[Mallory Calder|Mal]] also inquires about [[Gellan Primewater]]. He is a councillor here in Nicodranas, in charge of the Restless Wharf. Also asks about the De Montfort family, also councillor, runs the Open Quay. Mal reveals she has had some business with them before. [[Commodore de Modesto]] is also mentioned as a member of the council, who has affiliations with the [[Golden Chain]]. He used to be a sergeant for them.
 
 Finishing up the conversation with [[Tamulia]], we ask her for good places to visit to find more [[The Revelry|Revelry]] associates. She mentions two taverns or inns: the Low Lantern, and the Blushing Mermaid. Mal mentions to Tamulia that a bad tip from The Blushing Mermaid led to a trap from [[Clovis Concord|The Concord]].
 
