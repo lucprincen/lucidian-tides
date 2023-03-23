@@ -1,3 +1,5 @@
+## Meeting Terrific Tamulia
+
 As we are about to get off the ship, the captain informs us that [[Doloris]] has some personal matters to attend to, and will be going her own way today. The rest of us are to go into [[Nicodranas]] and see what we can learn from [[Tamulia]].
 
 Three kids play in the docks as we get off the ship, ask us if we're new here. [[T'hau]] turns around and talks to them telepathically. Kids are a bit curious. Ask us if we're new here and need a tour, but [[Mallory Calder|Mal]] mentions she is from Nicodranas and already knows the place, so we turn the kids' offer down.
@@ -29,6 +31,8 @@ Finally, [[Tamulia]] mentions that she considers her debt to [[The Revelry]] to 
 After the conversation with Tamulia we head back upstairs. We get some more drinks and find a booth in a quiet spot for us to sit down and talk. We start listing the things we need to do here: sell our cargo, find some Revelry contacts, get some equipment for the heist and scout the vault.
 
 [[Rayna Khatri|Rayna]] asks [[Stormbreaker]] what he is going to do now. Asking if he is part of our crew now, he mentions that he has nothing else to do now, but is gladly staying around to see through to the part where we take the money from the vault. He does point out that it is a bit odd to welcome him in, as they just got to know him to be a defector. The rest mentions that he defected for a good cause and make nothing further of it.
+
+## 
 
 After some drinks, we start heading to The Wide, a large market square in Nicodranas. There, we stock up on supplies and some equipment. Rayna offers to buy Stormbreaker some new clothes, and we get us some cloaks to stay hidden when scouting the vault later.
 

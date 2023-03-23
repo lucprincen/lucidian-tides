@@ -1,3 +1,5 @@
+## 'Ole Thick's The Watering Hole
+
 As we enter a lagoon at  [[The Gravid Archipelago]], they spot a sloop with four torches, which calls the ship to a halt before escorting them further into a sea cavern. There, they are greeted by [[‘Ole Thick]] to [[The Gravid Archipelago|'Ole Thick's Watering Hole]]. There are a few pirates already inside. The captain tells the crew to stretch their legs and find some drinks as he goes to handle some business. [[Bartholomew Brittlestone|Bartholomew]] buys everyone a round of drinks. 
 
 As they’re having drinks, the crew overhears a conversation about some new [[Clovis Concord]] ships that ambushed one of Mr. Higgins’ ships. [[Doloris]] recognises this name, sharing that Mr. Higgins was the captain of one of the [[The Revelry|Revelry]]’s greatest fighting ships, the Belligerent. It seems that ship was sunk in this Clovid Concord ambush.
@@ -21,6 +23,8 @@ The crew eventually decides to go with the ale and to try and legitimately sell 
 
 After loading the ale onto the ship, the crew continues on their way towards the [[Twinward Isles]].
 
+## Planning the ambush Twinward Isles
+
 During the week’s travel there, everyone tries to pick up some new skills and make themselves familiar with the ship and it’s weaponry. [[T'hau]] organises a cannon drill to get the crew acquainted with its weaponry for the ambush ahead. T'hau is joined by the four deckhands and asks for one of the others to fully man the third cannon. [[Rayna Khatri|Rayna]] joins in to complete the crew for the third cannon and complete the drill successfully.
 
 [[Mallory Calder|Mal]] wants to get some experience with forging documents, and starts with recreating the documents for the Tal'dorei ale. She is joined by [[Bartholomew Brittlestone|Bartholomew]] who guides her through the whole process and they create new documents for the shipment.
@@ -30,6 +34,8 @@ After seven days travel, they reach the Twinward Isles. There, they start lookin
 - from around the island and approach head on, to keep suspicion low
 
 After deciding on Doloris’ second suggestion, they lower the anchor for now, knowing the Relentless is still some two days out. [[Big Neela]] suggests she be on watch from the sea and will return when she spots the ship. During these days , we decided to mask the ship's name and [[Odell Blackmoore]] offers to cover up the name to avoid raising future suspicion.
+
+## Ship spotted!
 
 After the two days pass, Neela returns to the ship, alerting everyone that she’s spotted the Relentless. The crew set their plan in motion, passing by the ship before attacking, firing their cannons at the other ship’s sail, and breaking the main mast. As the ship rounds behind  The Relentless, [[Rayna Khatri|Rayna]] sets fire to the back sail, severely hampering its manoeuverability. Then the captain gives the order to board the ship, and using boarding hooks they swing across to the other ship.
 

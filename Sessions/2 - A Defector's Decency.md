@@ -1,3 +1,5 @@
+## Freeing the prisoners
+
 [[Bartholomew Brittlestone|Bartholomew]] opens all cells on the lower deck and frees all the remaining prisoners. More Revelry pirates come out of the cells. An orc by the name of Mr. Donahue is among them, says he was Mr. Higgins' first mate and was captured during the ambush that destroyed the ship and killed Mr. Higgins. Mr. Donahue says these pirates are what remain of Higgins' crew.
 
 [[Mallory Calder|Mal]] and [[T'hau]] round up all [[Zhelezo]] and the [[Clovis Concord]] commander in one of the opened cells and relieve them of their weapons.
@@ -6,11 +8,15 @@
 
 [[Mallory Calder|Mal]] and [[Doloris]] ask Higgins' crew about the defector. Mr. Donahue mentions that the Zhelezo put him in a repurposed toilet, and points to a room on the other side of this deck.
 
+## Breaking out the storm
+
 [[Mallory Calder|Mal]] and [[T'hau]] open the toilet and find an unusually large man with their arms and legs in chains. [[Bartholomew Brittlestone|Bartholomew]] starts working on the manacles around his ankles, and T'hau picks them up to reach the manacles up high around his wrists. 
 
-As soon as he is freed, he wants to find the commander and ask about someone called Sheila. Walking over to the cells where the Zhelezo are locked up, the freed prisoner demands that they tell him what they did to Sheila. The commander wakes up and sees the large man angrily talking to him. The commander points to a door leading to the armoury, and the man walks off to investigate. Rummaging through a few crates, he finally emerges with a large maul in his hands, revealing that Sheila isn't a someone, it's their maul. He introduces himself as [[Stormbreaker]], a defector from the [[Clovis Concord]] that got caught and taken prisoner.
+As soon as he is freed, he wants to find the commander and ask about someone called Sheila. Walking over to the cells where the Zhelezo are locked up, the freed prisoner demands that they tell him what they did to Sheila. The commander wakes up and sees the large man angrily talking to him. The commander points to a door leading to the armoury, and the man walks off to investigate. Rummaging through a few crates, he finally emerges with a large maul in his hands, revealing that Sheila isn't a someone, it's his maul. He introduces himself as [[Stormbreaker]], a defector from the [[Clovis Concord]] that got caught and taken prisoner.
 
 [[Doloris]] speaks to [[Obaya]], Obaya was invited to head to [[Port Damali]]. Obaya doesn't really know what the invitation is about, but she is a bit curious to find out why. Invited by the Grand Admiral. She tells Doloris that if someone gets an invitation from the [[Clovis Concord]], you don't usually ignore it.
+
+## A fishy smelling cook
 
 [[Doloris]] spots [[Lorenzo]] still acting a bit strangely, packing something up with his back turned to us, so we can't see what. Obaya says she doesn't really know the cook herself, but he was better company than some of the Zhelezo. Obaya asks if the ship still goes to [[Port Damali]], but Doloris denies that. Obaya asks if we are willing to drop her off in Port Zoon, or if she is property of [[The Revelry]] now. We tell her she isn't anyone's property, as [[The Revelry]] doesn't operate that way, contrary to some rumours that the [[Clovis Concord]] might have spread
 
@@ -24,6 +30,8 @@ Inspecting the box, we find it contains a vial with a blue liquid, which has a n
 
 Questioning Lorenzo about the box and its contents, he eventually tells he is the son of the marquis of [[Port Zoon]]. Says he can't tell who he is supposed to delivering the box to. We decide to take the box with us and send Lorenzo on to [[Port Damali]] with the remaining [[Zhelezo]] with empty hands. They will have to row the rest of the way in a few dinghies.
 
+## Sailing onwards to Nicodranas
+
 After having dealt with all of that, we get back on [[The Serpent's Tide]] and continue our journey towards [[Nicodranas]]. A short while later, [[Captain Cassian Sariel de Rochefort|Captain Sariel]] asks for [[Stormbreaker]] to come into their cabin and asks about his involvement in the Concord and why he defected. [[Stormbreaker]] reveals that he captained one of the [[Clovis Concord|Concord]]'s ships and one day was given orders that he didn't agree with; firing upon an unarmed civilian vessel with the intent of killing them all. He didn't follow through with those orders, and as such, was punished for the crime of ignoring orders.
 
 The conversation then turns to the [[Golden Chain]], a mercenary company that was initially hired to keep Nicodranas safe after it first returned from Avernus. The captain says he’s heard they’re nastier than the [[Zhelezo]] and he expects more trouble from the Golden Chain than he does from the local Zhelezo. [[Stormbreaker]] says he isn’t sure why they’re even still around.
@@ -34,9 +42,13 @@ On the way to [[Nicodranas]], [[Mallory Calder|Mal]] and [[Doloris]] work togeth
 
 [[Rayna Khatri|Rayna]] asks [[Bartholomew Brittlestone|Bartholomew]] for a room to do some gardening. Bartholomew suggests powder room, but T'hau isn't too keen on letting a fire genasi with a flammable gecko on their should near the powder room. Bartholomew finally appoints the broom closest to [[Rayna Khatri|Rayna]].
 
+## A call from the void
+
 After three days of travel, [[T'hau]] has a dream. They’re sinking, nothing they can do about it, swallowed by the cold dark. There’s a female face in the moonlight, eyes growing large as she notices T'hau. The female figure starts swimming down towards them, but she’s not fast enough, getting smaller as it grows colder and darker still. T'hau tries to fight the current, but they know its pointless. They hear a muffled scream in the distance, and then their vision goes black for a long time. Feels like days, months, an eternity.
 
 Eventually, they wake, noting that this dream felt different than the others. They sneak out onto the deck to clear their head. Having noted the absence of their echo when they wake up, [[T'hau]] tries to summon it onto the deck, but nothing strange can be seen. Then T'hau tries to recall the face of the woman from their dreams, but their memories are such a mess that they can’t recall. All they know is that she was important.
+
+## Pirates do piratey things, don't they? Right?
 
 On day four, [[Doloris]] spots sails on the horizon, a merchant ship called The Golden Dawn. Ship looks like it's made in Marquet, a fairly big vessel with tripoint sails. Doloris notes the ship is not up to its full capacity, but that's not very unusual, as ships tend to sometimes visit multiple ports to find cargo to sell back at home.
 
@@ -53,6 +65,8 @@ Checking the ship's cargo, we find:
 We decide to only take the spices and leave the palm leaves for the merchant ship.
 
 After the battle, [[Stormbreaker]] reveals to the rest of the crew that he was reprimanded because he didn't fire at an unarmed vessel, refusing orders to sink a ship and kill everyone on it. A short discussion on motives and morality ensues. They agree that, as the [[The Revelry|Revelry]] does sometimes work together with merchants, they should refrain from attacking merchant ships and instead focus on [[Clovis Concord|Concord]] ships.
+
+## Captain's briefing
 
 As they’re getting closer to [[Nicodranas]], [[Captain Cassian Sariel de Rochefort|Captain Sariel]] calls everyone together so they can talk about what they’ll do when they get there. He mentions the [[Golden Chain]] to the crew, as well as the vault that apparently contains the funds for warships specifically to target the [[The Revelry|Revelry]]. The crew are quick to decide that the vault should be their target.
 
