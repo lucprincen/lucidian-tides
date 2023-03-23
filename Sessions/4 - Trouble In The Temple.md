@@ -1,4 +1,4 @@
-## Looking for the Lady of the temple
+## The Lady
 
 [[Doloris]] heads into town, towards the temple of Melora. She knows that it can be accessed by sea or the Undercellar. Figuring the nearest entrypoint would be the Blushing Mermaid, from where she can access the Undercellar, Doloris heads there.
 
@@ -14,9 +14,9 @@ This section somewhat different, has a derelict industrial appearance. There are
 
 Doloris walks around the corner and sees two figures, an angry looking sea elf and a woman. Doloris greets the lady and asks if she is available for a chat. The sea elf seems to be the one that knocked over a brazier with embers a moment ago.
 
-The woman mentions that she isn't taking visitors at this point. Doloris asks to confirm if she is the lady of the temple. The sea elf laughs at the question. The woman excuses Acolyte Lyrndal's behaviour and introduces herself as [[Sister Pherria]]. She mentions that the real lady of the temple, [[Lady Sa'hea]], is taken into custody for refusing a direct order of the [[Clovis Concord]]. Doloris offers some help as she introduces herself to the two. Sister Pherria mentions that Lady Sa'hea left this morning to [[Port Damali]] to see the Grand Admiral. She refused the invitation, so they took her by force instead.
+The woman mentions that she isn't taking visitors at this point. Doloris asks to confirm if she is the lady of the temple. The sea elf laughs at the question. The woman excuses Acolyte Lurandell's behaviour and introduces herself as [[Sister Pherria]]. She mentions that the real lady of the temple, [[Lady Sa'hea]], is taken into custody for refusing a direct order of the [[Clovis Concord]]. Doloris offers some help as she introduces herself to the two. Sister Pherria mentions that Lady Sa'hea left this morning to [[Port Damali]] to see the Grand Admiral. She refused the invitation, so they took her by force instead.
 
-Doloris mentions that she wishes to vanquish the oppression in [[Nicodranas]]. Acolyte Lyrndal scoffs at the question, sarcastically asking how [[Doloris]] wants to do that. Then Doloris mentions the Revelry. The two attendants of the temple give the impression that Doloris isn't the first one to make such a suggestion.
+Doloris mentions that she wishes to vanquish the oppression in [[Nicodranas]]. Acolyte Lurandell scoffs at the question, sarcastically asking how [[Doloris]] wants to do that. Then Doloris mentions the Revelry. The two attendants of the temple give the impression that Doloris isn't the first one to make such a suggestion.
 
 [[Sister Pherria]] says that a couple of people came to the temple earlier and intend to use it as a smuggling route. Believes they didn't belong to the Revelry, but to the Myriad instead. They were way more rude and called her a sea hag, claiming that they would eventually bow to their demands. Doloris tries to gain their trust by offering her help, and offers to build a mutually beneficial relationship. Sister Pherria seems interested, but isn't too sure if it's entirely agreeable, but is open to meeting the rest of the crew to discuss it. Sister Pherria mentions that the Myriad intends to show up later that day with wares to smuggle through the temple's tunnels, without their explicit approval. Sister Pherria suggests we might be able to help out by returning to the temple later that day and confront them about their intentions.
 
@@ -58,7 +58,7 @@ Doloris and Mal leave the table and have another look at the map. Doloris tells 
 
 They manage to take that day and the sky pictured on the scroll, which seems to point to a more specific location on the Menagerie Coast, the Lushgut Forest. Doloris recalls stories of Melora fighting Zehir and Bane there. The forest itself was a prison created by Melora to keep followers of Zehir and Bane locked in. Also heard rumours about hundreds of Melora's followers who sacrificed themselves during this battle, which seem related to the hands depicted in the Briarblaze symbol.
 
-## 
+## Looking for _business_
 
 Later that morning, we head out to find an audience with Gellan Primewater in the Restless Wharf. Some time later, we find ourselves at a townhouse called Primewater Hall, which clearly stands out from the other buildings. It looks out over the canal and a park and has a greenhouse next to it.
 
@@ -74,14 +74,16 @@ Then Mr. Primewater mentions that he will send Mr. Orlan to come by to make the 
 
 We head back to the ship to wait for Orlan, and after about half an hour he shows up, looking as pale as he was described. The crew invite him on the ship and he starts inspecting the wares, offering 1800gp for the ale and spices. The figures he is lowballing a bit on the offer, but we agree with it, conveying the message that we see this as an investment into a future relationship. Orlan says that they are indeed looking forward to future transactions. The crew call in one of the [[Zhelezo]] guards to oversee the transactions. The Zhelezo guard is overseen by a member of the [[Golden Chain]], a dragonborn by the name of [[First Sergeant Brehkan]]. The two of them take the 720gp worth of taxes and then leave the ship. We are left with 1080gp which goes directly in the ship's coffer.
 
-## 
+## Hit the Myriad in the temple
 
-Discussing our next plans to scout out the location of the Myriad ambush, we decide to go to the Blushing Mermaid as our way to the temple of Melora. Doloris walks up to the barkeep and greets him. Barkeep asks what her business is coming back with a larger group. Doloris replies that she intends to defend the temple from some people. Barkeep is suspicious who we're defending the temple from.
+After making the trade, the crew inform the captain of their plans of fighting the Myriad later that night. He agrees it’s a smart idea to secure that smuggling route, and it’s worth the trouble. There’s a brief discussion on how to best approach the Myriad situation, but Stormbreaker cuts the discussion short by suggesting they just go there, taking Doloris' earlier route through the Blushing Mermaid.
 
-We head down and discuss the barkeep's suspicious questions and answers.
+There, Doloris walks up to the familiar face of the barkeep and greets him. The half-orc barkeep introduces himself as Droon. Doloris asks if they could gain access to the Undercellar again, but Droon is a bit reluctant, seeing her come back with a larger group this time. Doloris replies that she intends to defend the temple from some people, but Droon is suspicious who we are actually defending the temple from. Eventually he is willing to let the group down, but they note they got some strange vibes from him.
 
-Barkeep reports to the Myriad who gains entrance to the Undercellar. Stormbreaker and T'hau intimidate the barkeep into not telling the Myriad about our presence. Mentions lot 32, abandoned merchant place on The Wide, lock was broken couple months ago. We came in through there, not through the Blushing Mermaid.
+[[T'hau]] and [[Stormbreaker]] head back up again, but find that the gate has already been locked behind them again. Stormbreaker tries to break through the gate, but [[T'hau]] manages to slip past the gate by summoning their echo inside the inn and teleporting to its location. T'hau asks if Droon could open up the gate again, as they had a few more questions they wanted to ask him.
 
-We continue to the temple. Sister Fariah greets us as we arrive, glad to see us. Has had a good talk with Lyrndal, thinks the Revelry is a better bet than the Myriad. Fariah hands us some lanterns to lead us through the temple. Lights images of constellations on the ceiling, seeming eerily familiar to Mal and Doloris.
+Stormbreaker and T'hau start confronting the barkeep on the signals they picked up from him, eventually admitting that it is the Myriad who run the Undercellar. The atmosphere in the inn gets a bit uneasy as some folks around them start standing up and turn their faces towards this conversation. Droon calms the clientele down and mentions he reports to the Myriad who gains access through the Blushing Mermaid. Figuring this would be bad for the crew, they strongly advise Droon to not inform the Myriad this time. Droon, sufficiently threatened, eventually agrees to keep his mouth shut in exchange for a supply of rum, which the crew promise him they’ll eventually get to him. He also tells them that, when asked, they should tell that they came in through lot 32 on The Wide as its lock was broken a couple of months ago. After some final threats, the crew head down the tunnel again towards the temple.
 
-Rushing water can be heard from up ahead and leads us to the entrance that the Myriad will be using to smuggle their wares. We scout out the area for a proper ambush. Myriad would be coming by boat, diving through the sea towards the entrance.
+[[Sister Pherria]] greets us as we arrive, and tells us she is glad to see us. Has had a good talk with Lurandell, and they thinks that the Revelry is a better bet than the Myriad. Pherria hands us some lanterns to lead us through the temple. The lanterns light images of constellations on the ceiling, with Doloris and Mal recognising some of them as being very close to those depicted on the scroll. 
+
+Walking through the tunnels of the Undercellar, we can hear rushing water from up ahead. [[Sister Pherria]] leads us to the entrance that the Myriad will be using to smuggle their wares and tells us the Myriad would be coming in by boat, then diving through the sea towards the entrance. Pherria leaves us to head back to the temple, and the crew start scouting out the area and discuss tactics.

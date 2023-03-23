@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cf864877ae13d85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/4 - A Troubled Temple.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "378f1aed38b6f0d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Characters/Nicodranas/Sister Pherria.md",
+                "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/4 - A Troubled Temple.md",
+                "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/4 - A Troubled Temple.md",
+                "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/4 - A Troubled Temple.md"
+                "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md"
               }
             }
           }
@@ -170,16 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da2b65103e37cd2f",
+  "active": "378f1aed38b6f0d9",
   "lastOpenFiles": [
+    "1. Characters/Nicodranas/Sister Pherria.md",
+    "Misc/Ship Roles/The Serpent's Tide - Ship.md",
+    "0. Assets/Locations/the-serpents-tide.png",
+    "Sessions/4 - Trouble In The Temple.md",
     "1. Characters/Nicodranas/Gellan Primewater.md",
-    "Sessions/4 - A Troubled Temple.md",
     "1. Characters/The Party/Mallory Calder.md",
     "3. Factions/Myriad.md",
     "0. Assets/Factions",
     "0. Assets/F.md",
     "0. Assets/Factions/the-myriad.png",
-    "1. Characters/Nicodranas/Sister Pherria.md",
     "1. Characters/Nicodranas/Lady Sa'hea.md",
     "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
     "1. Characters/Nicodranas/Tamulia.md",
@@ -203,14 +193,11 @@
     "Sessions/Rayna.md",
     "1. Characters/Darktow/Plank Queen Yucalia.md",
     "0. Assets/Locations/golden-chain-vault-map.png",
-    "0. Assets/Characters/commander-duarlo-vidorant.png",
     "1. Characters/Golden Chain",
     "1. Characters/Port Zoon/Lorenzo.md",
     "1. Characters/Port Zoon",
     "Misc/Ship Roles/First Gunner.md",
     "The Party.md",
-    "1. Characters/The Party/Bartholomew Brittlestone.md",
-    "2. Locations/Darktow Isle/The Keel Hall.md",
     "1. Characters/Gravid Archipelago",
     "1. Characters/Clovis Concord",
     "0. Assets/Misc",
