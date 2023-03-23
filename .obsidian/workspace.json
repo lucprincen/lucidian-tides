@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "378f1aed38b6f0d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6f6d0103a52a7ba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Characters/Nicodranas/Sister Pherria.md",
+                "file": "Sessions/4 - The Troubled Temple.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md",
+                "file": "Sessions/4 - The Troubled Temple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md",
+                "file": "Sessions/4 - The Troubled Temple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md"
+                "file": "Sessions/4 - The Troubled Temple.md"
               }
             }
           }
@@ -158,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "378f1aed38b6f0d9",
+  "active": "6f6d0103a52a7ba4",
   "lastOpenFiles": [
     "1. Characters/Nicodranas/Sister Pherria.md",
     "Misc/Ship Roles/The Serpent's Tide - Ship.md",
     "0. Assets/Locations/the-serpents-tide.png",
-    "Sessions/4 - Trouble In The Temple.md",
+    "Sessions/4 - The Troubled Temple.md",
     "1. Characters/Nicodranas/Gellan Primewater.md",
     "1. Characters/The Party/Mallory Calder.md",
     "3. Factions/Myriad.md",
