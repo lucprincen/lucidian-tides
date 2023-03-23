@@ -60,23 +60,25 @@ They manage to take that day and the sky pictured on the scroll, which seems to 
 
 ## 
 
-Later that morning, we head out to see Gallen Primewater in the Restless Wharf. Primewater Hall stands out about from the other buildings. Looks out over the canal and a park.
+Later that morning, we head out to find an audience with Gellan Primewater in the Restless Wharf. Some time later, we find ourselves at a townhouse called Primewater Hall, which clearly stands out from the other buildings. It looks out over the canal and a park and has a greenhouse next to it.
 
 ![[primewater-hall.png]]
 
-Knock on the door, half elf opens the door. Mal asks if he is Mr Primewater. Man is Ezekiel, asks if we have an appointment. Mal says we don't and that we would like to discuss business, having goods for trade. Invites us inside and Ezequiel goes to ask if Mr Primewater has interest.
+We knock on the door, and a half-elven man opens the door. [[Mallory Calder|Mal]] asks if he might be Mr Primewater. The man tells his name is Ezekiel, an assistant to [[Gellan Primewater|Mr. Primewater]], and asks if we have an appointment. Mal says we don't have one, but that we would like to discuss business, having goods for trade. Ezekiel invites us inside on the prospect of some business, and goes to ask if Mr. Primewater has some interest.
 
 ![[primewater-hall-inside.png]]
 
-Mal says we are from the Serpent's Tide, looking for a trade. Gellan seems interested, would send one of his contacts to come by later and seal the deal. Primewater inquires why we came to him, Mal says because we heard that he is good for his people. Primewater says that the people of the Restless Wharf have had a rough time rebuilding. Finally mentions that Mr Orlen will come by to make the deal. He asks if that is all, kind of implying that we might be there for more business.
+Inside we are asked to wait in the hall, while Ezekiel inquires with Mr. Primewater. We are invited in and find Mr. Primewater having his breakfast, and he asks why the wanted to speak to him. Mal introduces us and explains we are from a new ship in town, the Serpent's Tide, looking to make a deal to trade some goods. Gellan seems interested after hearing what goods we have for trade, and could send one of his contacts to come by later and seal the deal. Then Mr. Primewater inquires why we came to him specifically and Mal replies that we heard good stories about him, that he is good for his people. Primewater confirms that the people of the Restless Wharf have had a rough time rebuilding and tries to take care of them. 
 
-We head back to the ship, and about an hour later Mr Orlen shows up, a very pale man, to do the trading. Inspects the wares and offers 1800gp, lowballing a bit. But we agree with the initial offer conveying the message that we see this as an investment into a future relationship. Orlen says that they might be back later for a future transaction. Zhelezo sergeant by the name of [[First Sergeant Brehkan]] is called on deck to oversee the deal, and immediately take 720gp as part of the taxes. 
+Then Mr. Primewater mentions that he will send Mr. Orlan to come by to make the deal. He asks if there’s anything else he can help them with, seemingly picking up on the group perhaps wanting to ask more, but they play it safe, deciding to first see how this first trade goes. They do say that, if the first trade does go well, they’ll be interested in doing more business later down the line.
+
+We head back to the ship to wait for Orlan, and after about half an hour he shows up, looking as pale as he was described. The crew invite him on the ship and he starts inspecting the wares, offering 1800gp for the ale and spices. The figures he is lowballing a bit on the offer, but we agree with it, conveying the message that we see this as an investment into a future relationship. Orlan says that they are indeed looking forward to future transactions. The crew call in one of the [[Zhelezo]] guards to oversee the transactions. The Zhelezo guard is overseen by a member of the [[Golden Chain]], a dragonborn by the name of [[First Sergeant Brehkan]]. The two of them take the 720gp worth of taxes and then leave the ship. We are left with 1080gp which goes directly in the ship's coffer.
 
 ## 
 
 Discussing our next plans to scout out the location of the Myriad ambush, we decide to go to the Blushing Mermaid as our way to the temple of Melora. Doloris walks up to the barkeep and greets him. Barkeep asks what her business is coming back with a larger group. Doloris replies that she intends to defend the temple from some people. Barkeep is suspicious who we're defending the temple from.
 
-We head down and discuss the barkeep's suspicious questions and answers. 
+We head down and discuss the barkeep's suspicious questions and answers.
 
 Barkeep reports to the Myriad who gains entrance to the Undercellar. Stormbreaker and T'hau intimidate the barkeep into not telling the Myriad about our presence. Mentions lot 32, abandoned merchant place on The Wide, lock was broken couple months ago. We came in through there, not through the Blushing Mermaid.
 

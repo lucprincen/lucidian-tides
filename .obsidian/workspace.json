@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gellan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,10 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cf864877ae13d85",
+  "active": "da2b65103e37cd2f",
   "lastOpenFiles": [
-    "1. Characters/The Party/Mallory Calder.md",
+    "1. Characters/Nicodranas/Gellan Primewater.md",
     "Sessions/4 - A Troubled Temple.md",
+    "1. Characters/The Party/Mallory Calder.md",
     "3. Factions/Myriad.md",
     "0. Assets/Factions",
     "0. Assets/F.md",
@@ -188,7 +189,6 @@
     "2. Locations/Menagerie Coast/Nicodranas.md",
     "1. Characters/Nicodranas/First Sergeant Brehkan.md",
     "0. Assets/Characters/first-sergeant-brehkan.png",
-    "1. Characters/Nicodranas/Gellan Primewater.md",
     "0. Assets/Characters/gellan-primewater.png",
     "0. Assets/Locations/primewater-hall-inside.png",
     "0. Assets/Locations/primewater-hall.png",

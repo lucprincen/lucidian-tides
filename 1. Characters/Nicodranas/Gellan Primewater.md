@@ -1,5 +1,5 @@
 ---
-aliases: Gellan, Primewater
+aliases: Gellan, Primewater, Mr. Primewater
 ---
 ![[gellan-primewater.png]]
 
