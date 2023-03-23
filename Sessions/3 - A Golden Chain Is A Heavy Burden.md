@@ -32,7 +32,7 @@ After the conversation with Tamulia we head back upstairs. We get some more drin
 
 [[Rayna Khatri|Rayna]] asks [[Stormbreaker]] what he is going to do now. Asking if he is part of our crew now, he mentions that he has nothing else to do now, but is gladly staying around to see through to the part where we take the money from the vault. He does point out that it is a bit odd to welcome him in, as they just got to know him to be a defector. The rest mentions that he defected for a good cause and make nothing further of it.
 
-## 
+## Stoppin' from some shoppin'
 
 After some drinks, we start heading to The Wide, a large market square in Nicodranas. There, we stock up on supplies and some equipment. Rayna offers to buy Stormbreaker some new clothes, and we get us some cloaks to stay hidden when scouting the vault later.
 
@@ -46,7 +46,9 @@ After we did our shopping, we start heading back to our ship. On the ship, [[Cap
 
 Captain then shares that he learned something else. Every night around 3 AM, a thick fog sets around Nicodranas, ever since it returned from Avernus. The crew figure they might use this to their advantage, especially when it comes to the heist on The Golden Chain Vault.
 
-Finally, the captain points out the Helm & Cloak, a bar up in White Cliffs that gets frequented by a lot of Golden Chain and Zhelezo guards. Might learn a thing or two if we meddle with some disgruntled employees, or a way to get some hands on a few uniforms. Could helps us plan our heist on the vault.
+Finally, the captain points out the Helm & Cloak, a bar up in White Cliffs that gets frequented by a lot of Golden Chain and Zhelezo guards. Might learn a thing or two if we meddle with some disgruntled employees, or a way to get some hands on a few uniforms. Could help us plan our heist on the vault.
+
+## Scouting the vault
 
 We discuss what to do for the rest of the day, and as there are still a few hours left to the day, we decide to go scout the vault. We climb up to the Opal Archways neighbourhood, and walk through a part of the city that hasn't seen much restoration done yet. Lots of houses still have cracks in them, and continue to smoulder from magical remnants from Avernus. Some of the houses seem to have been fashioned into living quarters for the Golden Chain guards. Eventually, we round a corner and spot the building containing the vault.
 

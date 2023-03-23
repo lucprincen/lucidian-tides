@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
+                "file": "Sessions/4 - A Troubled Temple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "378f1aed38b6f0d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Characters/Nicodranas/Sister Pherria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f6d0103a52a7ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Characters/Nicodranas/Sister Pherria.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
+                "file": "Sessions/4 - A Troubled Temple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
+                "file": "Sessions/4 - A Troubled Temple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/3 - A Golden Chain Is A Heavy Burden.md"
+                "file": "Sessions/4 - A Troubled Temple.md"
               }
             }
           }
@@ -148,15 +172,22 @@
   },
   "active": "9cf864877ae13d85",
   "lastOpenFiles": [
-    "1. Characters/Nicodranas/Tamulia.md",
+    "1. Characters/The Party/Mallory Calder.md",
+    "Sessions/4 - A Troubled Temple.md",
+    "3. Factions/Myriad.md",
+    "0. Assets/Factions",
+    "0. Assets/F.md",
+    "0. Assets/Factions/the-myriad.png",
+    "1. Characters/Nicodranas/Sister Pherria.md",
+    "1. Characters/Nicodranas/Lady Sa'hea.md",
     "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
+    "1. Characters/Nicodranas/Tamulia.md",
     "Sessions/2 - A Defector's Decency.md",
     "Sessions/1 - Twinward Ambush.md",
     "Sessions/0 - The Serpent's Tide gets her crew.md",
-    "Sessions/4 - Session 4.md",
     "2. Locations/Menagerie Coast/Nicodranas.md",
     "1. Characters/Nicodranas/First Sergeant Brehkan.md",
-    "0. Assets/first-sergeant-brehkan.png",
+    "0. Assets/Characters/first-sergeant-brehkan.png",
     "1. Characters/Nicodranas/Gellan Primewater.md",
     "0. Assets/Characters/gellan-primewater.png",
     "0. Assets/Locations/primewater-hall-inside.png",
@@ -174,17 +205,12 @@
     "0. Assets/Locations/golden-chain-vault-map.png",
     "0. Assets/Characters/commander-duarlo-vidorant.png",
     "1. Characters/Golden Chain",
-    "0. Assets/Locations/nicodranas-map.png",
     "1. Characters/Port Zoon/Lorenzo.md",
     "1. Characters/Port Zoon",
     "Misc/Ship Roles/First Gunner.md",
     "The Party.md",
     "1. Characters/The Party/Bartholomew Brittlestone.md",
     "2. Locations/Darktow Isle/The Keel Hall.md",
-    "1. Characters/The Party/T'hau.md",
-    "1. Characters/The Party/Rayna Khatri.md",
-    "1. Characters/The Party/Mallory Calder.md",
-    "1. Characters/The Party/Doloris.md",
     "1. Characters/Gravid Archipelago",
     "1. Characters/Clovis Concord",
     "0. Assets/Misc",

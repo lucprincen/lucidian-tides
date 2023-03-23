@@ -1,0 +1,1 @@
+The lady in charge of the Melora's temple in [[Nicodranas]]. Got taken away to [[Port Damali]] by the [[Clovis Concord]] when she refused an invitation by the Grand Admiral.

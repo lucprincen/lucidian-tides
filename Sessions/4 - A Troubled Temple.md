@@ -1,3 +1,5 @@
+## Looking for the Lady of the temple
+
 [[Doloris]] heads into town, towards the temple of Melora. She knows that it can be accessed by sea or the Undercellar. Figuring the nearest entrypoint would be the Blushing Mermaid, from where she can access the Undercellar, Doloris heads there.
 
 Entering the tavern, she sees a life sized wooden mermaid hanging above a reception desk inside, with numerous blackened and withered hands nailed to its body. The place is a confusing maze of interconnected floors that hide dozens of small shabby rooms. There’s a burly looking half-orc behind the bar.
@@ -12,25 +14,25 @@ This section somewhat different, has a derelict industrial appearance. There are
 
 Doloris walks around the corner and sees two figures, an angry looking sea elf and a woman. Doloris greets the lady and asks if she is available for a chat. The sea elf seems to be the one that knocked over a brazier with embers a moment ago.
 
-The woman mentions that she isn't taking visitors at this point. Doloris asks to confirm if she is the lady of the temple. The sea elf laughs at the question. The woman excuses Acolyte Lyrndal's behaviour and introduces herself as Sister Pherria. She mentions that the real lady of the temple, Lady Sa'hea, is taken into custody for refusing a direct order of the [[Clovis Concord]]. Doloris offers some help as she introduces herself to the two. Sister Pherria mentions that Lady Sa'hea left this morning to Port Damali to see the Grand Admiral. She refused the invitation, so they took her by force instead.
+The woman mentions that she isn't taking visitors at this point. Doloris asks to confirm if she is the lady of the temple. The sea elf laughs at the question. The woman excuses Acolyte Lyrndal's behaviour and introduces herself as [[Sister Pherria]]. She mentions that the real lady of the temple, [[Lady Sa'hea]], is taken into custody for refusing a direct order of the [[Clovis Concord]]. Doloris offers some help as she introduces herself to the two. Sister Pherria mentions that Lady Sa'hea left this morning to [[Port Damali]] to see the Grand Admiral. She refused the invitation, so they took her by force instead.
 
-Doloris mentions that she wishes to vanquish the oppression in [[Nicodranas]]. Acolyte Lyrndal scoffs at the question, sacastically asking how Doloris wants to do that. Then Doloris mentions the Revelry. The two attendants of the temple give the impression that Doloris isn't the first one to make such a suggestion.
+Doloris mentions that she wishes to vanquish the oppression in [[Nicodranas]]. Acolyte Lyrndal scoffs at the question, sarcastically asking how [[Doloris]] wants to do that. Then Doloris mentions the Revelry. The two attendants of the temple give the impression that Doloris isn't the first one to make such a suggestion.
 
-Sister Pherria says that a couple of people came to the temple earlier and intend to use it as a smuggling route. Believes they didn't belong to the Revelry, but to the Myriad instead. They were way more rude and called her a sea hag, claiming that they would eventually bow to their demands. Doloris tries to gain their trust by offering her help, and offers to build a mutually beneficial relationship. Sister Pherria seems interested, but isn't too sure if it's entirely agreeable, but is open to meeting the rest of the crew to discuss it. Sister Pherria mentions that the Myriad intends to show up later that day with wares to smuggle through the temple's tunnels, without their explicit approval. Sister Pherria suggests we might be able to help out by returning to the temple later that day and confront them about their intentions.
+[[Sister Pherria]] says that a couple of people came to the temple earlier and intend to use it as a smuggling route. Believes they didn't belong to the Revelry, but to the Myriad instead. They were way more rude and called her a sea hag, claiming that they would eventually bow to their demands. Doloris tries to gain their trust by offering her help, and offers to build a mutually beneficial relationship. Sister Pherria seems interested, but isn't too sure if it's entirely agreeable, but is open to meeting the rest of the crew to discuss it. Sister Pherria mentions that the Myriad intends to show up later that day with wares to smuggle through the temple's tunnels, without their explicit approval. Sister Pherria suggests we might be able to help out by returning to the temple later that day and confront them about their intentions.
 
+## Revelations at the Helm & Cloak
 
+The others at the stake-out location decide that they have seen enough here and decide on the next steps. The plan is to get to the Helm & Cloak and see what we can learn from the Golden Chain and Zhelezo folk that frequent the place. We try to exit the building stealthily, but Mal trips on her way out and T'hau manages to catch her, as some Golden Chain guards turn their gaze towards us. T'hau masks her against the building with their carapace turning into the same stone colour as the wall, until the guards turn their attention away from us.
 
-At the stake-out, we decide on our next step and decide to get to the Helm & Cloak. We try to exit stealthily, Mal trips but T'hau catches her and masks her with his carapace turning into the same stone colour as the wall.
+We manage to sneak out and head into White Cliffs, a fairly nice neighbourhood only second to the Opal Archways. When we get to the Helm & Cloak, we can see it looks like three buildings combined into one, with two turrets on either end.
 
-We head into White Cliffs, fairly nice neighbourhood second to the Opal Archways. Get to the Helm & Cloak, seems like three buildings combined into one. Four floors, two turrets.
+The terrace has a quite number of people still in uniform, enjoying their drinks in the sun. We head inside to get some drinks, and see there are fewer people inside. Big dwarf is running the bar, he's almost bald, has a short well kept beard, and tattooed knuckles in dwarven script. Bartender says lots of [[Golden Chain]] folks hiring rooms in the tavern recently, as some of them are not very happy with housing situation near the vault.
 
-Terrace has a number of people still in uniform. Inside there are fewer people. Big dwarf is running the bar, almost bald, short well kept beard, tattooed knuckles in dwarven script. Bartender says lots of Golden Chain folks hiring rooms in the tavern, not happy with housing situation.
+T'hau orders everyone a round of drinks and we head outside to find a free table on the terrace. We engage in light conversation as [[Mallory Calder|Mal]] and [[T'hau]] try to pick up on some conversations around them. Mal hears a [[Golden Chain]] guard talk about a party.
 
-We head outside, find a table. [[Mallory Calder|Mal]] and [[T'hau]] try to pick up on some conversations. Mal hears a Golden Chain guard talk about a party.
+Suddenly, we hear someone call out "Lou" behind us. [[Mal]] turns around as she recognises the voice. She turns around and sees a female Zhelezo guard asking what she is doing here, and mentions that Mal's parent's say she died. Mal scoffs at her parents, saying that they are liars. It is in this moment that the rest of us learn that Mal's actual name is Louise.
 
-Suddenly, we hear someone call out "Lou" behind us. Mal turns around as she recognizes the voice. Asks what she is doing here, mentions she died. Says her parents say she's dead, Mal scoffs at her parents, saying that they are liars. We learn Mal's actual name is Louise.
-
-Avelina asks what Mal is doing here if she is dead. Mal mentions that she's here on trading business. Avelina wears Zhelezo levery. Lots of activity on the sea, Restless Wharf and the Skew councillors have spewed on folk to protests. Golden Chain has been a great help to the Zhelezo and Concord. Mal's parents put in a good word for her, so she is able to work in the Open Quay. Avelina leaves us alone, mentions she rents a room her.
+The Zhelezo guard introduces herself as Ava to the crew, and then asks what Mal is doing here in [[Nicodranas]]. [[Mallory Calder|Mal]] mentions that she's here on trading business. Ava shares that work is busy, lots of Myriad activity in the city, Restless Wharf and the Skew councillors have spewed on folk to protests. The [[Golden Chain]] apparently has been a great help to the [[Zhelezo]] and [[Clovis Concord|Concord]]. Mal's parents put in a good word for Ava, and is able to work in the Open Quay. Ava leaves us alone, mentions she rents a room her.
 
 As soon as the two guards who were talking about the party, we inquire about the party. In 12 days there is a party to celebrate the completion of the fortress / vault.
 
@@ -40,6 +42,8 @@ Mentions temple can't fend for themselves, so we could help the temple by fighti
 
 We get some drinks and discuss the plans for the next day.
 
+## 
+
 Doloris dreams. On a derelict crumbling wooden ship. Helmed by a faceless creature in a massive black cloak. Darkness surrounds her, ambient green light coming from the bottom. Sees the familiar waters of the river Styx. A shape in the water, shroud covering face. Wet crumpled angelic wings coming out the back. Mentally hears "it is you again child". Asks if Doloris has deciphered it yet. Shape changes into a flame out of hands, with a briar crown underneath, similar to the scroll with the calendar. 
 
 ![[briar-crown.png]]
@@ -48,9 +52,13 @@ It is the briar blaze heart, conjured to remain a secret. Only followers of Evan
 
 Doloris wakes up. Gets out of bed, unfolds the scroll with the calendar. Takes the scroll and gets up to the deck to get some fresh air. Super foggy at this time, like the captain mentioned. Sighing not being able to peer out over the sea, she gets back to bed. Bumps into Captain Sariel on the way back. Doloris asks why the fog is here, Captain mentions that the fog comes from the waters surrounding Nicodranas. Relic from the city's trip to Avernus. Doloris goes back to bed.
 
+## 
+
 We wake up and get some breakfast. Doloris asks Mal to take another look at the map. T'hau asks about Mal's name, if it's Mal or Louise. A short and awkward conversation starts over Mal's past, and it is implied that we are not to inquire any further for now.
 
 Doloris and Mal leave the table and look at the map. Doloris mentions that it is the Briar Blaze and someone else is after it, learned from her matron. They get to work on deciphering the map. Managing to make some progress, they learn that the sky on the scroll points to  a date connected to Melora, Wild's Grandure. Equinox, 20th day of third month. Just missed that mark, as it's early spring. Looking at the sky and thinking of that day, scroll seems to point to Menagerie Coast, specifically the Lushgut Forest. Location of Melora fighting Zehir and Bane. Forest itself was a prison created by Melora to keep followers of Zehir and Bane locked in. Hundreds of Melora's followers sacrificed themselves during this battle, depicted by the hands in the symbol.
+
+## 
 
 Later that morning, we head out to see Gallen Primewater in the Restless Wharf. Primewater Hall stands out about from the other buildings. Looks out over the canal and a park.
 
@@ -62,7 +70,9 @@ Knock on the door, half elf opens the door. Mal asks if he is Mr Primewater. Man
 
 Mal says we are from the Serpent's Tide, looking for a trade. Gellan seems interested, would send one of his contacts to come by later and seal the deal. Primewater inquires why we came to him, Mal says because we heard that he is good for his people. Primewater says that the people of the Restless Wharf have had a rough time rebuilding. Finally mentions that Mr Orlen will come by to make the deal. He asks if that is all, kind of implying that we might be there for more business.
 
-We head back to the shop, and about an hour later Mr Orlen shows up, a very pale man, to do the trading. Inspects the wares and offers 1800gp, lowballing a bit. But we agree with the initial offer conveying the message that we see this as an investment into a future relationship. Orlen says that they might be back later for a future transaction. Zhelezo sergeant by the name of [[First Sergeant Brehkan]] is called on deck to oversee the deal, and immediately take 720gp as part of the taxes. 
+We head back to the ship, and about an hour later Mr Orlen shows up, a very pale man, to do the trading. Inspects the wares and offers 1800gp, lowballing a bit. But we agree with the initial offer conveying the message that we see this as an investment into a future relationship. Orlen says that they might be back later for a future transaction. Zhelezo sergeant by the name of [[First Sergeant Brehkan]] is called on deck to oversee the deal, and immediately take 720gp as part of the taxes. 
+
+## 
 
 Discussing our next plans to scout out the location of the Myriad ambush, we decide to go to the Blushing Mermaid as our way to the temple of Melora. Doloris walks up to the barkeep and greets him. Barkeep asks what her business is coming back with a larger group. Doloris replies that she intends to defend the temple from some people. Barkeep is suspicious who we're defending the temple from.
 
