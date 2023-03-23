@@ -1,20 +1,22 @@
-Doloris heads into town, towards the temple of Melora. She knows that it can be accessed by sea or the undercellar. Nearest entrypoint would be the Blushing Mermaid and Doloris heads there.
+[[Doloris]] heads into town, towards the temple of Melora. She knows that it can be accessed by sea or the Undercellar. Figuring the nearest entrypoint would be the Blushing Mermaid, from where she can access the Undercellar, Doloris heads there.
 
-Wooden mermaid hangs over the door
+Entering the tavern, she sees a life sized wooden mermaid hanging above a reception desk inside, with numerous blackened and withered hands nailed to its body. The place is a confusing maze of interconnected floors that hide dozens of small shabby rooms. There’s a burly looking half-orc behind the bar.
 
-Orc mentions that if the gate is locked, try one of the other tunnels. If it gets rowdy, people get there asking for a way out.
+Knowing where the gate can be found in the tunnel, Doloris heads in that direction, but then spots the half-orc looking her way. Instead of continuing through the gate, Doloris approaches the barkeep and asks directions to the temple. Barkeep mentions the Sea Witch, which is considered a derogatory term for the sahuagin in charge of the temple, and Doloris confirms she is the one she intends to speak with.
 
-Doloris enter the tunnel, echoes can be heard from up ahead. Tunnel has multiple portcullises. She heads further into the tunnel, getting to a T section where she sees a marking of a staff with the symbol of Melora leading right. She heads in that direction, floor gets wet.
+The barkeep figures she is sincere in her inquiries when he notes the religious symbols of Melora on her armour, and grabs the key to open the rusty gate down. The barkeep does mention that if this gate is locked when she returns, to try one of the other tunnels as there's many ways out of there.
 
-This section seems somewhat industrial. Large tubes fill the place, stretching large portions of the tunnels. Doloris hears some metal being kicked over, followed by elven curse.
+As Doloris enters the tunnel, echoes can be heard up ahead. Down here she figures that is truly a maze, as there are lots of paths and portcullises leading to various places. Eventually she gets to a T intersection where she sees a marking of a staff with the symbol of Melora pointing to the right. Taking the right path, she notices that the water level begins to rise a bit as she eventually reaches a larger room.
 
-Doloris walks around the corner and greets the lady. Angered looking sea elf standing next to her, seems to be the one that knocked over a brazier with embers.
+This section somewhat different, has a derelict industrial appearance. There are large tubes and pipes that fill the place, stretching large portions of the tunnels. A loud noise can be heard from up ahead, when something metal clanks around on the floor, followed by some curses in Elvish.
 
-Sea witch mentions that she isn't taking visitors at this point. Doloris asks if she is the lady of the temple. Acolyte Lyrndal laughs at the question. Woman mentions that the real lady is taken into custody, for refusing an order of the [[Clovis Concord]]. Doloris offers some help. Sister Fariah mentions that Lady Sahea is taken to Port Damali to see the Grand Admiral.
+Doloris walks around the corner and sees two figures, an angry looking sea elf and a woman. Doloris greets the lady and asks if she is available for a chat. The sea elf seems to be the one that knocked over a brazier with embers a moment ago.
 
-Doloris mentions that she intends to vanquish the oppression in the city. Asking how Doloris wants to do that, she mentions the Revelry. They give the impression that Doloris isn't the first one to make such a suggestion.
+The woman mentions that she isn't taking visitors at this point. Doloris asks to confirm if she is the lady of the temple. The sea elf laughs at the question. The woman excuses Acolyte Lyrndal's behaviour and introduces herself as Sister Pherria. She mentions that the real lady of the temple, Lady Sa'hea, is taken into custody for refusing a direct order of the [[Clovis Concord]]. Doloris offers some help as she introduces herself to the two. Sister Pherria mentions that Lady Sa'hea left this morning to Port Damali to see the Grand Admiral. She refused the invitation, so they took her by force instead.
 
-Couple of people came to the temple to use it as a smuggling route. Didn't belong to the Revelry, but to the Myriad. Were more rude, mention sea hag, would eventually bow to their demands. Doloris tries to gain their trust by offering her help in a more sensible approach by building a relationship. Sister Fariah seems interested, but isn't too sure if it's entirely agreeable, but is open to meeting the rest of the crew. Myriad intends to show up with wares to smuggle, without approval of the temple. Suggests we might be able to help out.
+Doloris mentions that she wishes to vanquish the oppression in [[Nicodranas]]. Acolyte Lyrndal scoffs at the question, sacastically asking how Doloris wants to do that. Then Doloris mentions the Revelry. The two attendants of the temple give the impression that Doloris isn't the first one to make such a suggestion.
+
+Sister Pherria says that a couple of people came to the temple earlier and intend to use it as a smuggling route. Believes they didn't belong to the Revelry, but to the Myriad instead. They were way more rude and called her a sea hag, claiming that they would eventually bow to their demands. Doloris tries to gain their trust by offering her help, and offers to build a mutually beneficial relationship. Sister Pherria seems interested, but isn't too sure if it's entirely agreeable, but is open to meeting the rest of the crew to discuss it. Sister Pherria mentions that the Myriad intends to show up later that day with wares to smuggle through the temple's tunnels, without their explicit approval. Suggests we might be able to help out
 
 At the stake-out, we decide on our next step and decide to get to the Helm & Cloak. We try to exit stealthily, Mal trips but T'hau catches her and masks her with his carapace turning into the same stone colour as the wall.
 

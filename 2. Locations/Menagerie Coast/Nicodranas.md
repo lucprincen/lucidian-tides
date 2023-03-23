@@ -7,6 +7,6 @@ Nicodranas is the first and one of the major port cities on the [[Menagerie Coas
 The five Nicodranian councillors are: 
 - Lord de Montfort
 - Lady Sherome
-- Mister Primewater
+- [[Gellan Primewater]]
 - Misses Donegal
-- Commodore de Modesto.
+- [[Commodore de Modesto]]
