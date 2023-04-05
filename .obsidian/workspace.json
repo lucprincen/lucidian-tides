@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc8387a29a57e0c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/4 - The Troubled Temple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session list.md",
+                "file": "Sessions/4 - The Troubled Temple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session list.md",
+                "file": "Sessions/4 - The Troubled Temple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session list.md"
+                "file": "Sessions/4 - The Troubled Temple.md"
               }
             }
           }
@@ -146,9 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f6d0103a52a7ba4",
+  "active": "dc8387a29a57e0c3",
   "lastOpenFiles": [
+    "Sessions/0 - The Serpent's Tide gets her crew.md",
+    "Sessions/1 - Twinward Ambush.md",
+    "Sessions/2 - A Defector's Decency.md",
+    "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
     "Sessions/4 - The Troubled Temple.md",
+    "Session list.md",
     "1. Characters/Nicodranas/Sister Pherria.md",
     "Misc/Ship Roles/The Serpent's Tide - Ship.md",
     "0. Assets/Locations/the-serpents-tide.png",
@@ -159,11 +177,7 @@
     "0. Assets/F.md",
     "0. Assets/Factions/the-myriad.png",
     "1. Characters/Nicodranas/Lady Sa'hea.md",
-    "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
     "1. Characters/Nicodranas/Tamulia.md",
-    "Sessions/2 - A Defector's Decency.md",
-    "Sessions/1 - Twinward Ambush.md",
-    "Sessions/0 - The Serpent's Tide gets her crew.md",
     "2. Locations/Menagerie Coast/Nicodranas.md",
     "1. Characters/Nicodranas/First Sergeant Brehkan.md",
     "0. Assets/Characters/first-sergeant-brehkan.png",
@@ -176,7 +190,6 @@
     "1. Characters/Nicodranas/Commodore de Modesto.md",
     "0. Assets/Characters/commodore-de-modesto.png",
     "1. Characters/Nicodranas/Nicodranas' Councillors.md",
-    "Session list.md",
     "1. Characters/Golden Chain/Commander Da'urlo Vidorant.md",
     "Sessions/Rayna.md",
     "1. Characters/Darktow/Plank Queen Yucalia.md",

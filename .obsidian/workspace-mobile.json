@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Party.md",
+                "file": "Stormbreaker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "The Party.md",
+            "file": "Stormbreaker.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "The Party.md",
+            "file": "Stormbreaker.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,17 +114,28 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "The Party.md"
+            "file": "Stormbreaker.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "4e360a0ed01d003d",
   "lastOpenFiles": [
-    "1. People/The Party/Bartholomew Brittlestone.md",
     "The Party.md",
+    "Stormbreaker.md",
+    "1. People/The Party/Bartholomew Brittlestone.md",
     "Sessions/0 - The Serpent's Tide gets her crew.md",
     "1. T'hau/Backstory.md",
     "1. T'hau/Memes/tank.jpg",
