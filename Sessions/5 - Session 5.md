@@ -22,3 +22,5 @@ Bartholomew translates it into a list of signals:
 Kirour wears a nice piece of magical leather armour, intricate dwarven symbols embossed on it. Yaz has a bullhorn lantern for signalling ships.
 
 We discuss what to do with Kirour and how to get him out of the Undercellar. We plan to take Kirour to the Zhelezo, the Counting House near the docks.
+
+We leave for lot 32, traversing the maze of the Undercellar. Doloris is leading us out of here, but as we do, we spot
