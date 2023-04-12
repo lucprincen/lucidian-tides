@@ -70,4 +70,12 @@ Captain recalls the Pallid Grove. Takes a look at the map, and tells that they a
 
 Obaya came by that she wanted to pray in the temple. Came to thank us from some kind of horrible destiny and not heading back to Port Zoon or Port Damali, while we figure out what's going on.
 
-We find the fishmongers on the Wide to ask about the bones. Woman greets us. Rayna mentions Mr Primewater 
+We find the fishmongers on the Wide to ask about the bones. Woman greets us. Rayna mentions Mr Primewater sent us. Woman fetches her husband. Natchuala Bay, bones drifting up, more bones, even a skull. Wind started to pick up, crazy noises, horrible wind. Strange cuts on the bones.
+
+Discussing on the ship, we decide to sail out next day to not sleep near the haunted area.
+
+We have dinner on the ship and then head out to the Helm & Cloak. Rayna notices two Zhelezo counting coin, laughing at a drink person at the bar, who's a bit too deep into their drink. Seeming like they are betting on that person keeping it together. Rayna approaches the two Zhelezo guards, asking if there's something less boring to do around here. Rayna asks if there are parties around here, and the Zhelezo mentions the party in about a week. Devlon at the bar has guard duty on party night as they showed up drunk to work one day.
+
+Mal looks around if she spots Ava her friend, not noticing her in the packed crowd. From a booth Mal suddenly hears her named called out as she notices Ava sitting with a few friends. Ava seems pretty drunk, telling Mal that she finds that she needs this from time to time. Mal seems to cut through it and thinks that she is going through something. Mal asks if she wants another drink and join her a the bar. Mal orders a water for Ava instead of ale and asks her if nothing's wrong. Ava opens up and mentions that there is some trouble with the Golden Chain, a liaison by the name of Usah Ribbond. Asking about the Golden Chain, Ava tells they got involved when Nicodranas came back, few Zhelezo were left. Concord sent Golden Chain from Port Damali to guard the city until they recruited enough Zhelezo to replace them. Council and Concord want to keep Chain here. Mal's father has a big vote in that matter. Mal could convince her father to vote the Golden Chain out.
+
+Bartholomew is on the ship, alone on deck, smoking a pipe. They notice 
