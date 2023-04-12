@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01bfaaeee72aa593",
+            "id": "4d7997f7eb31c614",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Characters/People.md",
+                "file": "Sessions/5 - Session 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33a7f45a2ffdbba0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/6 - Session 6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Characters/People.md",
+                "file": "Sessions/6 - Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Characters/People.md",
+                "file": "Sessions/6 - Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Characters/People.md"
+                "file": "Sessions/6 - Session 6.md"
               }
             }
           }
@@ -146,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01bfaaeee72aa593",
+  "active": "33a7f45a2ffdbba0",
   "lastOpenFiles": [
     "Sessions/5 - Session 5.md",
+    "Sessions/6 - Session 6.md",
+    "1. Characters/People.md",
     "Sessions/4 - The Troubled Temple.md",
     "0. Assets/Misc/briar-crown.png",
     "Session list.md",
@@ -185,8 +200,6 @@
     "1. Characters/Golden Chain",
     "1. Characters/Port Zoon/Lorenzo.md",
     "1. Characters/Port Zoon",
-    "Misc/Ship Roles/First Gunner.md",
-    "The Party.md",
     "1. Characters/Gravid Archipelago",
     "1. Characters/Clovis Concord",
     "0. Assets/Misc",

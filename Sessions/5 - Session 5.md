@@ -6,7 +6,7 @@ A dwarf and two other larger creatures enter the room. Address Stormbreaker that
 
 We make short work of the ogre. Kirour the dwarf attacks Rayna.
 
-Mr Ribbons rules the Undercellar. Sanctioned by The Golden Chain, Vidorant himself. Work with the crew of The Sea Ghost, supposed to deliver cargo to them through the smuggling route. Sent a sloop to platform up the tunnel.
+Mr Ribbons rules the Undercellar. All but sanctioned by The Golden Chain, Vidorant himself. Work with the crew of The Sea Ghost, supposed to deliver cargo to them through the smuggling route. Sent a sloop to platform up the tunnel.
 
 150gp per bale of silk, 3 bales
 50gp per barrel, 8 barrels
@@ -23,4 +23,4 @@ Kirour wears a nice piece of magical leather armour, intricate dwarven symbols e
 
 We discuss what to do with Kirour and how to get him out of the Undercellar. We plan to take Kirour to the Zhelezo, the Counting House near the docks.
 
-We leave for lot 32, traversing the maze of the Undercellar. Doloris is leading us out of here, but as we do, we spot glowing eyes in a corner, and them calling out "Kirour".
+We leave for lot 32, traversing the maze of the Undercellar. Doloris is leading us out of here, but as we do, we spot glowing eyes in a corner, and a few of them calling out "Kirour".
