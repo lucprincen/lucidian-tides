@@ -62,4 +62,12 @@ Others go to visit Gellan Primewater to sell the silk. Mentioning that we have s
 
 Gellan will buy the silk from us, in return for a favour. Rumours came that bones came floating up near a fishing spot, fishermen avoid this spot now. We can inform with Léon & Thirellia Handasher, fishmongers on The Wide.
 
-Gellan gives us the advice to get acquainted
+Gellan gives us the advice to get acquainted with Ida and the Montfort family, they get majority votes on the council.
+
+Mal and Doloris are researching the documents again. They figure the Lushgut forest contains something very powerful. It's known for being impenetrable, very dense jungle. Some symbols on the document make very little sense to Doloris, but they seem vaguely Elvish in nature. Some elves worship Evandra, notably some pallid elves. They remember the captain is a pallid elf as well, and want to check in with him.
+
+Captain recalls the Pallid Grove. Takes a look at the map, and tells that they are symbols for benevolent nature spirits. Child's story that they guard the most sacred places that Melora and Evandra explored together. They show the flask with the blue liquid, captain tells its Moon Oil. Captain points to a symbol on the map, a bear-like figure hanging from a branch, Zorbo. Tells that we could ask that spirit for guidance, at the ruins of Sepesca.
+
+Obaya came by that she wanted to pray in the temple. Came to thank us from some kind of horrible destiny and not heading back to Port Zoon or Port Damali, while we figure out what's going on.
+
+We find the fishmongers on the Wide to ask about the bones. Woman greets us. Rayna mentions Mr Primewater 
