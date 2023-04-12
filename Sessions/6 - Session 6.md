@@ -30,4 +30,36 @@ Mal takes the captain down to the brig, starts interrogating Kirour, and asks us
 
 The captain and the rest of the crew are also informed.
 
-Stormbreaker has a moment of a flashback. A voice from a young officer calls to Captain Alvaro. Captain turns to Stormbreaker, asks if they disapprove with their methods. Order and discipline are important. Captain mentio
+Stormbreaker has a moment of a flashback. 
+
+> "Captain Alvaro!" a voice yells down from the portside windlass. "The scouts are rounding the corner!" 
+> 
+> Alvaro, standing next to you, doesn't flinch and remains hunched over a nautical map of the Bisaft Archipelago. 
+> 
+> - "I heard him." 
+> 
+> "Captain Alvaro!" the voice repeats, closer this time. Keeping his eyes on the nautical map, Alvaro seems to wait until he can hear the incoming footsteps.
+> 
+> Then, with all the regal weight that thirty years spent in the Concord Fleet gives to a man, he straightens up and turns towards the figure.
+> 
+> This young duty officer's brisk walk falters, coming to an abrupt halt. "Uh.. sir", as soon as he locks eyes with Alvaro, his voice falls away. 
+> 
+> Alvaro lets the silence hang in the air for a handful of heartbeats. "We are not in a cattle market in the Tumbledowns, leftennant Yarrik. This is the helm of a commanding frigate of the Clovis Concord. Routine information is not-simply shouted in the general direction of its intended recipient. Is that clear?"   
+> 
+> The young lad swallows. "Yes sir."
+> 
+> Alvaro locks his eyes a few seconds longer, then lowers his head in a slight nod. "Now. Report."
+> 
+> "Yes, sir." Yarrik swallowed again. "We've just received signals from the scouting ships, sir: the river loses any depts about a mile inland."
+> 
+> "Very good." Alvaro nods. "Dismissed."
+
+Rayna wants a hole in her door to let some light in for her plants.
+
+Mal and Doloris research the Ki'nau symbols again.
+
+Others go to visit Gellan Primewater to sell the silk. Mentioning that we have silk to sell to Ezekiel, he'll check with Mr. Primewater. We are taken inside, past a bathhouse and a ballroom. Are taken to a semicircular office, with a view of the luxurious garden. We present the silk. Gellan is interested, but asks where we obtained it. Stormbreaker hints that we obtained it from an exotic place.
+
+Gellan will buy the silk from us, in return for a favour. Rumours came that bones came floating up near a fishing spot, fishermen avoid this spot now. We can inform with Léon & Thirellia Handasher, fishmongers on The Wide.
+
+Gellan gives us the advice to get acquainted
