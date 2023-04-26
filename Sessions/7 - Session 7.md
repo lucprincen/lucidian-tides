@@ -39,10 +39,18 @@ On the surface, a knock can be heard on the back of the ship. The crew look arou
 
 T'hau has seen this symbol before, back from the place where they were enslaved, panicking heavily. Remember it as Remnant of Salar.
 
-Merfolk swim over to us. Symbol of Ogrorlo. Creature enslaved a lot of folks. Ogrorlo died, this place became a nice spot to hunt. Merfolk ask us if we're investigating the bones.
+Merfolk swim over to us, introduce themselves as Talnad and Valas. T'hau tells them about the symbol they saw, merfolk tell they call it the Symbol of Ogrorlo. Ogrorlo used to be a creature that enslaved a lot of folks around this place. Ogrorlo apparently died a while ago, since then this place became a nice spot to hunt. Merfolk ask us if we're investigating the bones. Bones floated up one day, scaring the female merfolk and cause her to lose her necklace into the gorge. Asks us if we're going to investigate.
+
+T'hau swims over to the gorge and peers over the edge, to look into
 
 Flashback:
 
 > Des / Dez?
 
 Mal sees T'hau dive, stare at the gorge and dive down into the hole. Mal rushes down, grabs them by the ankle and pulls them back up. T'hau snaps out of it and starts wondering what happened, vaguely remembering.
+
+As Mal gets T'hau to their senses, she suggests going back to the ship and discuss next steps. Just about as they were to head back, the female merfolk casts a spell and a thunderous wave blasts through the water, turning on us.
+
+A fight ensues, we defeat the merfolk.
+
+Back on the ship, T'hau and Mal explain what happened. T'hau tells them about the symbol.
