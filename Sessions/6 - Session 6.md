@@ -10,7 +10,7 @@ Doloris pushes the bugbear out of the way and opens the door. A young woman in a
 
 Bugbear finally gives in and tells us she was staying with the Myriad, messing with their dreams. They put her away, but she escaped. Now they want to put her away for good. Mal figures Enna is a hag, manacles on her feet seem to lock her to this plane.
 
-In a moment of lower attention, Enna tries to make for it, running towards the exit past Doloris and Mal. Mal tries to trip her, but Enna dodges her. Doloris tries to knock Enna out with a boomerang. She knocks her down. Rayna ensnares them with a spell. The bugbear takes Enna back to the room and locks her up.
+In a moment of lowered attention on her, Enna tries to make for it, running towards the exit past Doloris and Mal. Mal tries to trip her, but Enna dodges her. Doloris tries to knock Enna out with a boomerang. She knocks her down. Rayna ensnares them with a spell. The bugbear takes Enna back to the room and locks her up.
 
 Kirour shouts to the bugbear that he should run, but the bugbear ignores him. Rayna asks about the fireproof parrot. Bugbear doesn't know exactly, but mentions it came from the dwarf's ring. We take the ring.
 
@@ -78,6 +78,6 @@ We have dinner on the ship and then head out to the Helm & Cloak. Rayna notices 
 
 Mal looks around if she spots Ava her friend, not noticing her in the packed crowd. From a booth Mal suddenly hears her named called out as she notices Ava sitting with a few friends. Ava seems pretty drunk, telling Mal that she finds that she needs this from time to time. Mal seems to cut through it and thinks that she is going through something. Mal asks if she wants another drink and join her a the bar. Mal orders a water for Ava instead of ale and asks her if nothing's wrong. Ava opens up and mentions that there is some trouble with the Golden Chain, a liaison by the name of Usah Ribbond. Asking about the Golden Chain, Ava tells they got involved when Nicodranas came back, few Zhelezo were left. Concord sent Golden Chain from Port Damali to guard the city until they recruited enough Zhelezo to replace them. Council and Concord want to keep Chain here. Mal's father has a big vote in that matter. Mal could convince her father to vote the Golden Chain out.
 
-Bartholomew is on the ship, alone on deck, smoking a pipe, staring over the Serpent's Tide. At the last second, they hear footsteps behind them. Turning around to face it, a sword enters their stomach, poison entering their system and taking the better of them, killing them.
+Back on the ship, Bartholomew is alone on deck, smoking a pipe, staring over the Serpent's Tide's deck and out over the sea. At the last second, they hear footsteps behind them. Turning around to face it, a sword enters their stomach, poison entering their system and taking the better of them, killing them.
 
 When we get on deck, we see the ship is a mess. Sail is flapping in the wind, "Pirate scum" written in blood on the sail. Innards and outards of Bartholomew are spread out over the rigging on the ship.

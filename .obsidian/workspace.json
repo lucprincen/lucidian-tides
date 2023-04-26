@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/5 - Session 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33a7f45a2ffdbba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Sessions/6 - Session 6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33a7f45a2ffdbba0",
+  "active": "4d7997f7eb31c614",
   "lastOpenFiles": [
-    "Sessions/4 - The Troubled Temple.md",
-    "Sessions/6 - Session 6.md",
     "Sessions/5 - Session 5.md",
+    "Sessions/6 - Session 6.md",
+    "1. Characters/The Party/Bartholomew Brittlestone.md",
+    "1. Characters/The Party/Stormbreaker.md",
+    "Stormbreaker.md",
+    "Sessions/4 - The Troubled Temple.md",
     "1. Characters/Nicodranas/Nicodranas' Councillors.md",
     "1. Characters/People.md",
     "0. Assets/Misc/briar-crown.png",
@@ -194,11 +184,8 @@
     "1. Characters/Nicodranas/Commodore de Modesto.md",
     "0. Assets/Characters/commodore-de-modesto.png",
     "1. Characters/Golden Chain/Commander Da'urlo Vidorant.md",
-    "Sessions/Rayna.md",
-    "1. Characters/Darktow/Plank Queen Yucalia.md",
     "0. Assets/Locations/golden-chain-vault-map.png",
     "1. Characters/Golden Chain",
-    "1. Characters/Port Zoon/Lorenzo.md",
     "1. Characters/Port Zoon",
     "1. Characters/Gravid Archipelago",
     "1. Characters/Clovis Concord",
