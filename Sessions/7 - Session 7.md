@@ -53,4 +53,16 @@ As Mal gets T'hau to their senses, she suggests going back to the ship and discu
 
 A fight ensues, we defeat the merfolk.
 
-Back on the ship, T'hau and Mal explain what happened. T'hau tells them about the symbol.
+Back on the ship, T'hau and Mal explain what happened. T'hau tells them about the symbol and their history of enslavement.
+
+Both merfolk have a burn mark on the inside of their wrists, almost elven symbol. Symbol in Karrala for thieves, making a living out of conning people.
+
+We dive down into the gorge, it goes down 1500ft. Feel pressure building up as we dive down. Completely dark. Scratchings all over the side of the walls, looking similar to the earlier symbol, looking like some kind of words. None of us recognise the language.
+
+Rayna notices a faintly glowing green symbol and asks T'hau to go there. As I lay my hand on the symbol, I can hear a faintly whispering voice telling to "Bend the knee, pearl. The god Ogrorlo, the shield and our protector, rests here"
+
+Hieroglyphics carved into the side of a stone chest at the bottom. 
+
+T'hau opens the chest and finds white pearls, larger pink pearls, single large black pearl. Trident. Figurine of coral.
+
+Doloris picks up the black pearl, swims up to the symbol T'hau touched, and gets a vision of a city of aboleths. Two creatures with rows of red eyes swim up to Doloris' vision and she pulls back as her heads starts hurting. Doloris relays this to all of us. Doesn't fully ring a 
