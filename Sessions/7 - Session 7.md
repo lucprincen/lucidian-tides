@@ -25,6 +25,24 @@ Rayna leads a few of us around the docks, looking for another ship. There's two 
 
 A few hours later, we have prepared ourselves for the journey out into Natchualla Bay. We sail out and find the spot in the bay. The bay is flanked by the cliffs of The Menagie Coast, a main pillar stands out from the water. There's large patches of coral below us. We don't spot any bones from the surface, so Mal and T'hau dive into the water to do some further scouting.
 
-As soon as we dive into the water, T'hau notices that in the largest coral reef a bit further up, there's a cave in the cliffs. There's also a crevasse that plunges into the depths. A large anemone. There's also a few graves, mounds of dirt with remembrances on them, a few bones sticking out. We swim over to investigate, many different types of bones. One has been dug up, but we have no idea how or what has done that. Underwater graves for sea dwelling folks are fairly common. We are fairly close to Karrakala, a city of merfolk. But there's more bones and corpses, even on K'thaumi. Seems odd to T'hau that there's more K'thaumi this far out.
+As soon as we dive into the water, T'hau notices that in the largest coral reef a bit further up, there's a cave in the cliffs. There's also a crevasse that plunges into the depths. A large anemone. There's also a few graves, mounds of dirt with remembrances on them, a few bones sticking out. We swim over to investigate, many different types of bones. One has been dug up, but we have no idea how or what has done that. Underwater graves for sea dwelling folks are fairly common. We are fairly close to Karrakala, a city of merfolk. But there's more bones and corpses, even on K'thaumi. Seems odd to T'hau that there's more K'thaumi this far out, but doesn't recognize the corpse.
 
-Mal finds t
+Mal finds that the dug up grave has been recently dug up by webbed humanoid hands. Previous graves have been dug up and smoothed over.
+
+Mal spots a symbol scratched into the walls of the crevasse:
+
+![[Pasted image 20230426212450.png]]
+
+As she points out the symbol to T'hau, when they look at it, something takes a hold of them and starts thrashing about.
+
+On the surface, a knock can be heard on the back of the ship. The crew look around and see two merfolk addressing them, asking if we're here to investigate the bones. Two are from Karrakala and are glad to hear that we're investigating. The merfolk tell the crew that bones erupted out from the ocean, freaked them out and the female merfolk lost her necklace. The crew tell that Mal and T'hau
+
+T'hau has seen this symbol before, back from the place where they were enslaved, panicking heavily. Remember it as Remnant of Salar.
+
+Merfolk swim over to us. Symbol of Ogrorlo. Creature enslaved a lot of folks. Ogrorlo died, this place became a nice spot to hunt. Merfolk ask us if we're investigating the bones.
+
+Flashback:
+
+> Des / Dez?
+
+Mal sees T'hau dive, stare at the gorge and dive down into the hole. Mal rushes down, grabs them by the ankle and pulls them back up. T'hau snaps out of it and starts wondering what happened, vaguely remembering.
