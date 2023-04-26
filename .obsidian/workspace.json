@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56870d3d83508521",
+  "active": "915794d898346a25",
   "lastOpenFiles": [
+    "Sessions/6 - Session 6.md",
     "Sessions/5 - Session 5.md",
     "Sessions/7 - Session 7.md",
-    "Sessions/6 - Session 6.md",
     "1. Characters/The Party/Bartholomew Brittlestone.md",
     "1. Characters/The Party/Stormbreaker.md",
     "Stormbreaker.md",
