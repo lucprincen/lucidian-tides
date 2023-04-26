@@ -12,3 +12,19 @@ Stormbreaker finds Rayna on deck, who's staring out over the sea, asking herself
 
 Zhelezo comes on deck to assess the situation, asks what happened, if anyone was witness to this. Zhelezo officer by the name of Levinia starts asking everybody questions, another taking notes of our answers and the scene. Levinia tells us they have seen similar scenes like this, a message from The Myriad. Ship and captain needs to stay in the Restless Wharf during the investigation, so we need to find another ship to sail out to Natchualla Bay.
 
+Doloris stays up all night to take care of Bartholomew's body, trying to mend it to a better state for his funeral. The rest gets a night's rest. The following morning Doloris is finishing up her work on Bartholomew's body, making his wounds seem hardly recognisable anymore. We find his bucket list, and tick off the final few boxes:
+
+- Teach a few intrepid youngsters
+- Become a pirate again
+- Go on an adventure
+- See Belinda again
+
+The almost completed bucket list will be sent off with his body when we do a burial at sea.
+
+Rayna leads a few of us around the docks, looking for another ship. There's two fishing crew squabbling amongst each other for a fishing spot. There's also a seemingly drunken man in a large sloop with a sail, called The Hydra. Rayna asks if we can borrow the ship to clear the fishing spot that's been bothering the fishermen. Man will be at the Low Lantern.
+
+A few hours later, we have prepared ourselves for the journey out into Natchualla Bay. We sail out and find the spot in the bay. The bay is flanked by the cliffs of The Menagie Coast, a main pillar stands out from the water. There's large patches of coral below us. We don't spot any bones from the surface, so Mal and T'hau dive into the water to do some further scouting.
+
+As soon as we dive into the water, T'hau notices that in the largest coral reef a bit further up, there's a cave in the cliffs. There's also a crevasse that plunges into the depths. A large anemone. There's also a few graves, mounds of dirt with remembrances on them, a few bones sticking out. We swim over to investigate, many different types of bones. One has been dug up, but we have no idea how or what has done that. Underwater graves for sea dwelling folks are fairly common. We are fairly close to Karrakala, a city of merfolk. But there's more bones and corpses, even on K'thaumi. Seems odd to T'hau that there's more K'thaumi this far out.
+
+Mal finds t
