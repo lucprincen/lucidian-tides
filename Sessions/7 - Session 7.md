@@ -49,31 +49,31 @@ Flashback:
 > 
 > Jungle vines and palmtrees around you as a few loose rocks crumble off and tumble down. 
 > 
-> You stare into the choppy waves, dozens of feet below you, slapping themselves agains the rock.
+> You stare into the choppy waves, dozens of feet below you, slapping themselves against the rock.
 > 
-> The smile vanishes. And you get this feeling that all mortals are familiar with: the call to the void. "What if, i'd jump". It's this strange sensation where you are suddenly left pondering your own mortality. 
+> The smile vanishes. And you get this feeling that all mortals are familiar with: the call of the void. "What if, i'd jump". It's this strange sensation where you are suddenly left pondering your own mortality. 
 > 
-> But it's deeper then that. A pit forms in your stomach as you see the deep blue waters below you. Somehow knowing that your are doomed to sink to their debts one day. 
+> But it's deeper than that. A pit forms in your stomach as you see the deep blue waters below you. Somehow knowing that your are doomed to sink to their depths one day. 
 > 
 > In the distance a seagull is cawing.
 > 
 > You are shaken out of your moment by two hands grabbing you at the shoulders and saying "Got you!". As the hands direct you to turn around, you stare into a bright smiling face. Freckles peeking through her mocca-colored skin. A big mop of curly black hair trailing her. 
 > 
-> The seagul continues to caw.
+> The seagull continues to caw.
 > 
 > Her brown eyes turning a glowing amber in the trailing light of the sun. The pit in your stomach melts away as you see her smile... And all she says is "are you okay Dez? I... i didn't mean to scare you... I'm sorry"
 > 
 > She looks worried, taking your hands and directing you away from the ledge. 
 > 
-> The seagul's screeches turn into screams of your name: "T'hau! T'hau!". 
+> Then the seagull's screeches turn into screams of your name: "T'hau! T'hau!". 
 
-Mal sees T'hau dive, stare at the gorge and dive down into the hole. Mal rushes down, grabs them by the ankle and pulls them back up. T'hau snaps out of it and starts wondering what happened, vaguely remembering.
+Mal sees T'hau dive, stare at the gorge and dive down into the hole. Mal rushes down, grabs them by the ankle and pulls them back up. T'hau snaps out of it as Mal shouts their name and then starts wondering what happened, trying hard to remember the flashback they had just now.
 
-As Mal gets T'hau to their senses, she suggests going back to the ship and discuss next steps. Just about as they were to head back, the female merfolk casts a spell and a thunderous wave blasts through the water, turning on us.
+As Mal gets T'hau to their senses, she suggests going back to the ship and discuss next steps for this place. Just about as they were to head back, the female merfolk suddenly turns on us and casts a spell as a thunderous wave blasts through the water.
 
 A fight ensues, we defeat the merfolk.
 
-Back on the ship, T'hau and Mal explain what happened. T'hau tells them about the symbol and their history of enslavement.
+Mal, Stormbreaker and T'hau swim back to the rest. Back on the ship, T'hau and Mal explain what just happened. T'hau tells them about the symbol and their history of enslavement.
 
 Both merfolk have a burn mark on the inside of their wrists, almost elven symbol. Symbol in Karrala for thieves, making a living out of conning people.
 
