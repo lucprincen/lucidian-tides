@@ -45,7 +45,27 @@ T'hau swims over to the gorge and peers over the edge, to look into
 
 Flashback:
 
-> Des / Dez?
+> You are out of breath. You've ran as hard as you could. A laugh still feelable in your cheeks. Your dark skinned bare feet stop your forward momentum at the edge of a cliff. 
+> 
+> Jungle vines and palmtrees around you as a few loose rocks crumble off and tumble down. 
+> 
+> You stare into the choppy waves, dozens of feet below you, slapping themselves agains the rock.
+> 
+> The smile vanishes. And you get this feeling that all mortals are familiar with: the call to the void. "What if, i'd jump". It's this strange sensation where you are suddenly left pondering your own mortality. 
+> 
+> But it's deeper then that. A pit forms in your stomach as you see the deep blue waters below you. Somehow knowing that your are doomed to sink to their debts one day. 
+> 
+> In the distance a seagull is cawing.
+> 
+> You are shaken out of your moment by two hands grabbing you at the shoulders and saying "Got you!". As the hands direct you to turn around, you stare into a bright smiling face. Freckles peeking through her mocca-colored skin. A big mop of curly black hair trailing her. 
+> 
+> The seagul continues to caw.
+> 
+> Her brown eyes turning a glowing amber in the trailing light of the sun. The pit in your stomach melts away as you see her smile... And all she says is "are you okay Dez? I... i didn't mean to scare you... I'm sorry"
+> 
+> She looks worried, taking your hands and directing you away from the ledge. 
+> 
+> The seagul's screeches turn into screams of your name: "T'hau! T'hau!". 
 
 Mal sees T'hau dive, stare at the gorge and dive down into the hole. Mal rushes down, grabs them by the ankle and pulls them back up. T'hau snaps out of it and starts wondering what happened, vaguely remembering.
 
@@ -65,4 +85,6 @@ Hieroglyphics carved into the side of a stone chest at the bottom.
 
 T'hau opens the chest and finds white pearls, larger pink pearls, single large black pearl. Trident. Figurine of coral.
 
-Doloris picks up the black pearl, swims up to the symbol T'hau touched, and gets a vision of a city of aboleths. Two creatures with rows of red eyes swim up to Doloris' vision and she pulls back as her heads starts hurting. Doloris relays this to all of us. Doesn't fully ring a 
+Doloris picks up the black pearl, swims up to the symbol T'hau touched, and gets a vision of a city of aboleths. Two creatures with rows of red eyes swim up to Doloris' vision and she pulls back as her heads starts hurting. Doloris relays this to all of us. Doesn't fully ring a bell with T'hau.
+
+Trident is made of adamantium, +1 trident. Pearls are worth 2000gp. Mal finds that the figurine is a figurine of wondrous power, containing a hunter shark that can be summoned from it.
