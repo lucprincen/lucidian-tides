@@ -36,7 +36,7 @@ Stormbreaker has a moment of a flashback.
 > 
 > Alvaro, standing next to you, doesn't flinch and remains hunched over a nautical map of the Bisaft Archipelago. 
 > 
-> - "I heard him." 
+> "I heard him." 
 > 
 > "Captain Alvaro!" the voice repeats, closer this time. Keeping his eyes on the nautical map, Alvaro seems to wait until he can hear the incoming footsteps.
 > 

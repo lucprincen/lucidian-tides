@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d7997f7eb31c614",
+            "id": "915794d898346a25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/6 - Session 6.md",
+                "file": "Sessions/7 - Session 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ribbon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/6 - Session 6.md",
+                "file": "Sessions/7 - Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/6 - Session 6.md",
+                "file": "Sessions/7 - Session 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/6 - Session 6.md"
+                "file": "Sessions/7 - Session 7.md"
               }
             }
           }
@@ -146,9 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d7997f7eb31c614",
+  "active": "56870d3d83508521",
   "lastOpenFiles": [
     "Sessions/5 - Session 5.md",
+    "Sessions/7 - Session 7.md",
     "Sessions/6 - Session 6.md",
     "1. Characters/The Party/Bartholomew Brittlestone.md",
     "1. Characters/The Party/Stormbreaker.md",
@@ -183,7 +185,6 @@
     "Sessions/menagerie-coast.md",
     "1. Characters/Nicodranas/Commodore de Modesto.md",
     "0. Assets/Characters/commodore-de-modesto.png",
-    "1. Characters/Golden Chain/Commander Da'urlo Vidorant.md",
     "0. Assets/Locations/golden-chain-vault-map.png",
     "1. Characters/Golden Chain",
     "1. Characters/Port Zoon",
