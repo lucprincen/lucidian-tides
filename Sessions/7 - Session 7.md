@@ -73,7 +73,7 @@ As Mal gets T'hau to their senses, she suggests going back to the ship and discu
 
 A fight ensues, we defeat the merfolk.
 
-Mal, Stormbreaker and T'hau swim back to the rest. Back on the ship, T'hau and Mal explain what just happened. T'hau tells them about the symbol and their history of enslavement.
+Mal, Stormbreaker and T'hau swim back to the rest. Back on the ship, T'hau and Mal explain what just happened. T'hau tells them about the symbol and their history of mental enslavement.
 
 Both merfolk have a burn mark on the inside of their wrists, almost elven symbol. Symbol in Karrala for thieves, making a living out of conning people.
 
