@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/7 - Session 7.md",
+                "file": "Sessions/5 - Session 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/7 - Session 7.md",
+                "file": "Sessions/5 - Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/7 - Session 7.md",
+                "file": "Sessions/5 - Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/7 - Session 7.md"
+                "file": "Sessions/5 - Session 5.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "915794d898346a25",
   "lastOpenFiles": [
-    "0. Assets/Pasted image 20230426212450.png",
-    "Sessions/6 - Session 6.md",
+    "1. Characters/Myriad/Kirour.md",
+    "1. Characters/Myriad",
     "Sessions/5 - Session 5.md",
     "Sessions/7 - Session 7.md",
+    "0. Assets/Pasted image 20230426212450.png",
+    "Sessions/6 - Session 6.md",
     "1. Characters/The Party/Bartholomew Brittlestone.md",
     "1. Characters/The Party/Stormbreaker.md",
     "Stormbreaker.md",
@@ -182,9 +184,7 @@
     "0. Assets/Locations/primewater-hall-inside.png",
     "0. Assets/Locations/primewater-hall.png",
     "0. Assets/Locations/menagerie-coast.png",
-    "Sessions/menagerie-coast.md",
     "0. Assets/Characters/commodore-de-modesto.png",
-    "0. Assets/Locations/golden-chain-vault-map.png",
     "1. Characters/Golden Chain",
     "1. Characters/Port Zoon",
     "1. Characters/Gravid Archipelago",

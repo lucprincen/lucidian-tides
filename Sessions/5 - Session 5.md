@@ -1,8 +1,12 @@
-We plan the ambush for the Myriad.
+In the room connecting the Undercellar to a sea entrance, we start planning the ambush for the Myriad. To the north is a basin with its water level about 10ft below the walkway, an ideal spot to stay out of sight and ambush. 
 
-We build a raft in the basin, Rayna turns into a spider, Stormbreaker waits near a railing.
+We find some poles and planks and construct a basic raft that would hold a few of us out of sight. We lower it into the water as soon as its finished and [[Mallory Calder|Mal]], [[T'hau]] and [[Doloris]] wait on the raft.
 
-A dwarf and two other larger creatures enter the room. Address Stormbreaker that they haven't seen him earlier. Asks where [[Sister Pherria]] is who they made the deal with. A short discussion ensues. Stormbreaker tries to make a deal they can't refuse, to asks to leave the barrels, turn away and cease Myriad activity. Dwarf laughs and asks Yaz the ogre to show Stormbreaker what they're about. Ogre starts swinging the anchor and chain from their neck. At that cue, we start attacking.
+Meanwhile, [[Rayna Khatri|Rayna]] turns herself into a spider and positions herself above the door where we suspect The Myriad folks would be entering from. [[Stormbreaker]] positions himself along the walkway, to meet anyone entering the room.
+
+Some time later, we hear the sounds of rolling of barrels get louder and louder. Then, an elder and somewhat sickly looking dwarf named Kirour, and two other larger creatures enter the room. They address Stormbreaker, telling him that they haven't seen him earlier. The dwarven figure asks where [[Sister Pherria]] is who they made the deal with. A short discussion ensues about letting them pass to the sea entrance.
+
+Stormbreaker offers a deal they can't refuse, and tells them to leave the barrels, turn away and cease Myriad activity. The dwarf laughs in his face, then asks Yaz the ogre to show Stormbreaker what they're about. The ogre starts swinging the anchor and chain from their neck. At that cue, we start attacking.
 
 We make short work of the ogre. Kirour the dwarf attacks Rayna.
 
