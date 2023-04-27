@@ -14,23 +14,21 @@ When we were talking with the bugbear and not directly engaging with Enna, she t
 
 The exit through Lot 32 is just up ahead, and leads to a small empty cellar. There's a few wooden supports for casks, and a ladder leads up to a hatch. We exit on the periphery of the Wide. We see drunks are being brushed out of taverns and inns, as it's quite late already.
 
-We decide to make our way to the Counting House on the docks to deliver [[Kirour Grimblade|Kirour]] and one barrel as proof. [[Zhelezo]] guards on the balcony notice us as we approach, and ask what our business is. Another Zhelezo guard emerges a moment later, asking what the fuss is about. We present Kirour and the barrel and make our case, telling the guard that Kirour approached us with an illicit deal and turned on us when we refused. 
+We decide to make our way to the Counting House on the docks to deliver [[Kirour Grimblade|Kirour]] and one barrel as proof. [[Zhelezo]] guards on the balcony notice us as we approach, and ask what our business is. A Zhelezo officer emerges a moment later, asking what the fuss is about this late of an hour. We present Kirour and the barrel and make our case, telling the guard that Kirour approached us with an illicit deal and turned on us when we refused. 
 
-oesn't immediately take Kirour in, as they want to check our accusations. With the mention of Myriad, the guard seems very surprised. Kirour shouts that the guard should mention their name to First Sergeant Brehkan. We mention that the Myriad is in cahoots with the Golden Chain. Zhelezo guard mentions that they will try to avoid the First Sergeant.
+The guard doesn't immediately take Kirour in, as they want to check our accusations, but they'll have to do that the following day. When we additionally mention [[Myriad|The Myriad]], the guard seems very surprised. Kirour shouts that the guard should mention their name to [[First Sergeant Brehkan]]. We tell the guard that we learned that the Myriad is in cahoots with the [[Golden Chain]]. The officer mentions that they will do their best to avoid the First Sergeant and deal with this solely with other Zhelezo, as not to wake any sleeping dogs. They don't have any space in The Counting House to hold someone prisoner though, so he requests we hold on to Kirour while they check on our accusations. We negotiate a small fee for our troubles and take Kirour to the ship.
 
-We go to the ship, put Kirour in the brig and get some rest. Kirour is acting like a petulant child for a while, as Stormbreaker and T'hau guard Kirour.
+On the ship, we immediately put [[Kirour Grimblade|Kirour]] in the brig and get some rest after a long day. For a while, Kirour is acting like a petulant child, as [[Stormbreaker]] and [[T'hau]] take turns guarding him.
 
-Rayna checks the broom closet, and a single green bud is growing from the soil in one of her pots. It's a bud of a nutmeg shrub. Iggy scuttles up Rayna's shoulder, looks at her. Rayna tells it not to burn the plant. Iggy braces himself for a moment and the cracks in its obsidian body glow up, seeming to ask if this place needs more light.
+[[Rayna Khatri|Rayna]] goes to check on her plants in the broom closet, and a single green bud is growing from the soil in one of her pots. It's a bud of a nutmeg shrub. Iggy scuttles up Rayna's shoulder, and looks at her. Rayna tells it not to burn the plant. Iggy braces himself for a moment and the cracks in its obsidian body glow up, seemingly asking if this place needs more light.
 
-Mal investigates the ring and learns that it is magic. It is tied to a fiendish patron and would need a pact for its wielder to utilise its power. Gem seems like it's worth quite a bit of money, after the magic would die down eventually.
+[[Mallory Calder|Mal]] investigates the ring and learns that it is magic. It's magic however is tied to a fiendish patron and would need its wielder to make a pact with one to utilise its power. The gem seems like it's worth quite a bit of money, but only after the magic would have subsided over some time.
 
-Later during that morning, four Zhelezo show up, one wearing an officer's uniform, a woman with long red hair. Introduces herself as captain Levenia. Confirmed to us that eight casks were stolen indeed, asks us where the other casks are as we only have one. Mal says Kirour only approached us with one, but the captain doesn't seem to fully buy the story.
+Later during that morning, four [[Zhelezo]] show up, one wearing an officer's uniform, a woman with long red hair. Introduces herself as captain Levenia. Confirmed to us that eight casks were stolen, and then starts asking if we know where the other casks are, as we have only presented one as evidence. [[Mallory Calder|Mal]] says Kirour only approached us with one, but captain Levenia doesn't seem to fully buy the story.
 
-Mal takes the captain down to the brig, starts interrogating Kirour, and asks us about the other barrels. Stormbreaker makes up a bullshit story about us drinking seven barrels. Captain sees through our lies and Stormbreaker finally gives in and tells her that we'll deliver all the barrels. With that, she mentions there is a price of 500gp on Kirour's head. We also mention that Vidorant was named by Kirour to the officer, which seems to worry the Zhelezo quite a bit. Says Zhelezo are a bit powerless in the Undercellar.
+Mal takes the captain Levenia down to the brig, who then starts interrogating Kirour. After a short interrogation, she again asks us about the remaining barrels.[[Stormbreaker]] tries to make up a bullshit story about us drinking the other seven barrels, but captain Levenia sees through our lies. Stormbreaker finally gives in and tells her that we have them, and we'll deliver all the barrels to them. Having dealt with that, she mentions there is a price of 500gp on Kirour's head. Asking if there is any other worthwhile information, we tell captain Levenia that Kirour named [[Commander Da'urlo Vidorant|Vidorant]] sanctioning [[Myriad]] business in the Undercellar. That does worry the Zhelezo quite a bit, as they are relatively powerless in [[Nicodranas]]
 
-The captain and the rest of the crew are also informed.
-
-Stormbreaker has a moment of a flashback. 
+As we update the captain on what just happened, Stormbreaker has a flashback to a similar situation from a while ago. 
 
 > "Captain Alvaro!" a voice yells down from the portside windlass. "The scouts are rounding the corner!" 
 > 
@@ -54,15 +52,13 @@ Stormbreaker has a moment of a flashback.
 > 
 > "Very good." Alvaro nods. "Dismissed."
 
-Rayna wants a hole in her door to let some light in for her plants.
+We finish up the business with the Zhelezo, delivering [[Kirour Grimblade|Kirour]] and the remaining barrels to The Counting House for the 500gp reward.
 
-Mal and Doloris research the Ki'nau symbols again.
+The group splits up, [[Doloris]] and [[Mallory Calder|Mal]] staying behind to take another look at the Briarblaze Heart. [[Rayna Khatri|Rayna]], [Stormbreaker] and [[T'hau]] head to Primewater Hall to see if they can sell the silk.
 
-Others go to visit Gellan Primewater to sell the silk. Mentioning that we have silk to sell to Ezekiel, he'll check with Mr. Primewater. We are taken inside, past a bathhouse and a ballroom. Are taken to a semicircular office, with a view of the luxurious garden. We present the silk. Gellan is interested, but asks where we obtained it. Stormbreaker hints that we obtained it from an exotic place.
+As we approach the door, we are greeted again by Ezekiel. Mentioning that we have silk to sell, he says he'll check with Mr. Primewater. We are taken inside, past a bathhouse and a ballroom. We are taken to a semicircular office, with a view of the luxurious garden behind the mansion. We present the silk to [[Gellan Primewater|Mr. Primewater]], and he says is interested, but would like to know where we obtained it. [[Stormbreaker]] hints that we obtained it from an exotic place. [[Gellan Primewater|Mr. Primewater]] will buy the silk from us, in return for a favour. Rumours came in recently that bones started floating up near a popular fishing spot, and fishermen are avoiding this spot now. Helping the fishermen in his name would gain him a few favours with his voters as well, so there's a win-win situation. He tells us that we can check with Léon & Thirellia Handasher, fishmongers running Handasher Fish on The Wide.
 
-Gellan will buy the silk from us, in return for a favour. Rumours came that bones came floating up near a fishing spot, fishermen avoid this spot now. We can inform with Léon & Thirellia Handasher, fishmongers on The Wide.
-
-Gellan gives us the advice to get acquainted with Ida and the Montfort family, they get majority votes on the council.
+[[Gellan Primewater|Mr. Primewater]] suggests to also get acquainted with Ida and the Montfort family, as they get majority votes on the council.
 
 Mal and Doloris are researching the documents again. They figure the Lushgut forest contains something very powerful. It's known for being impenetrable, very dense jungle. Some symbols on the document make very little sense to Doloris, but they seem vaguely Elvish in nature. Some elves worship Evandra, notably some pallid elves. They remember the captain is a pallid elf as well, and want to check in with him.
 

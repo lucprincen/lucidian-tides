@@ -5,4 +5,4 @@ aliases: Rayna
 
 Class: Druid
 
-Alchemist of [[The Serpent's Tide]]
+Alchemist of [[The Serpent's Tide]]. Has a pet fire gecko called Iggy.
