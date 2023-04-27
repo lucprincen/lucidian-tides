@@ -1,8 +1,8 @@
-We follow [[Doloris]] through the Undercellar, as we suddenly spot a dwarf and a bugbear near a door. They notice Kirour Grimblade and call out to him. [[T'hau]] grabs him and ask him to tell his friends to back off. Kirour ignores that request, seeing this as an opportunity.
+We follow [[Doloris]] through the Undercellar, as we are suddenly spotted by a dwarf and a bugbear near a door. They notice [[Kirour Grimblade]] and call out to him. [[T'hau]] grabs him and ask him to tell his friends to back off. Kirour ignores that request, seeing this as an opportunity for him to be freed.
 
-Mal walks up to the dwarf and bugbear, who are quick to bar the door they are in front of. Mal shouts out she senses something fiendish nearby. The dwarf and bugbear get out their weapons and start fighting Mal.
+[[Mallory Calder|Mal]] walks up to the dwarf and bugbear, who are quick to bar the door they are in front of. Mal shouts out she senses something fiendish nearby. The dwarf and bugbear get out their weapons and start fighting Mal.
 
-We hear a loud scream coming from the door the bugbear is guarding.
+We hear a loud scream coming from behind the door the bugbear is guarding.
 
 T'hau summons their echo, moves it through the sewage of the Sluice Weave and haves it emerges near the dwarf to attack him. Mal attacks the dwarf as well and drops him. Mal then walks up to the bugbear, asking what's behind the door. He's keeping it shut for our own good. Tells us he'll talk to us if we can pass a piece of wood to bar the door down.
 

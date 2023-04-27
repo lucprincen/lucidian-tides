@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1db75c72e8c69dde",
+        "id": "fa5ca732addba644",
         "type": "tabs",
         "children": [
           {
-            "id": "915794d898346a25",
+            "id": "a45c3703a5f22491",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/5 - Session 5.md",
+                "file": "Sessions/6 - Session 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/5 - Session 5.md",
+                "file": "Sessions/6 - Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/5 - Session 5.md",
+                "file": "Sessions/6 - Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/5 - Session 5.md"
+                "file": "Sessions/6 - Session 6.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "915794d898346a25",
+  "active": "a45c3703a5f22491",
   "lastOpenFiles": [
+    "Sessions/5 - A Silky Smooth Ambush.md",
+    "1. Characters/Myriad/Kirour Grimblade.md",
+    "Sessions/6 - Session 6.md",
     "3. Factions/Golden Chain.md",
-    "Sessions/5 - Session 5.md",
-    "1. Characters/Myriad/Kirour.md",
     "1. Characters/Myriad",
     "Sessions/7 - Session 7.md",
     "0. Assets/Pasted image 20230426212450.png",
-    "Sessions/6 - Session 6.md",
     "1. Characters/The Party/Bartholomew Brittlestone.md",
     "1. Characters/The Party/Stormbreaker.md",
     "Stormbreaker.md",
