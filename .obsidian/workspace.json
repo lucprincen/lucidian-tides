@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ribbon",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,8 +149,8 @@
   "active": "a45c3703a5f22491",
   "lastOpenFiles": [
     "Sessions/5 - A Silky Smooth Ambush.md",
-    "1. Characters/Myriad/Kirour Grimblade.md",
     "Sessions/6 - Session 6.md",
+    "1. Characters/Myriad/Kirour Grimblade.md",
     "3. Factions/Golden Chain.md",
     "1. Characters/Myriad",
     "Sessions/7 - Session 7.md",

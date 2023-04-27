@@ -24,6 +24,6 @@ They discuss what to do about Kirour. [[Stormbreaker]] suggests turning him into
 
 [[Sister Pherria]] says that she thinks they can perhaps work together with the [[The Revelry|Revelry]] in the future, perhaps once they get rid of some of the [[Myriad]] and [[Golden Chain]] corruption in the city.
 
-We decide to signal the ship with ‘not today, situation’s too hot’, and bring Kirour to the Counting House, which is the Zhelezo office of sorts in the Restless Wharf. They ask Pherria for directions to lot 32, which she broadly gives. They head there, asking [[Bartholomew Brittlestone|Bartholomew]] to take the silk back to [[The Serpent's Tide]]. 
+We decide to signal the ship with ‘not today, situation’s too hot’, and bring Kirour to the Counting House, which is the Zhelezo office of sorts in the Restless Wharf. They ask Pherria for directions to lot 32, which she broadly gives. We start heading there, asking [[Bartholomew Brittlestone|Bartholomew]] to take the silk back to [[The Serpent's Tide]]. The rest of us take the barrels with us.
 
 [[Doloris]] leads us out of the Undercellar, but as we do, we spot glowing eyes in a corner. The notice us as well, and then starts calling out for [[Kirour Grimblade|Kirour]] as they see we have him captive.
