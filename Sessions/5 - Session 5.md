@@ -4,14 +4,15 @@ We find some poles and planks and construct a basic raft that would hold a few o
 
 Meanwhile, [[Rayna Khatri|Rayna]] turns herself into a spider and positions herself above the door where we suspect The Myriad folks would be entering from. [[Stormbreaker]] positions himself along the walkway, to meet anyone entering the room.
 
-Some time later, we hear the sounds of rolling of barrels get louder and louder. Then, an elder and somewhat sickly looking dwarf named Kirour, and two other larger creatures enter the room. They address Stormbreaker, telling him that they haven't seen him earlier. The dwarven figure asks where [[Sister Pherria]] is who they made the deal with. A short discussion ensues about letting them pass to the sea entrance.
+Some time later, we hear the sounds of rolling of barrels get louder and louder. Then, an elder and somewhat sickly looking dwarf named [[Kirour]] enters the room, together with an ogre called Yaz and a strange creature with crystal-like scales called Ocremoch. They address Stormbreaker, telling him that they haven't seen him earlier and he's in their way. Kirour asks where [[Sister Pherria]] is who they made the deal with. A short discussion ensues about letting them pass to the sea entrance.
 
-Stormbreaker offers a deal they can't refuse, and tells them to leave the barrels, turn away and cease Myriad activity. The dwarf laughs in his face, then asks Yaz the ogre to show Stormbreaker what they're about. The ogre starts swinging the anchor and chain from their neck. At that cue, we start attacking.
+[[Stormbreaker]] offers a deal they can't refuse, and tells them to leave the barrels, turn away and cease [[Myriad]] activity. Kirour laughs at this offer, and then asks Yaz the ogre to show Stormbreaker what they're about. Yaz grabs the large anchor and chain around his neck, and starts swinging it at Stormbreaker.
 
-We make short work of the ogre. Kirour the dwarf attacks Rayna.
+As soon as we hear the combat start, we trigger the ambush and jump up on the walkway from our raft. We make short work of Yaz and Ocremoch. Seeing the odds turn against him, Kirour tries to make a break for it, turning invisible and running towards the door. T'hau manages to intercept him using their echo teleportation, blocking the door.
 
-Mr Ribbons rules the Undercellar. All but sanctioned by The Golden Chain, Vidorant himself. Work with the crew of The Sea Ghost, supposed to deliver cargo to them through the smuggling route. Sent a sloop to platform up the tunnel.
+We manage to capture Kirour and start interrogating him. We learn that Heltur Ribbond, also known as Mr Ribbons, runs the Undercellar. The Myriad activity here is all but sanctioned by [[Golden Chain|The Golden Chain]], namely [[Commander Da'urlo Vidorant|Vidorant]] himself. They were supposed to deliver the cargo they were carrying to the crew of The Sea Ghost. The ship would have sent a sloop to platform up the tunnel.
 
+The cargo
 150gp per bale of silk, 3 bales
 50gp per barrel, 8 barrels
 
