@@ -37,49 +37,49 @@ Mal spots a symbol scratched into the walls of the crevasse, and points it out t
 
 As T'hau looks over at the symbol, they start panicking immediately at the sight of this symbol, thrashing about in the water.
 
-Back in the sloop, [[Stormbreaker]], [[Rayna Khatri|Rayna]] and [[Doloris]] hear a knock on the back of the sloop. They look over and see a female and male merfolk addressing them, asking if we're here to investigate the bones. The woman introduces herself as Talnad, and the man as Valas. They say they are from Karakala and are glad to hear that we're investigating. The merfolk tell the crew that some time ago, bones suddenly erupted out from the ocean floor, and freaked them out. Talnad says she lost her necklace and asks if we like to help retrieve it. The crew tell that [[Mallory Calder|Mal]] and T'hau are already in the water, investigating the bay.
+Back in the sloop, [[Stormbreaker]], [[Rayna Khatri|Rayna]] and [[Doloris]] hear a knock on the back of the sloop. They look over and see a female and male merfolk addressing them, asking if we're here to investigate the bones. The woman introduces herself as Talnad, and the man as Valas. They say they are from Karakala and are glad to hear that we're investigating. The merfolk tell the crew that some time ago, bones suddenly erupted out from the ocean floor, and freaked them out. Talnad says she lost her necklace and asks if we like to help retrieve it. The crew mention that [[Mallory Calder|Mal]] and [[T'hau]] are already in the water, investigating the bay.
 
-T'hau has seen this symbol before, back from the place where they were enslaved, panicking heavily. Remember it as Remnant of Salar.
+Back under water, [[T'hau]] calms down just enough to tell [[Mallory Calder|Mal]] he has seen this symbol before. Telling [[Mallory Calder|Mal]] they escaped from place where they were mentally enslaved by some creature. The phrase 'Remnant of Salar' comes to mind when they think about it. Their memory is muddled and vague, but T'hau does remember this symbol.
 
-Merfolk swim over to us, introduce themselves as Talnad and Valas. T'hau tells them about the symbol they saw, merfolk tell they call it the Symbol of Ogrorlo. Ogrorlo used to be a creature that enslaved a lot of folks around this place. Ogrorlo apparently died a while ago, since then this place became a nice spot to hunt. Merfolk ask us if we're investigating the bones. Bones floated up one day, scaring the female merfolk and cause her to lose her necklace into the gorge. Asks us if we're going to investigate.
+The merfolk swim over to Mal and T'hau and also introduce themselves to them. T'hau tells them about the symbol in the crevasse, and the merfolk tell they call it the Symbol of Ogrorlo. Ogrorlo apparently used to be a creature that enslaved a lot of folks around this place, seemingly in a similar way to T'hau. It has been a while since Ogrorlo apparently died, and since then this place became a nice spot to hunt. The merfolk ask if we're here to investigate the floating bones, and tell us that the bones floated up one day when they were hunting, scaring Talnad and causing her to lose her necklace into the crevasse. She asks if we would like to help her retrieve it. 
 
-T'hau swims over to the gorge and peers over the edge, to look into
+[[T'hau]] overcomes their panic a bit and carefully swims over to the gorge to peer down into it, but as they do, there's a sudden flashback:
 
-Flashback:
-
-> You are out of breath. You've ran as hard as you could. A laugh still feelable in your cheeks. Your dark skinned bare feet stop your forward momentum at the edge of a cliff. 
+> You are out of breath. You've ran as hard as you could. A laugh can still be felt in your cheeks. Your dark skinned bare feet stop your forward momentum just at the edge of a cliff. 
 > 
-> Jungle vines and palmtrees around you as a few loose rocks crumble off and tumble down. 
+> Jungle vines and palm trees stretch out around you as you see a few loose rocks crumble off and tumble down the cliffside into the sea.
 > 
 > You stare into the choppy waves, dozens of feet below you, slapping themselves against the rock.
 > 
-> The smile vanishes. And you get this feeling that all mortals are familiar with: the call of the void. "What if, i'd jump". It's this strange sensation where you are suddenly left pondering your own mortality. 
+> The smile vanishes and you get this feeling that all mortals are familiar with: the call of the void. "What if I'd jump". It's this strange sensation where you are suddenly left pondering over your own mortality. 
 > 
-> But it's deeper than that. A pit forms in your stomach as you see the deep blue waters below you. Somehow knowing that your are doomed to sink to their depths one day. 
+> But it turns to a feeling deeper than that. A pit forms in your stomach as you see the deep blue waters below you, somehow knowing that your are doomed to sink to their depths one day. 
 > 
-> In the distance a seagull is cawing.
+> In the distance a seagull is heard cawing.
 > 
-> You are shaken out of your moment by two hands grabbing you at the shoulders and saying "Got you!". As the hands direct you to turn around, you stare into a bright smiling face. Freckles peeking through her mocca-colored skin. A big mop of curly black hair trailing her. 
+> You are shaken out of your moment by two hands grabbing you at the shoulders and saying "Got you!". As the hands direct you to turn around, you stare into a bright smiling face. Freckles peeking through her mocha-coloured skin. A big mop of curly black hair trailing her. 
 > 
 > The seagull continues to caw.
 > 
-> Her brown eyes turning a glowing amber in the trailing light of the sun. The pit in your stomach melts away as you see her smile... And all she says is "are you okay Dez? I... i didn't mean to scare you... I'm sorry"
+> Her brown eyes turn a glowing amber in the trailing light of the sun. The pit in your stomach melts away as you see her smile... And all she says is "Are you okay Dez? I... I didn't mean to scare you... I'm sorry..."
 > 
 > She looks worried, taking your hands and directing you away from the ledge. 
 > 
-> Then the seagull's screeches turn into screams of your name: "T'hau! T'hau!". 
+> Then the seagull's screeches turn into screams of your own name: "T'hau! T'hau!". 
 
-Mal sees T'hau dive, stare at the gorge and dive down into the hole. Mal rushes down, grabs them by the ankle and pulls them back up. T'hau snaps out of it as Mal shouts their name and then starts wondering what happened, trying hard to remember the flashback they had just now.
+[[Mallory Calder|Mal]] sees [[T'hau]] hover over the gorge, staring down and then suddenly dive down into the hole. Mal feels something is amiss and rushes down, grabbing them by the ankle and pulls them back up. T'hau snaps out of it as Mal shouts their name and then starts wondering what happened, trying hard to remember the flashback they had just now.
 
-As Mal gets T'hau to their senses, she suggests going back to the ship and discuss next steps for this place. Just about as they were to head back, the female merfolk suddenly turns on us and casts a spell as a thunderous wave blasts through the water.
+As Mal gets T'hau to their senses, she suggests going back to the ship and discuss next steps for this place. Just about as they were turning to head back, Talnad suddenly turns on them, when they cast a spell and a thunderous wave blasts through the water towards them.
 
-A fight ensues, we defeat the merfolk.
+A fight ensues between the crew and the merfolk. [[Stormbreaker]] dives into the water to help out. Valas gives out a scream underwater as he calls for aid from a scavver fish swimming up from the gorge and swallows [[T'hau]] whole. [[Rayna Khatri|Rayna]] and [[Doloris]] notice this happening from the sloop, and fires a few fires bolts into the water, causing the scavver to regurgitate T'hau again. We manage to defeat the merfolk after a short fight and reconvene back on the sloop.
 
-Mal, Stormbreaker and T'hau swim back to the rest. Back on the ship, T'hau and Mal explain what just happened. T'hau tells them about the symbol and their history of mental enslavement.
+T'hau tells the crew about the symbol they saw and what it means, revealing their past of enslavement. Doloris recalls the name Ogrorlo, telling it's a creature that preyed on fishermen, merfolk and other people, enslaving them. She also knows the creature to be an aboleth.
 
-Both merfolk have a burn mark on the inside of their wrists, almost elven symbol. Symbol in Karrala for thieves, making a living out of conning people.
+The crew discuss investigating the crevasse for a short moment and they all decide to go as [[Rayna Khatri|Rayna]] casts spells to form air bubbles around the crew that can't breathe under water, and transforms into a crab herself, latching onto [[T'hau]]'s shoulder.
 
-We dive down into the gorge, it goes down 1500ft. Feel pressure building up as we dive down. Completely dark. Scratchings all over the side of the walls, looking similar to the earlier symbol, looking like some kind of words. None of us recognise the language.
+Investigating the merfolk, we find they have a burn mark on the inside of their wrists, an almost elven symbol. Mal recognises this symbol as Karakalan for thieves and outcasts, indicating that these merfolk we making a living out of conning people.
+
+We dive down into the gorge, and it goes down for a long while, around 1500ft. Feel pressure building up as we dive down. Completely dark. Scratchings all over the side of the walls, looking similar to the earlier symbol, looking like some kind of words. None of us recognise the language.
 
 Rayna notices a faintly glowing green symbol and asks T'hau to go there. As I lay my hand on the symbol, I can hear a faintly whispering voice telling to "Bend the knee, pearl. The god Ogrorlo, the shield and our protector, rests here"
 
