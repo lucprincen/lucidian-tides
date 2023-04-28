@@ -1,0 +1,1 @@
+Liaison for the [[Golden Chain]] in [[Nicodranas]]. [[Mallory Calder|Mal]] learned from her friend [[Ava]] that Yuzza apparently causes some trouble for the [[Zhelezo]]. 

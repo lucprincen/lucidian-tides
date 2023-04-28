@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f642d98750e35c9",
+        "id": "72a183a5a898bf94",
         "type": "tabs",
         "children": [
           {
-            "id": "0b93f10bd09827c6",
+            "id": "7caa3e3e55f1fe67",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "evan",
+                "query": "donegal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,15 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b93f10bd09827c6",
+  "active": "7caa3e3e55f1fe67",
   "lastOpenFiles": [
-    "2. Locations/Lucidian Ocean/Natchuala Bay.md",
+    "1. Characters/Nicodranas/Lord de Montfort.md",
+    "2. Locations/Menagerie Coast/Nicodranas.md",
+    "1. Characters/Golden Chain/Yuzza Ribbond.md",
+    "1. Characters/Nicodranas/Nicodranas' Councillors.md",
     "Sessions/6 - Session 6.md",
+    "1. Characters/Myriad/Heltur Ribbond.md",
+    "1. Characters/Myriad/Kirour Grimblade.md",
+    "1. Characters/Nicodranas/Ava.md",
+    "2. Locations/Lucidian Ocean/Natchuala Bay.md",
     "Sessions/T’hau.md",
     "1. Characters/The Party/Mallory Calder.md",
     "1. Characters/The Party/Rayna Khatri.md",
     "Sessions/5 - A Silky Smooth Ambush.md",
-    "1. Characters/Myriad/Kirour Grimblade.md",
     "3. Factions/Golden Chain.md",
     "1. Characters/Myriad",
     "Sessions/7 - Session 7.md",
@@ -163,7 +169,6 @@
     "1. Characters/The Party/Stormbreaker.md",
     "Stormbreaker.md",
     "Sessions/4 - The Troubled Temple.md",
-    "1. Characters/Nicodranas/Nicodranas' Councillors.md",
     "1. Characters/People.md",
     "0. Assets/Misc/briar-crown.png",
     "Session list.md",
@@ -172,14 +177,9 @@
     "Sessions/2 - A Defector's Decency.md",
     "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
     "1. Characters/Nicodranas/Sister Pherria.md",
-    "Misc/Ship Roles/The Serpent's Tide - Ship.md",
     "0. Assets/Locations/the-serpents-tide.png",
-    "1. Characters/Nicodranas/Gellan Primewater.md",
-    "3. Factions/Myriad.md",
     "0. Assets/Factions",
-    "0. Assets/F.md",
     "0. Assets/Factions/the-myriad.png",
-    "1. Characters/Nicodranas/Lady Sa'hea.md",
     "0. Assets/Characters/first-sergeant-brehkan.png",
     "0. Assets/Characters/gellan-primewater.png",
     "0. Assets/Locations/primewater-hall-inside.png",

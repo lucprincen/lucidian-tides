@@ -1,0 +1,1 @@
+A [[Zhelezo]] guard in [[Nicodranas]], and a close friend of [[Mallory Calder|Mal]]. We learned through Ava that Mal's actual name is Louise. Frequents the Helm & Cloak regularly.

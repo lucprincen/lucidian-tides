@@ -1,4 +1,4 @@
-- Lord de Montfort
+- [[Lord de Montfort]]
 - Lady Sherome of House Sherome
 - Mister [[Gellan Primewater]]
 - Misses Donegal
