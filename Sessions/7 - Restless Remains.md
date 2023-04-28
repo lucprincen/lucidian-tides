@@ -77,16 +77,16 @@ T'hau tells the crew about the symbol they saw and what it means, revealing thei
 
 The crew discuss investigating the crevasse for a short moment and they all decide to go as [[Rayna Khatri|Rayna]] casts spells to form air bubbles around the crew that can't breathe under water, and transforms into a crab herself, latching onto [[T'hau]]'s shoulder.
 
-Investigating the merfolk, we find they have a burn mark on the inside of their wrists, an almost elven symbol. Mal recognises this symbol as Karakalan for thieves and outcasts, indicating that these merfolk we making a living out of conning people.
+Investigating the merfolk, we find they have a burn mark on the inside of their wrists, an almost elven symbol. [[Mallory Calder|Mal]] recognises this symbol as Karakalan for thieves and outcasts, indicating that these merfolk we making a living out of conning people.
 
-We dive down into the gorge, and it goes down for a long while, around 1500ft. Feel pressure building up as we dive down. Completely dark. Scratchings all over the side of the walls, looking similar to the earlier symbol, looking like some kind of words. None of us recognise the language.
+We dive down into the gorge, and it goes down for a long while, around 1500ft. We feel the pressure of the water building up on us as we dive down. It's completely dark in the gorge, and a few spells are cast to light up the place. We see markings similar to the symbol all over the side of the walls. The markings look like words, but none of us recognise the language.
 
-Rayna notices a faintly glowing green symbol and asks T'hau to go there. As I lay my hand on the symbol, I can hear a faintly whispering voice telling to "Bend the knee, pearl. The god Ogrorlo, the shield and our protector, rests here"
+[[Rayna Khatri|Rayna]] notices a faintly glowing green symbol in the rocks and points it out to [[T'hau]]. They lay their hand on the symbol, and they hear a faint whisper in their mind, saying "Bend the knee, pearl. The god Ogrorlo, the shield and our protector, rests here". They relay what they heard to the others.
 
-Hieroglyphics carved into the side of a stone chest at the bottom. 
+Another grave can be found at the bottom of the gorge, with a stone chest next to it. Near the grave, more markings can be found, depicting a large underwater city of citadel, with a lot of aboleth swimming around. This makes [[T'hau]] think that Ogrorlo doesn't seem the one that enslaved them, if there's an aboleth civilisation and this aboleth died a long time ago.
 
-T'hau opens the chest and finds white pearls, larger pink pearls, single large black pearl. Trident. Figurine of coral.
+T'hau opens the chest and finds numerous white pearls, larger pink pearls, and a singular large black pearl. There's also a well made trident and a figurine of a hammerhead shark made of coral contained within.
 
-Doloris picks up the black pearl, swims up to the symbol T'hau touched, and gets a vision of a city of aboleths. Two creatures with rows of red eyes swim up to Doloris' vision and she pulls back as her heads starts hurting. Doloris relays this to all of us. Doesn't fully ring a bell with T'hau.
+[[Doloris]] remembers the mentioning of "pearl" in what [[T'hau]] just heard, and picks up the black pearl. She swims up to the symbol T'hau touched, and touches it with the black pearl in her hand. She gets a different vision, and sees a city filled with aboleth. Two creatures with rows of red eyes swim up to Doloris' vision, suddenly pulling back out as she feels her head starts hurting immensely. Doloris relays what she saw to the others. The description feels faintly familiar to [[T'hau]], but it feels like large portions of their memory are missing to truly connect the dots, although the "Remnant of Salar" sentence comes to mind again.
 
-Trident is made of adamantium, +1 trident. Pearls are worth 2000gp. Mal finds that the figurine is a figurine of wondrous power, containing a hunter shark that can be summoned from it.
+The crew take the pearls, figure and trident back up to the sloop and sail back to [[Nicodranas]] as the sun sets of the sea. On they way back, they take the time to investigate the items they found and learn the trident is made of adamantine. The collection of pearls are worth about 2000gp in total. [[Mallory Calder|Mal]] finds that coral figurine is a figurine of wondrous power, which can be used to summon a hunter shark every few days.
