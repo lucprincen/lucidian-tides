@@ -8,34 +8,36 @@ Then [[Captain Cassian Sariel de Rochefort|Captain Sariel]] comes up top, and as
 
 When [[Mallory Calder|Mal]] is done taking down the sail, she finds [[Rayna Khatri|Rayna]] and proposes to burn the sail somewhere out of sight. The rest of the crew think a fire that large might attract unwanted attention. Instead, [[Mallory Calder|Mal]] and [[T'hau]] hide the sail underwater on the edge of the harbour area and secure it down with a heavy rock.
 
-Meanwhile, [[Stormbreaker]] checks in on [[Rayna Khatri|Rayna]]. She says [[Bartholomew]] didn’t deserve this. Stormbreaker assures her it’s okay to be upset. They talk about how there’s now a target on this ship, how this was a message. They agree to give Bartholomew a proper burial. Doloris has meanwhile gathered some cloth and tar to try and find whatever they might need to help arrange this proper funeral. 
+Meanwhile, [[Stormbreaker]] checks in on [[Rayna Khatri|Rayna]]. She says [[Bartholomew Brittlestone|Bartholomew]] didn’t deserve this. Stormbreaker assures her it’s okay to be upset. They talk about how there’s now a target on this ship, how this was a message. They agree to give Bartholomew a proper burial. [[Doloris]] has meanwhile gathered some cloth and tar to try and find whatever they might need to help arrange this proper funeral. 
 
-Zhelezo comes on deck to assess the situation, asks what happened, if anyone was witness to this. Zhelezo officer by the name of Levinia starts asking everybody questions, another taking notes of our answers and the scene. Levinia tells us they have seen similar scenes like this, a message from The Myriad. Ship and captain needs to stay in the Restless Wharf during the investigation, so we need to find another ship to sail out to Natchualla Bay.
+Some [[Zhelezo]] come on deck with the captain to assess the situation, and start asking questions. A Zhelezo officer by the name of captain Lavinia introduces herself and starts asking everybody questions, with another Zhelezo taking notes of our answers and the scene. Levinia tells us they have seen similar scenes like this, seemingly a message from [[Myriad|The Myriad]]. Ship and captain need to stay in the Restless Wharf for a few days during the investigation, so we need to find another ship to sail out to [[Natchuala Bay]].
 
-Doloris stays up all night to take care of Bartholomew's body, trying to mend it to a better state for his funeral. The rest gets a night's rest. The following morning Doloris is finishing up her work on Bartholomew's body, making his wounds seem hardly recognisable anymore. We find his bucket list, and tick off the final few boxes:
+[[Doloris]] offers to take care of [[Bartholomew Brittlestone|Bartholomew]]'s body during the night, to try and mend it to a better state for his funeral. The rest of the crew tries to gets some rest in the wake of today's events. 
+
+The following morning Doloris is finishing up her work on Bartholomew's body, making his wounds seem hardly recognisable anymore. The crew remembers Bartholomew had a bucket list and search his cabin to find it. On it they find a few final items that are left unticked:
 
 - Teach a few intrepid youngsters
 - Become a pirate again
 - Go on an adventure
 - See Belinda again
 
-The almost completed bucket list will be sent off with his body when we do a burial at sea.
+We tick these final items for him and decide to send his bucket list off with his body when we do the burial at sea.
 
-Rayna leads a few of us around the docks, looking for another ship. There's two fishing crew squabbling amongst each other for a fishing spot. There's also a seemingly drunken man in a large sloop with a sail, called The Hydra. Rayna asks if we can borrow the ship to clear the fishing spot that's been bothering the fishermen. Man will be at the Low Lantern.
+[[Rayna Khatri|Rayna]] leads a few of us around the docks, looking for another ship we can use to get to [[Natchuala Bay]]. There's two fishing crew squabbling on the docks over a fishing spot. There's also a seemingly drunken man in a large sloop with one sail, called The Hydra. Rayna asks if we can borrow the ship to clear the fishing spot that's been bothering the fishermen. The man agrees to let us borrow his ship, after some convincing. He mentions we can find him later at the Low Lantern inn.
 
-A few hours later, we have prepared ourselves for the journey out into Natchualla Bay. We sail out and find the spot in the bay. The bay is flanked by the cliffs of The Menagie Coast, a main pillar stands out from the water. There's large patches of coral below us. We don't spot any bones from the surface, so Mal and T'hau dive into the water to do some further scouting.
+A few hours later, we have prepared ourselves for the journey out into [[Natchuala Bay]]. We sail out for a few hours the bay, which is flanked by the cliffs of The Menagerie Coast. A main rocky pillar stands out from the water. Through the clear water, we see large patches of coral below us. We don't directly spot any bones from the surface, so [[Mallory Calder|Mal]] and [[T'hau]] dive into the water to do some scouting.
 
-As soon as we dive into the water, T'hau notices that in the largest coral reef a bit further up, there's a cave in the cliffs. There's also a crevasse that plunges into the depths. A large anemone. There's also a few graves, mounds of dirt with remembrances on them, a few bones sticking out. We swim over to investigate, many different types of bones. One has been dug up, but we have no idea how or what has done that. Underwater graves for sea dwelling folks are fairly common. We are fairly close to Karrakala, a city of merfolk. But there's more bones and corpses, even on K'thaumi. Seems odd to T'hau that there's more K'thaumi this far out, but doesn't recognize the corpse.
+In the water, [[T'hau]] notices that that in the largest part of the coral reef a bit further up, there's a cave in the cliffs. A large anemone sits next to a crevasse that plunges deep into the depths. A few sea graves line the edge of the crevasse, mounds of dirt with remembrances on them, and a few bones sticking out. We swim over to investigate, and see many different types of bones. One grave has been dug up, but we find no clues who or what has done that. We know that underwater graves for sea dwelling folks are fairly common and we are fairly close to Karrakala, a nation of merfolk, so we link the two together. Inspecting the graves a bit closes, we can see a variety of remnants, even one K'thaumi. T'hau starts wondering about how far out this corpse is, compared to where they came from.
 
-Mal finds that the dug up grave has been recently dug up by webbed humanoid hands. Previous graves have been dug up and smoothed over.
+[[Mallory Calder|Mal]] finds that the dug up grave has been recently dug up by webbed humanoid hands. Other graves have been dug up previously and smoothed over again.
 
-Mal spots a symbol scratched into the walls of the crevasse:
+Mal spots a symbol scratched into the walls of the crevasse, and points it out to [[T'hau]]:
 
 ![[Pasted image 20230426212450.png]]
 
-As she points out the symbol to T'hau, when they look at it, something takes a hold of them and starts thrashing about.
+As T'hau looks over at the symbol, they start panicking immediately at the sight of this symbol, thrashing about in the water.
 
-On the surface, a knock can be heard on the back of the ship. The crew look around and see two merfolk addressing them, asking if we're here to investigate the bones. Two are from Karrakala and are glad to hear that we're investigating. The merfolk tell the crew that bones erupted out from the ocean, freaked them out and the female merfolk lost her necklace. The crew tell that Mal and T'hau
+Back in the sloop, [[Stormbreaker]], [[Rayna Khatri|Rayna]] and [[Doloris]] hear a knock on the back of the sloop. They look over and see a female and male merfolk addressing them, asking if we're here to investigate the bones. The woman introduces herself as Talnad, and the man as Valas. They say they are from Karakala and are glad to hear that we're investigating. The merfolk tell the crew that some time ago, bones suddenly erupted out from the ocean floor, and freaked them out. Talnad says she lost her necklace and asks if we like to help retrieve it. The crew tell that [[Mallory Calder|Mal]] and T'hau are already in the water, investigating the bay.
 
 T'hau has seen this symbol before, back from the place where they were enslaved, panicking heavily. Remember it as Remnant of Salar.
 
