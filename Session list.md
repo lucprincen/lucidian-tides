@@ -3,3 +3,6 @@
 - [[2 - A Defector's Decency]]
 - [[3 - A Golden Chain Is A Heavy Burden]]
 - [[4 - The Troubled Temple]]
+- [[5 - A Silky Smooth Ambush]]
+- [[6 - Grave Accusations]]
+- [[7 - Restless Remains]]

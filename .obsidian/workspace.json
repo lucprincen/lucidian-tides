@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/7 - Restless Remains.md",
+                "file": "Session list.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/7 - Restless Remains.md",
+                "file": "Session list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/7 - Restless Remains.md",
+                "file": "Session list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/7 - Restless Remains.md"
+                "file": "Session list.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "add438a627deb493",
   "lastOpenFiles": [
-    "Sessions/6 - Grave Accusations.md",
     "Sessions/7 - Restless Remains.md",
+    "Sessions/6 - Grave Accusations.md",
     "Sessions/Mal.md",
     "1. Characters/Nicodranas/Lord de Montfort.md",
     "2. Locations/Menagerie Coast/Nicodranas.md",
