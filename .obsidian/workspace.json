@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dd6e316329c05d48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Locations/Lucidian Ocean/Natchuala Bay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Locations/Lucidian Ocean/Natchuala Bay.md",
+                "file": "Sessions/6 - Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Locations/Lucidian Ocean/Natchuala Bay.md",
+                "file": "Sessions/6 - Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Locations/Lucidian Ocean/Natchuala Bay.md"
+                "file": "Sessions/6 - Session 6.md"
               }
             }
           }
@@ -159,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd6e316329c05d48",
+  "active": "0b93f10bd09827c6",
   "lastOpenFiles": [
-    "Sessions/6 - Session 6.md",
     "2. Locations/Lucidian Ocean/Natchuala Bay.md",
+    "Sessions/6 - Session 6.md",
     "Sessions/T’hau.md",
     "1. Characters/The Party/Mallory Calder.md",
     "1. Characters/The Party/Rayna Khatri.md",
