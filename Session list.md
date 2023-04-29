@@ -4,5 +4,5 @@
 - [[3 - A Golden Chain Is A Heavy Burden]]
 - [[4 - The Troubled Temple]]
 - [[5 - A Silky Smooth Ambush]]
-- [[6 - Grave Accusations In The Dead Of Night]]
+- [[6 - The Dead Of Night Keeps Grave Accusations]]
 - [[7 - Seabed Swindle]]

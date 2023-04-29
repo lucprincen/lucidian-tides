@@ -84,7 +84,7 @@ Back on the ship, we decide to investigate the bay the next day. After dinner we
 
 [[Mallory Calder|Mal]] looks around if she spots her friend Ava, not noticing her in the packed crowd. A moment later, Mal suddenly hears her named called out from a booth, as she turns around and notices Ava sitting there with a few friends. Ava seems pretty drunk, telling Mal that she finds that she needs this from time to time. Mal seems to cut through it all and thinks that she is going through something. Mal asks if she wants another drink and the two sit at the bar. Mal orders a water for Ava instead of ale and asks her if all is ok. Ava opens up and mentions that there is some trouble with the [[Golden Chain]], a liaison by the name of Yuzza Ribbond. Asking about the Golden Chain, Ava tells they got involved when [[Nicodranas]] came back, few [[Zhelezo]] were left. Concord sent the Golden Chain from [[Port Damali]] to guard the city until they recruited enough Zhelezo to replace them. The city council and [[Clovis Concord|Concord]] seemingly want to keep The Golden Chain here, instead of restoring the Zhelezo. Mal's father has a big vote in that matter. Mal could convince her father to vote the Golden Chain out.
 
-## 
+## Bloody Sails
 
 Meanwhile on the ship, [[Bartholomew Brittlestone|Bartholomew]] is alone on deck smoking his pipe, pondering over [[The Serpent's Tide]]'s deck and out over the sea. All seems quiet and peaceful for a moment, when he's suddenly startled at the last second by footsteps behind him. As he turns around, he feels a sword enters his stomach, and a strong poison enters his body. Just moments later, Bartholomew blacks out.
 
