@@ -1,3 +1,5 @@
+## The Ambush In The Temple
+
 In the room connecting the Undercellar to a sea entrance, we start planning the ambush for the Myriad. To the north is a basin with its water level about 10ft below the walkway, an ideal spot to stay out of sight and ambush. 
 
 We find some poles and planks and construct a basic raft that would hold a few of us out of sight. We lower it into the water as soon as its finished and [[Mallory Calder|Mal]], [[T'hau]] and [[Doloris]] wait on the raft.
@@ -9,6 +11,8 @@ Some time later, we hear the sounds of rolling of barrels get louder and louder.
 [[Stormbreaker]] offers a deal they can't refuse, and tells them to leave the barrels, turn away and cease [[Myriad]] activity. Kirour laughs at this offer, and then asks Yaz the ogre to show Stormbreaker what they're about. Yaz grabs the large anchor and chain around his neck, and starts swinging it at Stormbreaker.
 
 As soon as we hear the combat start, we trigger the ambush and jump up on the walkway from our raft. We make short work of Yaz and Ocremoch. Seeing the odds turn against him, Kirour tries to make a break for it, turning invisible and running towards the door. T'hau manages to intercept him using their echo teleportation, blocking the door.
+
+## Interrogating Kirour
 
 We manage to capture Kirour and start interrogating him. We learn that Heltur Ribbond, also known as Mr Ribbons, runs the Undercellar. The Myriad activity here is all but sanctioned by [[Golden Chain|The Golden Chain]], namely [[Commander Da'urlo Vidorant|Vidorant]] himself. They were supposed to deliver the cargo they were carrying to the crew of The Sea Ghost. The ship would have sent a sloop to platform up the tunnel.
 

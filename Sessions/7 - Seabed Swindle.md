@@ -1,3 +1,5 @@
+## Poor Bartholomew
+
 [[T'hau]], [[Mallory Calder|Mal]] and [[Doloris]] hoist up the sails to get the text out of view. Mal spots someone looking at us ducking behind a few barrels on the docks and sends [[Stormbreaker]] in to investigate.
 
 Stormbreaker runs up to the barrels and grabs behind them, lifting up a kid by the collar of his clothing. It's one of the kids we saw earlier on the docks when we arrived in [[Nicodranas]]. The kid starts squirming and telling Stormbreaker he didn't see anything. As soon as Stormbreaker tells the kid he'll offer a gold coin for any valuable information, he hears two kids walk up behind him. He learns the kids' names, Squidly, Nat and Jenks. In exchange for some gold, the kids tell they saw a figure clad in dark clothing with an eye patch on the ship, but couldn't see a face.
@@ -12,7 +14,7 @@ Meanwhile, [[Stormbreaker]] checks in on [[Rayna Khatri|Rayna]]. She says [[Bart
 
 Some [[Zhelezo]] come on deck with the captain to assess the situation, and start asking questions. A Zhelezo officer by the name of captain Lavinia introduces herself and starts asking everybody questions, with another Zhelezo taking notes of our answers and the scene. Levinia tells us they have seen similar scenes like this, seemingly a message from [[Myriad|The Myriad]]. Ship and captain need to stay in the Restless Wharf for a few days during the investigation, so we need to find another ship to sail out to [[Natchuala Bay]].
 
-[[Doloris]] offers to take care of [[Bartholomew Brittlestone|Bartholomew]]'s body during the night, to try and mend it to a better state for his funeral. The rest of the crew tries to gets some rest in the wake of today's events. 
+[[Doloris]] offers to take care of [[Bartholomew Brittlestone|Bartholomew]]'s body during the night, to try and mend it to a better state for his burial at sea. The rest of the crew tries to gets some rest in the wake of today's events. 
 
 The following morning Doloris is finishing up her work on Bartholomew's body, making his wounds seem hardly recognisable anymore. The crew remembers Bartholomew had a bucket list and search his cabin to find it. On it they find a few final items that are left unticked:
 
@@ -24,6 +26,8 @@ The following morning Doloris is finishing up her work on Bartholomew's body, ma
 We tick these final items for him and decide to send his bucket list off with his body when we do the burial at sea.
 
 [[Rayna Khatri|Rayna]] leads a few of us around the docks, looking for another ship we can use to get to [[Natchuala Bay]]. There's two fishing crew squabbling on the docks over a fishing spot. There's also a seemingly drunken man in a large sloop with one sail, called The Hydra. Rayna asks if we can borrow the ship to clear the fishing spot that's been bothering the fishermen. The man agrees to let us borrow his ship, after some convincing. He mentions we can find him later at the Low Lantern inn.
+
+## Natchuala Bay
 
 A few hours later, we have prepared ourselves for the journey out into [[Natchuala Bay]]. We sail out for a few hours the bay, which is flanked by the cliffs of The Menagerie Coast. A main rocky pillar stands out from the water. Through the clear water, we see large patches of coral below us. We don't directly spot any bones from the surface, so [[Mallory Calder|Mal]] and [[T'hau]] dive into the water to do some scouting.
 
@@ -37,11 +41,13 @@ Mal spots a symbol scratched into the walls of the crevasse, and points it out t
 
 As T'hau looks over at the symbol, they start panicking immediately at the sight of this symbol, thrashing about in the water.
 
+## Talnad & Valas
+
 Back in the sloop, [[Stormbreaker]], [[Rayna Khatri|Rayna]] and [[Doloris]] hear a knock on the back of the sloop. They look over and see a female and male merfolk addressing them, asking if we're here to investigate the bones. The woman introduces herself as Talnad, and the man as Valas. They say they are from Karakala and are glad to hear that we're investigating. The merfolk tell the crew that some time ago, bones suddenly erupted out from the ocean floor, and freaked them out. Talnad says she lost her necklace and asks if we like to help retrieve it. The crew mention that [[Mallory Calder|Mal]] and [[T'hau]] are already in the water, investigating the bay.
 
 Back under water, [[T'hau]] calms down just enough to tell [[Mallory Calder|Mal]] he has seen this symbol before. Telling [[Mallory Calder|Mal]] they escaped from place where they were mentally enslaved by some creature. The phrase 'Remnant of Salar' comes to mind when they think about it. Their memory is muddled and vague, but T'hau does remember this symbol.
 
-The merfolk swim over to Mal and T'hau and also introduce themselves to them. T'hau tells them about the symbol in the crevasse, and the merfolk tell they call it the Symbol of Ogrorlo. Ogrorlo apparently used to be a creature that enslaved a lot of folks around this place, seemingly in a similar way to T'hau. It has been a while since Ogrorlo apparently died, and since then this place became a nice spot to hunt. The merfolk ask if we're here to investigate the floating bones, and tell us that the bones floated up one day when they were hunting, scaring Talnad and causing her to lose her necklace into the crevasse. She asks if we would like to help her retrieve it. 
+The merfolk swim over to [[Mallory Calder|Mal]] and [[T'hau]] and also introduce themselves to them. T'hau tells them about the symbol in the crevasse, and the merfolk tell they call it the Symbol of Ogrorlo. Ogrorlo apparently used to be a creature that enslaved a lot of folks around this place, seemingly in a similar way to T'hau. It has been a while since Ogrorlo apparently died, and since then this place became a nice spot to hunt. The merfolk ask if we're here to investigate the floating bones, and tell us that the bones floated up one day when they were hunting, scaring Talnad and causing her to lose her necklace into the crevasse. She asks if we would like to help her retrieve it.
 
 [[T'hau]] overcomes their panic a bit and carefully swims over to the gorge to peer down into it, but as they do, there's a sudden flashback:
 
@@ -69,15 +75,19 @@ The merfolk swim over to Mal and T'hau and also introduce themselves to them. T'
 
 [[Mallory Calder|Mal]] sees [[T'hau]] hover over the gorge, staring down and then suddenly dive down into the hole. Mal feels something is amiss and rushes down, grabbing them by the ankle and pulls them back up. T'hau snaps out of it as Mal shouts their name and then starts wondering what happened, trying hard to remember the flashback they had just now.
 
-As Mal gets T'hau to their senses, she suggests going back to the ship and discuss next steps for this place. Just about as they were turning to head back, Talnad suddenly turns on them, when they cast a spell and a thunderous wave blasts through the water towards them.
+As Mal gets T'hau to their senses, she suggests going back to the ship and discuss next steps for this place. Just about as they were turning to head back, Talnad suddenly turns on them, when she casts a spell and a thunderous wave blasts through the water towards them.
 
-A fight ensues between the crew and the merfolk. [[Stormbreaker]] dives into the water to help out. Valas gives out a scream underwater as he calls for aid from a scavver fish swimming up from the gorge and swallows [[T'hau]] whole. [[Rayna Khatri|Rayna]] and [[Doloris]] notice this happening from the sloop, and fires a few fires bolts into the water, causing the scavver to regurgitate T'hau again. We manage to defeat the merfolk after a short fight and reconvene back on the sloop.
+## Murdering Merfolk
+
+A fight ensues between the crew and the merfolk. [[Stormbreaker]] dives into the water to help out. Valas gives out a scream underwater as he summons a scavver fish swimming up from the gorge and swallows [[T'hau]] whole. [[Rayna Khatri|Rayna]] and [[Doloris]] notice this happening from the sloop, and fires a few fires bolts into the water, causing the scavver to regurgitate T'hau again. We manage to defeat the merfolk after a short fight and reconvene back on the sloop.
 
 T'hau tells the crew about the symbol they saw and what it means, revealing their past of enslavement. Doloris recalls the name Ogrorlo, telling it's a creature that preyed on fishermen, merfolk and other people, enslaving them. She also knows the creature to be an aboleth.
 
 The crew discuss investigating the crevasse for a short moment and they all decide to go as [[Rayna Khatri|Rayna]] casts spells to form air bubbles around the crew that can't breathe under water, and transforms into a crab herself, latching onto [[T'hau]]'s shoulder.
 
 Investigating the merfolk, we find they have a burn mark on the inside of their wrists, an almost elven symbol. [[Mallory Calder|Mal]] recognises this symbol as Karakalan for thieves and outcasts, indicating that these merfolk we making a living out of conning people.
+
+## A Faint Memory
 
 We dive down into the gorge, and it goes down for a long while, around 1500ft. We feel the pressure of the water building up on us as we dive down. It's completely dark in the gorge, and a few spells are cast to light up the place. We see markings similar to the symbol all over the side of the walls. The markings look like words, but none of us recognise the language.
 
