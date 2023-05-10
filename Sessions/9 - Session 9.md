@@ -40,7 +40,7 @@ Council meeting opens.
 	- Crowd bursts into uproar and Gellan Primewater tries to calm them down.
 - Second item is demolition Lavish Chateau
 	- Keep running into problems with hauntings in a few locations. A tower, graveyard and the Lavish Chateau.
-	- Lord de Montfort opens up that the chateau is a piece of Nicodranas, a landmark. There's a number of other situations aren't handled, as it is haunted. Priests tried to handle the situation. Gellan Primewater suggests offering interested mercenaries and adventurers the job to handle.
+	- Lord de Montfort opens up that the chateau is derelict, but it is still a piece of Nicodranas, a landmark. There's a number of other situations aren't handled, as it is haunted. Priests tried to handle the situation. Gellan Primewater suggests offering interested mercenaries and adventurers the job to handle.
 - Third item is the rise of incoming immigrants seeking the boom town energy
 	- Shirome suggests restricting the influx. Skew is already overrun, Nicodranas does not need more people for low skilled labour.
 - Open questions from the crowd.
@@ -49,4 +49,10 @@ Council meeting opens.
 Gellan Primewater eventually passes the gavel to lead the next council meeting. Lady Shirome tells that a guest is incoming, the grand admiral Alvaro is coming to attend the party for the completion of the keep.
 
 Stormbreaker notes that Alvaro is not keen on attending parties and might be here for other business as well.
+
+Gellan and Eda walk up to us on the balcony, Eda recognises us from earlier.
+
+Find Eda during work hours at firebreather's guild, west of the park.
+
+As we get back to the ship, we get a report from patrolling duties. Julnar was on watch, and tells he saw a parrot flying from the Mimsey as it was setting sail to leave port.
 
