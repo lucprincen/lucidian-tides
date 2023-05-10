@@ -37,7 +37,7 @@ In the water, [[T'hau]] notices that that in the largest part of the coral reef 
 
 Mal spots a symbol scratched into the walls of the crevasse, and points it out to [[T'hau]]:
 
-![[Pasted image 20230426212450.png]]
+![[aboleth-symbol.png]]
 
 As T'hau looks over at the symbol, they start panicking immediately at the sight of this symbol, thrashing about in the water.
 

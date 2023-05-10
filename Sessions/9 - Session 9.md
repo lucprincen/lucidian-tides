@@ -30,4 +30,23 @@ Stormbreaker runs into the crowd and starts to rage, with lightning zapping the 
 
 The crew tries to calm down the lynch mob. Dorrik the hobgoblin doesn't give in, and tells us they want justice for the dwarf blowing up two people from the Nivor tannery. Apparently guards aren't doing anything about it.
 
-The dwarf is picked up by the guard captain. Dwarf tells 
+Guards arrive with a woman in coloured robes. The dwarf is helped up by the woman. Dwarf tells that the mob got him for an apparent murder. Guards apprehend Dorrik and take him away. Mal tells us that the woman was councillor Eda.
+
+Council meeting opens. 
+
+- First item is recent explosion. 
+	- Eda stands up and tells she met the angry mob. Tensions are getting high. People are owed some form of justice. 
+	- Modesto interjects that The Golden Chain might not be fit to handle these kind of situations.
+	- Crowd bursts into uproar and Gellan Primewater tries to calm them down.
+- Second item is demolition Lavish Chateau
+	- Keep running into problems with hauntings in a few locations. A tower, graveyard and the Lavish Chateau.
+	- Lord de Montfort opens up that the chateau is a piece of Nicodranas, a landmark. There's a number of other situations aren't handled, as it is haunted. Priests tried to handle the situation. Gellan Primewater suggests offering interested mercenaries and adventurers the job to handle.
+- Third item is the rise of incoming immigrants seeking the boom town energy
+	- Shirome suggests restricting the influx. Skew is already overrun, Nicodranas does not need more people for low skilled labour.
+- Open questions from the crowd.
+	- Stormbreaker raises the point about a terrorist attack on the tannery and what is being done about it. Lord Modesto replies with a smirk that they don't intend to investigate as there is no evidence.
+
+Gellan Primewater eventually passes the gavel to lead the next council meeting. Lady Shirome tells that a guest is incoming, the grand admiral Alvaro is coming to attend the party for the completion of the keep.
+
+Stormbreaker notes that Alvaro is not keen on attending parties and might be here for other business as well.
+

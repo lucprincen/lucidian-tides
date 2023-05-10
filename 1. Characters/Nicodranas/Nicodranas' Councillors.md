@@ -2,4 +2,4 @@
 - Lady Sherome of House Sherome
 - Mister [[Gellan Primewater]]
 - Misses Donegal
-- [[Commodore de Modesto]]
+- [[Commodore Balthair de Modesto]]
