@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/7 - Seabed Swindle.md",
+                "file": "Sessions/9 - Session 9.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "4c200a8be26da293",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/7 - Seabed Swindle.md",
+                "file": "Sessions/9 - Session 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/7 - Seabed Swindle.md",
+                "file": "Sessions/9 - Session 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/7 - Seabed Swindle.md"
+                "file": "Sessions/9 - Session 9.md"
               }
             }
           }
@@ -165,10 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c200a8be26da293",
+  "active": "add438a627deb493",
   "lastOpenFiles": [
-    "Sessions/6 - The Dead Of Night Keeps Grave Accusations.md",
     "Sessions/7 - Seabed Swindle.md",
+    "Sessions/9 - Session 9.md",
+    "Sessions/8 - ....md",
+    "Sessions/6 - The Dead Of Night Keeps Grave Accusations.md",
     "Sessions/5 - A Silky Smooth Ambush.md",
     "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
     "Sessions/4 - The Troubled Temple.md",
@@ -194,8 +185,6 @@
     "1. Characters/People.md",
     "0. Assets/Misc/briar-crown.png",
     "Sessions/0 - The Serpent's Tide gets her crew.md",
-    "Sessions/1 - Twinward Ambush.md",
-    "Sessions/2 - A Defector's Decency.md",
     "0. Assets/Locations/the-serpents-tide.png",
     "0. Assets/Factions",
     "0. Assets/Factions/the-myriad.png",
