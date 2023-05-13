@@ -11,8 +11,12 @@
             "id": "4e360a0ed01d003d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2 - A Defector's Decency.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Sessions/2 - A Defector's Decency.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Sessions/2 - A Defector's Decency.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +121,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Sessions/2 - A Defector's Decency.md"
+          }
         }
       }
     ],
