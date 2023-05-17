@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/9 - Session 9.md",
+                "file": "Sessions/10 - Session 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/9 - Session 9.md",
+                "file": "Sessions/10 - Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/9 - Session 9.md",
+                "file": "Sessions/10 - Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/9 - Session 9.md"
+                "file": "Sessions/10 - Session 10.md"
               }
             }
           }
@@ -156,8 +156,10 @@
   },
   "active": "add438a627deb493",
   "lastOpenFiles": [
-    "1. Characters/Nicodranas/Guillaume de Montfort.md",
+    "0. Assets/Locations/nicodranas-map.png",
+    "Sessions/10 - Session 10.md",
     "Sessions/9 - Session 9.md",
+    "1. Characters/Nicodranas/Guillaume de Montfort.md",
     "1. Characters/Nicodranas/Lady Manza Shirome.md",
     "1. Characters/Nicodranas/Eda Donegal.md",
     "1. Characters/Nicodranas/Commodore Balthair de Modesto.md",
@@ -185,8 +187,6 @@
     "1. Characters/Myriad/Heltur Ribbond.md",
     "1. Characters/Myriad/Kirour Grimblade.md",
     "1. Characters/Nicodranas/Ava.md",
-    "2. Locations/Lucidian Ocean/Natchuala Bay.md",
-    "Sessions/T’hau.md",
     "1. Characters/Myriad",
     "0. Assets/Misc/briar-crown.png",
     "0. Assets/Locations/the-serpents-tide.png",
