@@ -24,7 +24,7 @@ Mal tries to make the text on the paper readable using her forgery kit. Contract
 - Montfort
 - H. Ribbond
 
-Stormbreaker inspects a few more rooms. Finds a room with a black puddle, seemingly bodies having melted and fused together. Suddenly, a loud slam as a window opens and a breeze is felt across the room. Female halfling spirit is seen through the window. Stormbreaker calls out to Doloris, young halfling woman, throat slit.
+Stormbreaker inspects a few more rooms. Finds a room with a black goopy puddle, seemingly bodies having melted and fused together. Suddenly, a loud slam as a window opens and a breeze is felt across the room. Female halfling spirit is seen through the window. Stormbreaker calls out to Doloris, young halfling woman, throat slit.
 
 Rayna gets a spell going to detect any magic presence. As soon as that is up, inspecting the bath water makes her think that by draining the water, the portal would be gone. As she put her hand in before, she figures that the water might be from the river Styx. She kinda panics a bit when she figures that her hand had been in hell for a short moment.
 
@@ -36,3 +36,26 @@ Asks us to step back as she shows her hand, having a similar ring to Doloris'. S
 
 Eliander looks at his betrothed, and asks "Now?". Lucienne, now looking annoyed, replies with "Yes, you idiot!". Then, Eliander continues to casts fireball on the group.
 
+Combat ensues.
+
+Document falls from the floor during combat, and Doloris picks them up.
+
+Eliander is killed by T'hau. Three more imps are summoned and then Lucienne vanishes. 
+
+Two Zhelezo arrive, but Stormbreaker is set on fire by Rayna and tries to scare the guards off impersonating Asmodeus, managing to scare them off.
+
+T'hau tries to figure out what's going on, remembering nothing from the morning onwards. The crew tell them that they're affected by the Styx water.
+
+The crew decide what to do with the body of Eliander. Doloris can't mend the bullet holes to fake the cover story of him being attacked by a devil. We decide to burn the body beyond recognition, and hide it on the goopy remains downstairs to mask it being the remains of the noble.
+
+We hear guards running around the chateau. We spot an empty back alley and decide to make our escape. Rayna stumbles during the exit, and a single guard notices a Rayna and Doloris.
+
+We get back to the ship, but we can't read all of it as it's in Infernal.
+
+Contract signed my Guillaume de Montfort, shepherding souls into the nine hells.
+
+Another contract, signed by Guillaume and two elven brothers production of 20 ship figure heads a year of special wood, that will slowly siphon away souls. Wood is briarblaze thorn.
+
+Mal mentions this isn't unlike the deal she expected her dad to make.
+
+We share this information with Eda and Gallen, to get them in the loop.
