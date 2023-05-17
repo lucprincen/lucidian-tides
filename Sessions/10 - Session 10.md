@@ -30,4 +30,9 @@ Rayna gets a spell going to detect any magic presence. As soon as that is up, in
 
 Suddenly, Doloris and Rayna hear floor boards creak. Two people, a young woman and man, enter the building through the same door where we entered. They take the stairs up to the bathroom. Burst through the door.
 
-Mal and the woman recognise each other, seemingly family. Woman asks if Mal finally decided to join the family business. Introduces the
+Mal and the woman recognise each other, Mal's sister, Lucienne. Lucienne asks if Mal finally decided to join the family business. Introduces the man as her betrothed, [[Eliander]].
+
+Asks us to step back as she shows her hand, having a similar ring to Doloris'. She intends to step through the water, as she has some business. Rayna steps back towards the bath tub, turns around and casts thunderwave on the water, splashing it around. This causes Lucienne to step forward in panic, shouting "No!". Mal stops her with her rapier. As he does that, Lucienne transforms into a fiendish being with horns and bat-like wings on her back.
+
+Eliander looks at his betrothed, and asks "Now?". Lucienne, now looking annoyed, replies with "Yes, you idiot!". Then, Eliander continues to casts fireball on the group.
+
