@@ -10,7 +10,7 @@ Mal senses some fiendish presence nearby. Something weird dripping on the above 
 
 Mal and T'hau investigate the en suite bathroom. Bathroom with brass bath tub, stinky water. Noticeable markings, footsteps in the dust, lead to the bath. As we investigate the bath and the dirty water, all seems fine.
 
-Stormbreaker andRayna enter the next room. Large amount of bird droppings, hole in the ceiling, towards the attic. Rayna figures the bird droppings are parrot's, but says the room is boring and they move on.
+Stormbreaker and Rayna enter the next room. Large amount of bird droppings, hole in the ceiling, towards the attic. Rayna figures the bird droppings are parrot's, but says the room is boring and they move on.
 
 Doloris investigates the earlier room, where Mal sensed the fiendish presence. She touches the wall. In the bathroom, Mal and T'hau notice the bath water ripple and shimmer with a different image for a moment. T'hau remembers the Dwarven henchmen of Kirour had a ring tied to fiends, which Doloris has in her pack. They ask Doloris over, and the bath water turns into an image of black stone, purple flames.
 
