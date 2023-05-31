@@ -6,7 +6,7 @@ Walk to Open Quay, find building in scaffolding. Bell tower in ruins, stopped re
 
 Enter building, statue in the hallway of a distinguished gentleman, with a spyglass. Tabaxi points me to a library down a hallway. Wooden desk between a double staircase, with a huge hall with a library behind it, but it has been in disrepair and soot stains are covering the ceiling.
 
-Aarakocra woman behind desk, writing with a large quill. Introduces herself as Klilla Agrupnin. T'hau asks around for 
+Aarakocra woman behind desk, writing with a large quill. Introduces herself as Klilla Agrupnin. T'hau asks around for information on underwater civilizations, particularly of evil intent.
 
 Start with looking over charts of explored ocean floor, starting with the location where [[T'hau]] came from. Place near Tal'Dorei, Ruins of Tempestar. Mention of Salar on map of western coast of Tal'Dorei, near Emon. Takes better part of the day, and eventually the Klilla comes back to tell the library is closing up. Asking to borrow the maps is met with a kind decline
 
