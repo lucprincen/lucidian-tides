@@ -43,3 +43,7 @@ Thinking about the Myriad angle, Stormbreaker and Doloris suddenly remember that
 We suggest Willow asks if Bram is interested in a drink later on. Asking if Bram wants to join us there later, he gets flustered at the mentioning of the name. Bram had been drinking quite a bit lately, as he has trouble sleeping since coming back from Avernus.
 
 At the mention of the Myriad, Bram gets more panicked and even tries to cast Suggestions on Stormbreaker.
+
+Fight
+
+Bram surrenders finally, confesses that he has been drinking and gambling a bit too much to compensate the lack of sleep. Racked up a debt. Someone from the Myriad asked if the Myriad could see to it that the mine could be expanded. Abused Bram's rank within the tannery to 
