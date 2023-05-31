@@ -44,6 +44,8 @@ We suggest Willow asks if Bram is interested in a drink later on. Asking if Bram
 
 At the mention of the Myriad, Bram gets more panicked and even tries to cast Suggestions on Stormbreaker.
 
-Fight
+Fight ensues.
 
-Bram surrenders finally, confesses that he has been drinking and gambling a bit too much to compensate the lack of sleep. Racked up a debt. Someone from the Myriad asked if the Myriad could see to it that the mine could be expanded. Abused Bram's rank within the tannery to 
+Bram surrenders finally, confesses that he has been drinking and gambling a bit too much to compensate the lack of sleep. Racked up a debt. Someone from the Myriad asked if the Myriad could see to it that the mine could be expanded. Abused Bram's rank within the tannery to execute this plan. Bram says that they were supposed to do this in the night, that no one would get hurt. Told the Myriad what vat to use and what compound to use. It was all Tira. Kenku and two albino tieflings were there when Bram made the deal for this. After this, Bram would talk to Benja to expand and modernise. Mines would sweep in and offer money for the ground. Tira showed up in the middle of the day. Benja was caught in the blast as well, recuperating from the blast.
+
+Tira is in the Black Tankard, large fighting pit. Ivory and Ash are the names of the tieflings. We take Bram off to the Zhelezo.
