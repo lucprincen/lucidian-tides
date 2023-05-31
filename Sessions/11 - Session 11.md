@@ -26,8 +26,18 @@ The fumes in the tannery seem to take hold of Doloris for a moment, having her s
 
 Willow takes us there, end up at a small house. Walk into the living space, where a temporary bed has been set up so Willow's brother can get some books nearby. Various mechanical knick-knacks and equipment on the tables. Vennik lies on the bed, large acid burn covering their face.
 
-Vennik cures and cleans the leather. A female dwarf, from mine direction, dropped in clumps of yellow-blue material. Difficult and dangerous work, various acids around. Dwarf was looking around when she walked between the tubs, probably scouting for an exit. She seemed intent to do this, knowing what to do. Had ring through her nose, had something like mining gear on her.
+Vennik cures and cleans the leather. A female dwarf, from mine direction, dropped in clumps of yellow-blue material. Difficult and dangerous work, various acids around. Dwarf was looking around when she walked between the tubs, probably scouting for an exit. She seemed intent to do this, knowing what to do. Very pale, had ring through her nose, had something like mining gear on her.
 
 Foreman from the mine came up to Benja to sell the land of the tannery where the tubs are to the mine. The tannery is old fashioned, takes up a lot of space and resources. Other tanneries are modernising using magic. Benja didn't take up on the offer, didn't want to fire people when they are replaced with magic.
 
-People don't tend to like the dwarves, obnoxious folk. Lots of stakeholders of the mine, Lady Sherome one of them. Nothing of note happening that they, except for Bram being a bit more jittery than usual. Benja is the owner, Bram is the alchemist, are like brothers. Bram wouldn't betray Benja, says Vennik.
+People don't tend to like the dwarves, obnoxious folk. Lots of stakeholders of the mine, Lady Sherome one of them. Nothing of note happening that they, except for Bram being a bit more jittery than usual. Benja is the owner, Bram is the alchemist, are like brothers. Bram wouldn't betray Benja, says Vennik. We finish the questioning and go to the mine to talk to the foreman there.
+
+Find the dwarven foreman, Ulmaet Flintguard. Stormbreaker points out that the foreman is cleared from suspicion, as the eye witnesses seem to indicate someone else. Two dwarves out lunching were caught in the blast as well, covered in acid burns. We ask the foreman what he thinks happened. Stormbreaker gives the description of the female dwarf, but doesn't ring a bell with the foreman. Not one of his personnel. Don't employ grey dwarves, as their mines have been warped, tend to have a negative view on other races.
+
+Myriad does employ grey dwarves.
+
+Mine is funded by the Concord.
+
+Thinking about the Myriad angle, Stormbreaker and Doloris suddenly remember that they spotted Bram in the Blushing Mermaid. Mentioning this to Willow causes her to think hard on anything that would connect Bram to the Myriad, but doesn't recall anything. Willow mentions that Bram isn't the drinking type, so it would be weird to see him in a bar.
+
+We suggest Willow asks if Bram is interested in a drink later on. Asking if Bram wants to join us there later, he gets flustered at the mentioning of the name. Bram had been drinking a bit lately
