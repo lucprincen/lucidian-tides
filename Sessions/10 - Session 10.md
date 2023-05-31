@@ -18,11 +18,7 @@ Stormbreaker and Rayna find the next door, which is locked. They manage to open 
 
 T'hau asks everybody over to come check out the bath tub. We show them the water and Rayna decides to put her hand in the water, and senses something tugging at her mind. Her hand reaches deep into the bath tub, beyond where the bottom would be. We figure this looks like a portal.
 
-Mal tries to make the text on the paper readable using her forgery kit. Contract is signed by:
-
-- Vidorant
-- Montfort
-- H. Ribbond
+Mal tries to make the text on the paper readable using her forgery kit. The contract reads that de Montfort brokered a peace between The Golden Chain and the Zhelezo. Contract is signed by Vidorant, de Montfort and H. Ribbond.
 
 Stormbreaker inspects a few more rooms. Finds a room with a black goopy puddle, seemingly bodies having melted and fused together. Suddenly, a loud slam as a window opens and a breeze is felt across the room. Female halfling spirit is seen through the window. Stormbreaker calls out to Doloris, young halfling woman, throat slit.
 
@@ -58,4 +54,4 @@ Another contract, signed by Guillaume and two elven brothers production of 20 sh
 
 Mal mentions this isn't unlike the deal she expected her dad to make.
 
-We share this information with Eda and Gallen, to get them in the loop.
+We share this information with Eda and Gallen, to get them in the loop. These letters and contracts are smoking guns, proof that can be brought to the council to get de Montfort and de Modesto expelled from the council.
