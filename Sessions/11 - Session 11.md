@@ -6,9 +6,9 @@ We discuss what to do next. We split up, where Mal visits the temple to lay low 
 
 We head into the Skew, industrial part of town, fewer Zhelezo. Canals sends water into some buildings, water powers a lot of equipment through town. Square with builders around it, on western side a mine, that tunnels straight down from the square. First shift of the mine is just starting up.
 
-T'hau notices the blast radius that indicated an explosion, centered on a single tub, rocketed out 30ft in diameter. Pieces of rock molten from a chemical burn. Sounds coming from open double doors. Three people in industrial space, four huge barrels. Two humans, one halfling. Hoisting massive emphora, clay container, off of a wagon, but struggling with it.
+T'hau notices the blast radius that indicated an explosion, centered on a single tub, rocketed out 30ft in diameter. Pieces of rock molten from a chemical burn. Sounds coming from open double doors. Three people in industrial space, four huge barrels. Two humans, one halfling. Hoisting massive amphora, clay container, off of a wagon, but struggling with it.
 
-Halfling calls over to me as soon as she sees me, asks me to help out with this container. With the extra help, we manage to put it on two large wooden beams. This emphora contains a black pudding, would be a massive problem if it fell.
+Halfling calls over to me as soon as she sees me, asks me to help out with this container. With the extra help, we manage to put it on two large wooden beams. This amphora contains a black pudding, would be a massive problem if it fell.
 
 Gnome comes walking out a Bram Chudderstone, chief alchemist at the tannery. A vat outside exploded, launched 30 liters toxic waste water, covering personnel. Some died, some heavily wounded from acid burns.
 
@@ -40,4 +40,6 @@ Mine is funded by the Concord.
 
 Thinking about the Myriad angle, Stormbreaker and Doloris suddenly remember that they spotted Bram in the Blushing Mermaid. Mentioning this to Willow causes her to think hard on anything that would connect Bram to the Myriad, but doesn't recall anything. Willow mentions that Bram isn't the drinking type, so it would be weird to see him in a bar.
 
-We suggest Willow asks if Bram is interested in a drink later on. Asking if Bram wants to join us there later, he gets flustered at the mentioning of the name. Bram had been drinking a bit lately
+We suggest Willow asks if Bram is interested in a drink later on. Asking if Bram wants to join us there later, he gets flustered at the mentioning of the name. Bram had been drinking quite a bit lately, as he has trouble sleeping since coming back from Avernus.
+
+At the mention of the Myriad, Bram gets more panicked and even tries to cast Suggestions on Stormbreaker.
