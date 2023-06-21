@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/11 - Session 11.md",
+                "file": "Sessions/12 - Session 12.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/11 - Session 11.md",
+                "file": "Sessions/12 - Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/11 - Session 11.md",
+                "file": "Sessions/12 - Session 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/11 - Session 11.md"
+                "file": "Sessions/12 - Session 12.md"
               }
             }
           }
@@ -156,8 +156,10 @@
   },
   "active": "f7363032458cabc9",
   "lastOpenFiles": [
-    "Sessions/9 - Session 9.md",
+    "0. Assets/Locations/golden-chain-vault-map.png",
+    "Sessions/12 - Session 12.md",
     "Sessions/11 - Session 11.md",
+    "Sessions/9 - Session 9.md",
     "Sessions/10 - Session 10.md",
     "1. Characters/Nicodranas/Eliander de Matiz.md",
     "1. Characters/Nicodranas/Lucienne de Montfort.md",
@@ -188,8 +190,6 @@
     "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
     "Session list.md",
     "Sessions/Mal.md",
-    "1. Characters/Golden Chain/Yuzza Ribbond.md",
-    "1. Characters/Myriad/Heltur Ribbond.md",
     "1. Characters/Myriad",
     "0. Assets/Misc/briar-crown.png",
     "0. Assets/Locations/the-serpents-tide.png",
