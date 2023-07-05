@@ -21,3 +21,5 @@ Some time later, we meet up on the ship and the captain takes us to his quarters
 We inform the captain of our plans and he seems very interested. We agree on a location where are to meet up, [[Natchuala Bay]]. There we will hand off the gold and the captain will sail on to Darktow, keeping a portion for themselves for the trouble.
 
 We gather at the foot of the cliff and have trouble climbing up.
+
+Two guards on the roof spot us, dealt with them. One killed, one threatened to stay silent.
