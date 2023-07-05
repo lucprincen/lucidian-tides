@@ -18,4 +18,4 @@ T'hau can't sleep, staring over the bay. Pouring over a map and a book. Book pen
 > Ruidus made it worse. The Rose now lies at the bottom of Slumber Reef in dagger bay. Me and the other survivors marked it with a red buoy. For any future expedition to the wreck that hopes to find information about what happened; you will find only death. 
 
 Team 1: Mal, T'hau, Doloris approach Adjudicator
-Team 2: Stormbreaker, Rayna
+Team 2: Stormbreaker, Rayna approach The Chimera
