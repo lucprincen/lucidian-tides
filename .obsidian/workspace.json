@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/12 - Session 12.md",
+                "file": "Sessions/14 - Session 14.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/12 - Session 12.md",
+                "file": "Sessions/14 - Session 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/12 - Session 12.md",
+                "file": "Sessions/14 - Session 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/12 - Session 12.md"
+                "file": "Sessions/14 - Session 14.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   "active": "c9ffb21088d505d8",
   "lastOpenFiles": [
     "Sessions/13 - Session 13.md",
+    "Sessions/14 - Session 14.md",
     "Sessions/12 - Session 12.md",
     "0. Assets/Locations/menagerie-coast.png",
     "Sessions/menagerie-coast.md",
@@ -191,7 +192,6 @@
     "Sessions/7 - Seabed Swindle.md",
     "Sessions/8 - ....md",
     "Sessions/5 - A Silky Smooth Ambush.md",
-    "Sessions/3 - A Golden Chain Is A Heavy Burden.md",
     "1. Characters/Myriad",
     "0. Assets/Factions",
     "1. Characters/Golden Chain",
