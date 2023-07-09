@@ -1,0 +1,1 @@
+Monk with the [[Cobalt Soul]].
