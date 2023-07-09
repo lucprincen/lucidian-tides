@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/14 - Session 14.md",
+                "file": "1. Characters/Port Damali/Alma Hyllyn.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/14 - Session 14.md",
+                "file": "1. Characters/Port Damali/Alma Hyllyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/14 - Session 14.md",
+                "file": "1. Characters/Port Damali/Alma Hyllyn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/14 - Session 14.md"
+                "file": "1. Characters/Port Damali/Alma Hyllyn.md"
               }
             }
           }
@@ -154,10 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da2b65103e37cd2f",
+  "active": "c9ffb21088d505d8",
   "lastOpenFiles": [
-    "Sessions/13 - Session 13.md",
+    "3. Factions/Cobalt Soul.md",
+    "1. Characters/Port Damali/Alma Hyllyn.md",
     "Sessions/14 - Session 14.md",
+    "1. Characters/Port Damali",
+    "Sessions/13 - Session 13.md",
     "Sessions/12 - Session 12.md",
     "0. Assets/Locations/menagerie-coast.png",
     "Sessions/menagerie-coast.md",
@@ -190,8 +193,6 @@
     "Sessions/2 - A Defector's Decency.md",
     "2. Locations/Menagerie Coast/Menagerie Coast.md",
     "Sessions/7 - Seabed Swindle.md",
-    "Sessions/8 - ....md",
-    "Sessions/5 - A Silky Smooth Ambush.md",
     "1. Characters/Myriad",
     "0. Assets/Factions",
     "1. Characters/Golden Chain",
