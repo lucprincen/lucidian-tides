@@ -19,3 +19,7 @@
 - When Bendiira hears Mal say that, she casts Dissonant Whispers on Mal causing her to run away
 - Combat ensues
 - Alma and Stormbreaker try to snap T'hau out of their situation, but fail
+- Eventually T'hau is snapped out of it
+- Mal jumps down the well with a bucket to get the stone out, manages to after a few tries.
+	- As soon as she does, she gets a vision of her father, aiming a pistol at a bloodied Doloris with her wings cut off. Her father saying, "you're destined to get her killed"
+	- She then snaps out of it and misty steps out of the well
