@@ -15,4 +15,7 @@
 - Doloris checks T'hau, and believes they are charmed or enslaved by some entity
 - Bendiira is growing more suspicious of the crew's presence
 - Doloris spots Bendiira holding something, asks Bendiira about it. Bendiira shows it, tells it's azuremite, a seeing crystal
-- 
+- Mal spots a bucket, tells Stormbreaker that they can drop it down the well and retrieve the stone
+- When Bendiira hears Mal say that, she casts Dissonant Whispers on Mal causing her to run away
+- Combat ensues
+- Alma and Stormbreaker try to snap T'hau out of their situation, but fail
