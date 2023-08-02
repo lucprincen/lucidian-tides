@@ -2,4 +2,17 @@
 - Heard a voice, "Desmond, looking for the city with eyes"
 - Pick up smooth green grey stone from pocket dimension
 	- Three marbles in the stone
-	- 
+	- Dropped the stone in a well
+- Crew discuss leaving the island
+- Mal sees things, her mentor, and her sister but much younger
+- Stormbreaker feels tingles
+- Crew feels uneasy about the island, SB and Rayna want to leave, Mal, T'hau and Doloris are interested in what's happening
+- Meet Bendiira, talk about island and purpose
+- Crew is getting more uneasy
+- Talk about aboleth being birthed
+- Mal and Stormbreaker open door, mention stopping it
+- Stormbreaker spots the stone at the bottom of the well
+- Doloris checks T'hau, and believes they are charmed or enslaved by some entity
+- Bendiira is growing more suspicious of the crew's presence
+- Doloris spots Bendiira holding something, asks Bendiira about it. Bendiira shows it, tells it's azuremite, a seeing crystal
+- 
