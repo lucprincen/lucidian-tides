@@ -23,3 +23,18 @@
 - Mal jumps down the well with a bucket to get the stone out, manages to after a few tries.
 	- As soon as she does, she gets a vision of her father, aiming a pistol at a bloodied Doloris with her wings cut off. Her father saying, "you're destined to get her killed"
 	- She then snaps out of it and misty steps out of the well
+- We loot the place
+	- Braces
+	- Azuremite
+	- Head priest's book
+- Bendira wants to use azuremite one last time
+	- Mind link with each other, give off memories of past life
+	- Iluun managed to get through those memories, and get to my actual memories
+	- Athienne de Toville
+		- Father was a port caller at Brokenbank, does not have a marquis, has a sheriff
+		- T'hau was her nickname
+		- Athienne was a man's name, dad's name
+		- Desmond, simple fisher boy
+		- Mal knows Athienne as a woman
+	- End goal, all knowledge for everyone, free to all
+	- 
