@@ -27,7 +27,8 @@
 	- Braces
 	- Azuremite
 	- Head priest's book
-- Bendira wants to use azuremite one last time
+		- Functions as a tome of understanding
+- Bendiira wants to use azuremite one last time
 	- Mind link with each other, give off memories of past life
 	- Iluun managed to get through those memories, and get to my actual memories
 	- Athienne de Toville
@@ -35,6 +36,6 @@
 		- T'hau was her nickname
 		- Athienne was a man's name, dad's name
 		- Desmond, simple fisher boy
-		- Mal knows Athienne as a woman
+		- Mal knows Athienne as a woman who has taken up her father's business, woman in her fifties
 	- End goal, all knowledge for everyone, free to all
 	- 
