@@ -1,0 +1,5 @@
+- Destroy the book
+- Heard a voice, "Desmond, looking for the city with eyes"
+- Pick up smooth green grey stone from pocket dimension
+	- Three marbles in the stone
+	- 
