@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md",
+                "file": "Sessions/18 - Pigeons.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md",
+                "file": "Sessions/18 - Pigeons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md",
+                "file": "Sessions/18 - Pigeons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md"
+                "file": "Sessions/18 - Pigeons.md"
               }
             }
           }
@@ -193,6 +193,7 @@
   },
   "active": "9ce275bbe5444c5a",
   "lastOpenFiles": [
+    "Misc/Ship Roles/First Gunner.md",
     "Sessions/18 - Pigeons.md",
     "Sessions/17 - Who's mind is it anyway?.md",
     "Sessions/16 - T'hausand Mile Stare.md",
@@ -229,7 +230,6 @@
     "0. Assets/Characters/guillaume-de-montfort.png",
     "1. Characters/Nicodranas/Lady Sa'hea.md",
     "1. Characters/Nicodranas/Lord de Montfort.md",
-    "Sessions/4 - The Troubled Temple.md",
     "1. Characters/Myriad",
     "0. Assets/Factions",
     "1. Characters/Golden Chain",
