@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ce275bbe5444c5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/18 - Pigeons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/17 - Who's mind is it anyway?.md",
+                "file": "Sessions/18 - Pigeons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/17 - Who's mind is it anyway?.md",
+                "file": "Sessions/18 - Pigeons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/17 - Who's mind is it anyway?.md"
+                "file": "Sessions/18 - Pigeons.md"
               }
             }
           }
@@ -179,10 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b3480c8666cf912",
+  "active": "9ce275bbe5444c5a",
   "lastOpenFiles": [
-    "Sessions/16 - T'hausand Mile Stare.md",
     "Sessions/17 - Who's mind is it anyway?.md",
+    "Sessions/18 - Pigeons.md",
+    "Sessions/16 - T'hausand Mile Stare.md",
     "Sessions/15 - Session 15.md",
     "Sessions/14 - Session 14.md",
     "1. Characters/Port Damali/Alma Hyllyndre.md",
@@ -217,7 +230,6 @@
     "1. Characters/Nicodranas/Lady Sa'hea.md",
     "1. Characters/Nicodranas/Lord de Montfort.md",
     "Sessions/4 - The Troubled Temple.md",
-    "2. Locations/Menagerie Coast/Nicodranas.md",
     "1. Characters/Myriad",
     "0. Assets/Factions",
     "1. Characters/Golden Chain",
