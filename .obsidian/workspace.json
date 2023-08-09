@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/18 - Pigeons.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/18 - Pigeons.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/18 - Pigeons.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/18 - Pigeons.md"
+                "file": "Misc/Ship Roles/First Gunner.md"
               }
             }
           }
@@ -193,8 +193,8 @@
   },
   "active": "9ce275bbe5444c5a",
   "lastOpenFiles": [
-    "Sessions/17 - Who's mind is it anyway?.md",
     "Sessions/18 - Pigeons.md",
+    "Sessions/17 - Who's mind is it anyway?.md",
     "Sessions/16 - T'hausand Mile Stare.md",
     "Sessions/15 - Session 15.md",
     "Sessions/14 - Session 14.md",
