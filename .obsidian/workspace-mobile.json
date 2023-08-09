@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Characters/Port Damali/Alma Hyllyndre.md",
+                "file": "Sessions/17 - Who's mind is it anyway?.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. Characters/Port Damali/Alma Hyllyndre.md",
+            "file": "Sessions/17 - Who's mind is it anyway?.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. Characters/Port Damali/Alma Hyllyndre.md",
+            "file": "Sessions/17 - Who's mind is it anyway?.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. Characters/Port Damali/Alma Hyllyndre.md"
+            "file": "Sessions/17 - Who's mind is it anyway?.md"
           }
         }
       }
@@ -141,10 +141,13 @@
   },
   "active": "5e4d20c0330208cf",
   "lastOpenFiles": [
+    "1. Characters/Port Damali/Alma Hyllyndre.md",
+    "Sessions/16 - T'hausand Mile Stare.md",
+    "Sessions/17 - Who's mind is it anyway?.md",
+    "Sessions/15 - Session 15.md",
     "1. Characters/Darktow/Myrtle 'The Grin' Zain.md",
     "3. Factions/Cobalt Soul.md",
     "1. Characters/Port Damali/Isol.md",
-    "1. Characters/Port Damali/Alma Hyllyndre.md",
     "Sessions/10 - Session 10.md",
     "1. Characters/Nicodranas/Captain Thuillian.md",
     "0. Assets/Locations/nicodranas-view.png",
@@ -173,8 +176,6 @@
     "Sessions/2 - A Defector's Decency.md",
     "Sessions/13 - Session 13.md",
     "The Party.md",
-    "Stormbreaker.md",
-    "1. People/The Party/Bartholomew Brittlestone.md",
-    "1. T'hau/Backstory.md"
+    "Stormbreaker.md"
   ]
 }

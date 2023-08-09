@@ -1,0 +1,40 @@
+- Was able to borrow a book from the Cobalt Soul, but have to destroy the book after reading
+- Heard a voice when reading the book, "Desmond, looking for the city with eyes"
+- Picked up smooth green grey stone from pocket dimension using my echo
+	- Three marbles in the stone
+	- Dropped the stone in a well
+- Crew discuss leaving the island with T'hau 
+- Mal sees things, her mentor, and her sister but much younger than she would be 
+- Stormbreaker feels tingles down his spine
+- Crew feels uneasy about the island, SB and Rayna want to leave, Mal, T'hau and Doloris are interested in what's happening
+- Meet Bendiira, talk about island and purpose
+- Crew is getting more uneasy
+- Bendiira talks about aboleth being birthed
+- Mal and Stormbreaker open door, mention stopping it
+- Stormbreaker spots the stone at the bottom of the well
+- Doloris checks T'hau, and believes they are charmed or enslaved by some entity
+- Bendiira is growing more suspicious of the crew's presence, says they have outstayed their welcome 
+- Doloris spots Bendiira holding something, asks Bendiira about it. Bendiira shows it, tells it's azuremite, a seeing crystal
+- Mal spots a bucket, tells Stormbreaker that they can drop it down the well and retrieve the stone
+- When Bendiira hears Mal say that, she casts Dissonant Whispers on Mal causing her to run away
+- Combat ensues
+- Alma and Stormbreaker try to snap T'hau out of their situation, but fail
+- Eventually T'hau is snapped out of it
+- Mal jumps down the well with a bucket to get the stone out, manages to after a few tries.
+	- As soon as she does, she gets a vision of her father, aiming a pistol at a bloodied Doloris with her wings cut off. Her father saying, "you're destined to get her killed"
+	- She then snaps out of it and misty steps out of the well
+- We loot the place
+	- Braces
+	- Azuremite
+	- Head priest's book
+		- Functions as a tome of understanding
+- Bendiira wants to use azuremite one last time, to help T'hau get the information they were seeking
+	- Mind link with each other, give off memories of past life
+	- Iluun managed to get through those memories, and get to my actual memories
+	- Etienne de Thauville
+		- Thau was her nickname, as she didn't like her own name, Etienne was a man's name, her dad's name
+		- Father was a port caller at Brokenbank, it does not have a marquis but a port caller instead, like a sheriff
+		- Love between Etienne and Desmond was going to be difficult, Desmond being a  simple fisher boy
+		- Mal knows Etienne de Thauville as a woman who has taken up her father's business, woman in her fifties. Knows her as a potential ally to the Revelry as she was not a marquis of the Concord
+	- End goal, all knowledge for everyone, free to all
+	- Try to convince her to stay off of that path, as it's not worth it, but she's not having it
