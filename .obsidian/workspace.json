@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2135011db4830adf",
+        "id": "26c172378f788043",
         "type": "tabs",
         "children": [
           {
-            "id": "c9ffb21088d505d8",
+            "id": "0e0b6200553011e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/15 - Session 15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d707a19383b11082",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/16 - T'hausand Mile Stare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b3480c8666cf912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/17 - Who's mind is it anyway?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ce275bbe5444c5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/18 - Pigeons.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/18 - Pigeons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/18 - Pigeons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sessions/18 - Pigeons.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -191,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ce275bbe5444c5a",
+  "active": "0e0b6200553011e4",
   "lastOpenFiles": [
-    "Misc/Ship Roles/First Gunner.md",
-    "Sessions/18 - Pigeons.md",
-    "Sessions/17 - Who's mind is it anyway?.md",
-    "Sessions/16 - T'hausand Mile Stare.md",
     "Sessions/15 - Session 15.md",
+    "Sessions/16 - T'hausand Mile Stare.md",
+    "Sessions/17 - Who's mind is it anyway?.md",
+    "Sessions/18 - Pigeons.md",
+    "Misc/Ship Roles/First Gunner.md",
     "Sessions/14 - Session 14.md",
     "1. Characters/Port Damali/Alma Hyllyndre.md",
     "Sessions/13 - Session 13.md",
