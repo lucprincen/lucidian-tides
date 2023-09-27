@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "13d02757a71fb73b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/18 - Pigeons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/18 - Pigeons.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/18 - Pigeons.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/18 - Pigeons.md"
+                "file": "Misc/Ship Roles/First Gunner.md"
               }
             }
           }
@@ -167,15 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13d02757a71fb73b",
+  "active": "0e0b6200553011e4",
   "lastOpenFiles": [
+    "Sessions/18 - Pigeons.md",
     "Misc/Ship Roles/The Serpent's Tide - Ship.md",
     "Misc/Ship Roles/First Gunner.md",
     "0. Assets/Misc/First Gunner.jpg",
     "Sessions/15 - Session 15.md",
     "Sessions/16 - T'hausand Mile Stare.md",
     "Sessions/17 - Who's mind is it anyway?.md",
-    "Sessions/18 - Pigeons.md",
     "Sessions/14 - Session 14.md",
     "1. Characters/Port Damali/Alma Hyllyndre.md",
     "Sessions/13 - Session 13.md",
