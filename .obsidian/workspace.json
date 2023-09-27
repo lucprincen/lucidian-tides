@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md",
+                "file": "Sessions/18 - Pigeons.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md",
+                "file": "Sessions/18 - Pigeons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md",
+                "file": "Sessions/18 - Pigeons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md"
+                "file": "Sessions/18 - Pigeons.md"
               }
             }
           }
@@ -169,8 +169,8 @@
   },
   "active": "13d02757a71fb73b",
   "lastOpenFiles": [
-    "Misc/Ship Roles/First Gunner.md",
     "Misc/Ship Roles/The Serpent's Tide - Ship.md",
+    "Misc/Ship Roles/First Gunner.md",
     "0. Assets/Misc/First Gunner.jpg",
     "Sessions/15 - Session 15.md",
     "Sessions/16 - T'hausand Mile Stare.md",
