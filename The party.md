@@ -1,6 +1,0 @@
-- [[Bartholomew Brittlestone]]
-- [[Doloris]]
-- [[Mallory Calder]]
-- [[Rayna Khatri]]
-- [[T'hau]]
-- [[Stormbreaker]]
