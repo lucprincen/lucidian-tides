@@ -23,16 +23,6 @@
             "id": "13d02757a71fb73b",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "0. Assets/Misc/First Gunner.jpg"
-              }
-            }
-          },
-          {
-            "id": "d367ea82927daade",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md",
@@ -116,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Assets/Misc/First Gunner.jpg",
+                "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Assets/Misc/First Gunner.jpg",
+                "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Assets/Misc/First Gunner.jpg"
+                "file": "Misc/Ship Roles/The Serpent's Tide - Ship.md"
               }
             }
           }
@@ -179,9 +169,9 @@
   },
   "active": "13d02757a71fb73b",
   "lastOpenFiles": [
+    "Misc/Ship Roles/First Gunner.md",
     "Misc/Ship Roles/The Serpent's Tide - Ship.md",
     "0. Assets/Misc/First Gunner.jpg",
-    "Misc/Ship Roles/First Gunner.md",
     "Sessions/15 - Session 15.md",
     "Sessions/16 - T'hausand Mile Stare.md",
     "Sessions/17 - Who's mind is it anyway?.md",
