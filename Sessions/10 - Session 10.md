@@ -1,57 +1,58 @@
-Mal distracts guards at Lavish Chateau
+The next morning, the crew sets out towards the Lavish Chateau. The Opal Archways are clearly the wealthy part of town. Fencing has been placed around the building, which is partially collapsed. Two Zhelezo stand next to the building. They start looking for a subtle way inside. 
 
-Rest climbs over fence, on other side of chateau.
+They find a place in the fence that they can slip through. Mal talks to the guards as a distraction, leaving the others the opportunity to sneak in. They come out onto a decrepit looking deck with two large windows, though there’s no glass left in the windows. 
+Mal ‘follows’ the guards’ instructions on how to get to the de Montfort estate, circling around to make it back to the others.
 
-T'hau asks what's to expect in the chateau. No one really knows what to expect here, no experience or knowledge about demons or Avernus.
+The others find a way into the Lavish Chateau, noting some things like keys have been stolen, perhaps because they were made of valuable materials. There’s a foul smell, T’hau commenting on it as it reminds him of the smell in the other house they were in, where they found some devilish remnants. They talk about keeping quiet as much as possible and waiting for Mal to arrive, as none of them really know a lot about devils. 
 
-Wait for Mal, then continue into the main hall.
+Mal joins the others and they start looking around. She tries to pick up on any signs of recent fiendish activity. There’s something in the room up ahead, a dripping sound. She also sees, melted into the floor, something shiny, not fiendish, but other planar. She also senses some seven fiendish presences nearby. 
 
-Mal senses some fiendish presence nearby. Something weird dripping on the above floor, and something shiny on the floor. Doloris investigates the shiny thing on the floor, and finds a coin with a symbol of Evandra, the Changebringer. As she tries to pick it up, a sharp pain pierces her mind, and images of all the things the coin has seen flash before her eyes.
+She points this out to the others. Doloris looks at the shiny object: it looks like a molten holy symbol, a large coin. Part of a female face is still on there, Doloris recognises it as Avandra. She goes to pick it up, but is hit with a psychic blast of all this item has seen. The visions she sees remind her of Avernus. She sees figures in the room, moving through the room they’re in. 
 
-Mal and T'hau investigate the en suite bathroom. Bathroom with brass bath tub, stinky water. Noticeable markings, footsteps in the dust, lead to the bath. As we investigate the bath and the dirty water, all seems fine.
+They decide to follow the visions Doloris saw, heading up the creaky stairs. They look through some of the rooms, not finding much at first. Doloris eventually finds a glowing ember in one of the rooms, Mal picking up on a lingering fiendish presence in the other room.
 
-Stormbreaker and Rayna enter the next room. Large amount of bird droppings, hole in the ceiling, towards the attic. Rayna figures the bird droppings are parrot's, but says the room is boring and they move on.
+Mal and T’hau investigate the presence. T’hau notices some footsteps in the dust in this room that lead up to the bath. T’hau and Mal thoroughly investigate the bathtub, which seems suspicious.
 
-Doloris investigates the earlier room, where Mal sensed the fiendish presence. She touches the wall. In the bathroom, Mal and T'hau notice the bath water ripple and shimmer with a different image for a moment. T'hau remembers the Dwarven henchmen of Kirour had a ring tied to fiends, which Doloris has in her pack. They ask Doloris over, and the bath water turns into an image of black stone, purple flames.
+Stormbreaker and Rayna continue investigating in the other direction. There’s a gap in the ceiling, there’s a lot of bird droppings in this area despite the ceiling not being open. Rayna thinks these are parrot droppings. 
 
-Stormbreaker and Rayna find the next door, which is locked. They manage to open the lock, and find a room with a lectern, with seemingly blank parchment. Parchment has grooves in it, which they figure could be made readable through some coal.
+Doloris presses a hand to the wall on the other side, which changes the reflection that T’hau and Mal see in the water of the bath tub. T’hau recalls the dwarven henchmen of Kirour who had a ring, which he thinks might help with this. The ring was tied to the fiendish parrot, and the dwarf made a pact whilst in Avernus. He asks Doloris if she still has the ring on her, which she confirms. 
 
-T'hau asks everybody over to come check out the bath tub. We show them the water and Rayna decides to put her hand in the water, and senses something tugging at her mind. Her hand reaches deep into the bath tub, beyond where the bottom would be. We figure this looks like a portal.
+She brings the ring over, the water shimmers instantly. The reflection now shows a cavernous ceiling of jet black stone. There’s reflections of green and purple flames and Doloris instantly knows this place from her dreams. They try to figure out what this thing is. T’hau throws a stone into the water. 
 
-Mal tries to make the text on the paper readable using her forgery kit. The contract reads that de Montfort brokered a peace between The Golden Chain and the Zhelezo. Contract is signed by Vidorant, de Montfort and H. Ribbond.
+Stormbreaker and Rayna continue further into the building, finding themselves in front of a locked door. Stormbreaker ‘unlocks’ the door. It opens up into a completely cleared room, with no windows to the outside. There’s a lectern with parchment on it, along with ink and a fountain pen, all of it looking very clean compared to the rest of the place. It smells like brimstone. 
 
-Stormbreaker inspects a few more rooms. Finds a room with a black goopy puddle, seemingly bodies having melted and fused together. Suddenly, a loud slam as a window opens and a breeze is felt across the room. Female halfling spirit is seen through the window. Stormbreaker calls out to Doloris, young halfling woman, throat slit.
+The parchment is empty. There’s some parchment wax there as well. There are some grooves in the paper, which could possibly show them what was written on the previous paper. 
 
-Rayna gets a spell going to detect any magic presence. As soon as that is up, inspecting the bath water makes her think that by draining the water, the portal would be gone. As she put her hand in before, she figures that the water might be from the river Styx. She kinda panics a bit when she figures that her hand had been in hell for a short moment.
+T’hau reaches out to Stormbreaker and Rayna to ask them to come over. The two groups catch each other up. Rayna sticks her hand into the bath tub water. The water is strangely warm. She can almost feel the water inching into her mind. 
+Rayna ritually casts detect magic as Mal looks at the paper that Stormbreaker and Rayna found, finding out what was written on the paper above. Not everything is clear, but three sets of signatures appear at the bottom. The first says D. Vidorant, the second G. de Montfort and the third by H. Ribbond. Some more details of the letter tell Mal that her father brokered the ‘peace’ between the Myriad and the Golden Chain. The contract is dated a month a half ago. 
 
-Suddenly, Doloris and Rayna hear floor boards creak. Two people, a young woman and man, enter the building through the same door where we entered. They take the stairs up to the bathroom. Burst through the door.
+Meanwhile, Stormbreaker checks out some more of the Lavish Chateau. He finds himself to the top room, finding a big black mushy puddle in the middle of it. Almost looks like a bunch of corpses that were melted together. As he’s looking at this, there’s a loud noise as a window flies open. He sees the spirit of a female halfling hanging in front of the window. Stormbreaker calls out to Doloris, who comes over as well. 
+It looks like a young halfling woman, her throat seems to have been slit. She’s trying to say something. 
 
-Mal and the woman recognise each other, Mal's sister, Lucienne. Lucienne asks if Mal finally decided to join the family business. Introduces the man as her betrothed, [[Eliander de Matiz]].
+In the other room, Rayna’s detect magic picks up on conjuration magic on the water in the bathtub. She thinks draining the bathtub would likely already do the trick. The water seems to be from the River Styx. 
+Rayna asks Mal to make sure that touching it didn’t do anything to her, Mal assures her she seems fine. As the two of them talk about how to get rid of the water, Rayna, as well as Stormbreaker in the other room, hear the floorboards creaking below them. They hear voices. 
 
-Asks us to step back as she shows her hand, having a similar ring to Doloris'. She intends to step through the water, as she has some business. Rayna steps back towards the bath tub, turns around and casts thunderwave on the water, splashing it around. This causes Lucienne to step forward in panic, shouting "No!". Mal stops her with her rapier. As he does that, Lucienne transforms into a fiendish being with horns and bat-like wings on her back.
+Doloris sees a young woman and a young man enter the chateau. They head upstairs, towards where Rayna and Mal are. The door bursts open. It’s Mal’s sister, Lucienne, and her betrothed, Eliander. Lucienne and Mal speak, Stormbreaker and Doloris sneaking up on the conversation behind them. 
 
-Eliander looks at his betrothed, and asks "Now?". Lucienne, now looking annoyed, replies with "Yes, you idiot!". Then, Eliander continues to casts fireball on the group.
+Lucienne says she is here for business, showing Mal a ring similar to the one they found on the dwarf. She asks the group to stand aside, Rayna saying they’ll gladly do so before casting Thunderwave on the bathtub, the water going everywhere. Some of the water hits T’hau, leaving him confused on where he is.
 
-Combat ensues.
+Mal attempts to tell her sister she’s outnumbered, but her sister doesn’t seem worried, instead turning into a devilish form. Eliander casts a fireball onto some of the group, which leads into combat.
 
-Document falls from the floor during combat, and Doloris picks them up.
+During the fight, as she unsheaths a flaming longsword, Lucienne drops a folder of papers. As Zhelezo guards start rushing into the building, Lucienne plane shifts away after seemingly summoning some reinforcements. Doloris quickly grabs the folder that Lucienne dropped, tucking it away before the guards get there. From behind T’hau and Rayna, three parrots appear, turning into imps. 
 
-Eliander is killed by T'hau. Three more imps are summoned and then Lucienne vanishes. 
+As she’s standing over his body, Mal recalls that Eliander deMatiz is member of one of the prominent noble families of Nicodranas. As the guards move in closer, the group attempts to at least make it seem like they’re trying to help Eliander, pointing out the devils to the guards as well. 
 
-Two Zhelezo arrive, but Stormbreaker is set on fire by Rayna and tries to scare the guards off impersonating Asmodeus, managing to scare them off.
+Stormbreaker and Rayna come up with a ruse, the former asking the latter to set them on fire. Whilst on fire, Stormbreaker runs into the other room towards where the guards, claiming he’s Asmodeus. It works, scaring off the guards, though they do seem to have seen Mal, Doloris, and Eliander’s body. 
 
-T'hau tries to figure out what's going on, remembering nothing from the morning onwards. The crew tell them that they're affected by the Styx water.
+They discuss how to handle Eliander’s body, Mal sharing he’s from a well-known family in the city. They decide to burn the body to hopefully make it unrecognisable. They then put the burnt body on the pile of bodies Stormbreaker found in the other room. 
 
-The crew decide what to do with the body of Eliander. Doloris can't mend the bullet holes to fake the cover story of him being attacked by a devil. We decide to burn the body beyond recognition, and hide it on the goopy remains downstairs to mask it being the remains of the noble.
+They start looking for a way out. A patrol of Zhelezo is approaching, along with a Golden Chain sergeant. The two guards that were just inside are talking to them. T’hau and Rayna note that the Golden Chain sergeant is calming down the Zhelezo guard that seem upset. There’s also some concerned citizens on the opposite side of the street. Their best bet is to exit through the back, which faces an alley. 
 
-We hear guards running around the chateau. We spot an empty back alley and decide to make our escape. Rayna stumbles during the exit, and a single guard notices a Rayna and Doloris.
+They try to sneak out quietly, one guard spots some of the group though. They rush back towards the Restless Wharf, making their way back towards the Serpent’s Tide. 
 
-We get back to the ship, but we can't read all of it as it's in Infernal.
+At the ship, Doloris holds up the folder with papers she found. They head into the ship to check out the papers. Some of the papers have infernal writing on it. Another one is in celestial, a contract signed by Guillaume de Montfort and Uqaviel the Requiant. It’s about shepherding souls into the Nine Hells. There’s another contract, this one in common. Signed by Guillaume and two seemingly Elven brothers. It’s about the production of twenty ships figureheads a year of special wood that according to the contract, will slowly siphon away souls. The wood is called briarblaze thorn. They decide to maybe head into town later to find a Comprehend Languages scroll to translate the papers in infernal.
 
-Contract signed my Guillaume de Montfort, shepherding souls into the nine hells.
+They take the documents to Gellan and Eda later, after having the infernal ones translated as well. They share what happened at the Lavish Chateau with Gellan and Eda as well. Eda promises them she’ll look after them as far as the Zhelezo goes. 
 
-Another contract, signed by Guillaume and two elven brothers production of 20 ship figure heads a year of special wood, that will slowly siphon away souls. Wood is briarblaze thorn.
-
-Mal mentions this isn't unlike the deal she expected her dad to make.
-
-We share this information with Eda and Gallen, to get them in the loop. These letters and contracts are smoking guns, proof that can be brought to the council to get de Montfort and de Modesto expelled from the council.
+T’hau asks Gellan and Eda what their end goal is with Guillaume. They say that with the paperwork provided, they could try and get both Guillaume and de Modesto replaced, hopefully with people who have the actual wellbeing of the people of Nicodranas in mind. The crew does advice against Gellan and Eda showing these documents at the next meeting, as Alvaro will be present, and they know he’s involved with the Golden Chain. 
+Gellan shares with the crew that he’s been talking with the captain as well, and they’ve set up fully legal trades for the Serpent’s Tide. 

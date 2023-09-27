@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md",
+                "file": "Sessions/8 - ....md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md",
+                "file": "Sessions/8 - ....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md",
+                "file": "Sessions/8 - ....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Ship Roles/First Gunner.md"
+                "file": "Sessions/8 - ....md"
               }
             }
           }
@@ -156,9 +156,13 @@
   },
   "active": "0e0b6200553011e4",
   "lastOpenFiles": [
-    "Sessions/18 - Pigeons.md",
-    "Misc/Ship Roles/The Serpent's Tide - Ship.md",
+    "Sessions/9 - Session 9.md",
+    "Sessions/10 - Session 10.md",
+    "Sessions/8 - ....md",
     "Misc/Ship Roles/First Gunner.md",
+    "Misc/Ship Roles/The Serpent's Tide - Ship.md",
+    "Sessions/7 - Seabed Swindle.md",
+    "Sessions/18 - Pigeons.md",
     "0. Assets/Misc/First Gunner.jpg",
     "Sessions/15 - Session 15.md",
     "Sessions/16 - T'hausand Mile Stare.md",
@@ -178,8 +182,6 @@
     "1. Characters/Nicodranas/Captain Thuillian.md",
     "0. Assets/Characters/captain-thuillian.png",
     "0. Assets/Locations/golden-chain-vault-map.png",
-    "Sessions/9 - Session 9.md",
-    "Sessions/10 - Session 10.md",
     "1. Characters/Nicodranas/Eliander de Matiz.md",
     "1. Characters/Nicodranas/Lucienne de Montfort.md",
     "0. Assets/Characters/lucienne-de-montfort.png",
@@ -191,7 +193,6 @@
     "1. Characters/Nicodranas/Commodore Balthair de Modesto.md",
     "0. Assets/Pasted image 20230510213135 1.png",
     "0. Assets/Characters/lady-manza-shirome.png",
-    "1. Characters/Nicodranas/Gellan Primewater.md",
     "1. Characters/Myriad",
     "0. Assets/Factions",
     "1. Characters/Golden Chain",
