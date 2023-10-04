@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/8 - ....md",
+                "file": "Sessions/18 - Pigeons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67d07cda05d04db7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/19 - Session 19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df4a0a6ee457522c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/16 - T'hausand Mile Stare.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/8 - ....md",
+                "file": "Sessions/16 - T'hausand Mile Stare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/8 - ....md",
+                "file": "Sessions/16 - T'hausand Mile Stare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/8 - ....md"
+                "file": "Sessions/16 - T'hausand Mile Stare.md"
               }
             }
           }
@@ -154,24 +179,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e0b6200553011e4",
+  "active": "df4a0a6ee457522c",
   "lastOpenFiles": [
-    "Sessions/9 - Session 9.md",
-    "Sessions/10 - Session 10.md",
-    "Sessions/8 - ....md",
-    "Misc/Ship Roles/First Gunner.md",
-    "Misc/Ship Roles/The Serpent's Tide - Ship.md",
-    "Sessions/7 - Seabed Swindle.md",
+    "Sessions/20 - Session 20.md",
+    "Sessions/19 - Session 19.md",
     "Sessions/18 - Pigeons.md",
-    "0. Assets/Misc/First Gunner.jpg",
-    "Sessions/15 - Session 15.md",
-    "Sessions/16 - T'hausand Mile Stare.md",
     "Sessions/17 - Who's mind is it anyway?.md",
+    "Sessions/8 - Session 8.md",
+    "Sessions/16 - T'hausand Mile Stare.md",
+    "Sessions/15 - Session 15.md",
     "Sessions/14 - Session 14.md",
-    "1. Characters/Port Damali/Alma Hyllyndre.md",
     "Sessions/13 - Session 13.md",
     "Sessions/12 - Session 12.md",
     "Sessions/11 - Session 11.md",
+    "Sessions/10 - Session 10.md",
+    "Sessions/9 - Session 9.md",
+    "Misc/Ship Roles/First Gunner.md",
+    "Misc/Ship Roles/The Serpent's Tide - Ship.md",
+    "Sessions/7 - Seabed Swindle.md",
+    "0. Assets/Misc/First Gunner.jpg",
+    "1. Characters/Port Damali/Alma Hyllyndre.md",
     "1. Characters/Port Damali/Isol.md",
     "0. Assets/Characters/alma.png",
     "1. Characters/Darktow/Lg'hun 'Pock'.md",
@@ -189,8 +216,6 @@
     "0. Assets/Locations/nicodranas-map.png",
     "1. Characters/Nicodranas/Guillaume de Montfort.md",
     "1. Characters/Nicodranas/Lady Manza Shirome.md",
-    "1. Characters/Nicodranas/Eda Donegal.md",
-    "1. Characters/Nicodranas/Commodore Balthair de Modesto.md",
     "0. Assets/Pasted image 20230510213135 1.png",
     "0. Assets/Characters/lady-manza-shirome.png",
     "1. Characters/Myriad",

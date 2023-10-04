@@ -32,7 +32,8 @@ During the last watch, Rayna spots a figure climbing on deck of the Mimsey. It�
 In the morning, Rayna shares what she saw with the rest of the crew. Mal thinks it might be a lycanthrophy-like situation. She also knows that whilst most of the Clovis Concord doesn’t necessarily frown upon lycanthrophy, within the Golden Chain it’s grounds for dismissal. 
 Mal talks to Rayna about the ‘you didn’t tell me being a pirate was dangerous’ letter she wrote to her. This turns into a discussion on teaching Rayna how to swim. 
 
-They head to Gellan Primewater early in the morning, informing him about the bones in the water. He thanks them and they seem to have established trust with him. He offers them a new mission: he reminds them he said to meet up with Ida and with de Montfort. He suggests they all come to the council meeting that night, meet Ida, see the other councillors; they can sit in the public area. 
+They head to Gellan Primewater early in the morning, informing him about the bones in the water. He thanks them and they seem to have established trust with him. He offers them a new mission: he reminds them he said to meet up with Ida and with de Montfort. He suggests they all come to the council meeting that night, meet Ida, see the other councillors; they can sit in the public area.
+
 He goes on to say that Lord de Montfort is tricky; he’s sometimes with them, sometimes against them. He mentions a private enterprise in the Sunless Sea, near the Quoraska Cape, that the de Montfort family used to run, before Avernus happened. He suggests they can find dirt on this, and thus convince de Montfort to be more on their side. He sent a team down there a few weeks ago, but hasn’t heard from them since. 
 
 The location of the Quoraska Cape sends Stormbreaker into a memory. He smells gunpowder. They’d been lying in wait for some ships and though less ships arrived than expected, they sprung the trap. Through the smoke of gunpowder, Stormbreaker seems flags going up: the international sign of refugees on board. 
@@ -41,8 +42,7 @@ He’s asked if they should continue firing; Stormbreaker says no, but Captain A
 
 It wasn’t long after this that Stormbreaker learned of Nicodranas’ fate shortly after this, making the refugee story all the more likely. The Heartbreaker and the Banshee’s Wail were the ships sunk that day. The Mad Siren is the ship that was expected to also be there, but wasn’t.       
 
-Mal asks if it’s not common knowledge that the de Montfort’s were in Avernus; this news seems to surprise Primewater. They apparently tell a story of having been visiting business relations in Marquet at that time. Mal admits she sadly has no proof of them having struck a deal in Avernus.
-They agree to head to to the council meeting later that day.
+Mal asks if it’s not common knowledge that the de Montfort’s were in Avernus; this news seems to surprise Primewater. They apparently tell a story of having been visiting business relations in Marquet at that time. Mal admits she sadly has no proof of them having struck a deal in Avernus. They agree to head to to the council meeting later that day.
 
 They head into town to do some shopping, heading to Sorcerous Sundries in White Cliffs. Two story building with a large white facade and a mosaic tiled roof. A half-elven woman in a fancy crimson dress greets them as they enter. They ask about a Bag of Holding, which the woman says she doesn’t have right now. People tend to come here moreso for magically enhanced clothing. She acts a little weird, writing something down on a piece of paper, which Mal reads: “We’re being watched, meet me in the alley out back in ten minutes”. The group leaves, heading to the alley.
 

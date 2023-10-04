@@ -1,51 +1,61 @@
-Town crier really early in the morning. Calling on everyone in information on Louise de Montfort, involvement in killing a nobleman. 5000gp reward.
+The crew is rudely awakened by a town crier, yelling about how people should bring forth information on Louise de Montfort and her connection to a crime against a noble family. There’s a thousand gold reward for it. 
 
-Doloris runs out to shut him up. Asks him to leave. Town crier seems to be looking for a bribe, Doloris gives him 2gp and guy walks off. Pamphlet mentions any reports should be sent to Cecelin Auvrindar.
+Doloris chases after the town crier to try and catch up with him. She pretends to be annoyed with him because it’s so early, he seems willing to move along as long as Doloris gives him some money. She finds some gold in her pocket and pays him, so he takes his leave. 
 
-We discuss what to do next. We split up, where Mal visits the temple to lay low and warn Obaya that the Commander is coming to Nicodranas, and the others visit the tannery to investigate the explosion.
+She gets a closer look at the pamphlet the crier is holding. It’s a drawing of Mal, with some wanted lettering detailing the amount of money that de Montfort family is willing to spend. It also says ‘any and all information inquiries redirected at Montfort Estate’ with a name attached, Cecelin Auvrindar. 
 
-We head into the Skew, industrial part of town, fewer Zhelezo. Canals sends water into some buildings, water powers a lot of equipment through town. Square with builders around it, on western side a mine, that tunnels straight down from the square. First shift of the mine is just starting up.
+Doloris returns to the ship and shares the news with the rest of the group. Mal shares that she does recognize Cecilin’s name: it’s her old nanny who now runs most of the de Montfort household. 
 
-T'hau notices the blast radius that indicated an explosion, centered on a single tub, rocketed out 30ft in diameter. Pieces of rock molten from a chemical burn. Sounds coming from open double doors. Three people in industrial space, four huge barrels. Two humans, one halfling. Hoisting massive amphora, clay container, off of a wagon, but struggling with it.
+The crew discuss what to do about this. Mal suggests that the others check out the tannery as planned, she will find Obaya at the temple to Melora and warn her about Alvaro coming. Big Neela will accompany her, as the others don’t like Mal setting out on her own. 
 
-Halfling calls over to me as soon as she sees me, asks me to help out with this container. With the extra help, we manage to put it on two large wooden beams. This amphora contains a black pudding, would be a massive problem if it fell.
+Doloris, T’hau, Stormbreaker and Rayna set out towards the tannery. They spot the crier again, who seems to be getting some abuse from the people around; they don’t seem to be his biggest fans.
 
-Gnome comes walking out a Bram Chudderstone, chief alchemist at the tannery. A vat outside exploded, launched 30 liters toxic waste water, covering personnel. Some died, some heavily wounded from acid burns.
+They eventually reach Nivor’s Tannery. The square here is filled with large, round tubs, most of them empty. Several have a soot stain around them, seemingly indicating a blast radius. The surrounding bricks have acid damage. 
 
-Somebody dropped something in one of the baths, violent agent, probably on purpose. Bam tells that they had eye witnesses seeing a dwarf drop something in the bath before it exploded. Brother of Willow was a witness of first hand. Bam Chudderstone did alchemical research on the blast side, has notes on what he found as the cause of the explosion.
+T’hau hears a voice coming from inside the building, heads in to check it out. He finds two humans and a halfling there, who are hoisting a huge clay container off a wagon, and it seems to be going wrong. Willow, Proaker and Finni are the halfling and two humans. Willow calls out to T’hau for help and with the four of them, they manage to keep the clay container upright. Willow shares that this clay container is how Bram, her mentor, plans to save the tannery. There’s a black pudding inside, which helps with the cleaning process here in the tannery. 
 
-Bram takes Rayna with him to show the notes in his workshop. Rayna walks into a workshop, figures it used to be very neat. Now has stacks of paperwork, two desks, one very cluttered. Bram walks over to the cluttered desk, where his notes on the compound are. Rayna also spots that the ceiling is partly open to the floor above. Spots creatures with long noses, pointy ears and wings out on the rafter above.
+They are joined by a gnome, Bram Shudderstone. He is the chief alchemist of the tannery. The crew say they’re here to help investigate the explosion. Bram shares some more information about the explosion. Three people died, a lot of other workers are recooperating. 
 
-Going over the notes, Rayna seems to understand them quite a bit. One of the compounds Bram found is sulphur, which is well regulated by the Concord. They wouldn't have any use for this in the tannery, so it has to come from another source, probably black market. Rayna inquires about Bram pissing off anyone who would do this, but nothing comes to mind. Done a thorough investigation with the people who were able to speak. Description of a dwarf and mining equipment might have led to hasty conclusions.
+Somebody dropped something in one of the baths, which caused the explosion. It was done on purpose. Many eye witnesses saw a dwarf do it. Bram did some alchemical research after the explosion, which helped him determine what happened. He shows his notes on that to Rayna, as well as samples and compounds. 
 
-Bram tells that the mine has been trying to buy out the tannery, to get the tubs outside off of the square so they can get more equipment in.
+As he’s showing these notes to Rayna, she spots two creatures on a beam above in the building. She goes over the notes, which make a lot of sense to her. She deduces that whatever was thrown into one of the baths, wasn’t something that they logically also have here at the tannery. The compound that was thrown in, sulphur, is hard to obtain as it’s regulated by the Clovis Concord. One way to get it is through the black market. 
 
-Willow knows from her brother's description that it was a female dwarf. Flynn was known to be very courteous and not likely to be the suspect.
+Bram says that the mine has been trying to buy them out, especially the outside part. They wish to bring in more machinery. He can’t think of anyone else who may want to do damage or harm to the tannery and the people working there. 
 
-The fumes in the tannery seem to take hold of Doloris for a moment, having her see her father for a few seconds. Doloris shakes out of it and sits down to recover for a moment. Doloris then suggests we go talk to Willow's brother.
+Rayna brings this information to the others, positing that maybe someone is trying to frame someone from the mine. Either that, or someone from the mine walked up in clear daylight and very publicly caused an explosion. 
 
-Willow takes us there, end up at a small house. Walk into the living space, where a temporary bed has been set up so Willow's brother can get some books nearby. Various mechanical knick-knacks and equipment on the tables. Vennik lies on the bed, large acid burn covering their face.
+They ask Willow about what her brother saw, Doloris asking if it was Overseer Flintguard. Willow says it wasn’t; her brother saw a female dwarf and she knows Flintguard, it wasn’t him.
 
-Vennik cures and cleans the leather. A female dwarf, from mine direction, dropped in clumps of yellow-blue material. Difficult and dangerous work, various acids around. Dwarf was looking around when she walked between the tubs, probably scouting for an exit. She seemed intent to do this, knowing what to do. Very pale, had ring through her nose, had something like mining gear on her.
+Doloris feels a little woozy, seeing what she thinks is her father in a dark corner of the tannery. He winks at her and calls her little heartbreaker. Doloris sits down on the floor for a moment, before joining the others who follow Willow as she leads them to her brother. 
 
-Foreman from the mine came up to Benja to sell the land of the tannery where the tubs are to the mine. The tannery is old fashioned, takes up a lot of space and resources. Other tanneries are modernising using magic. Benja didn't take up on the offer, didn't want to fire people when they are replaced with magic.
+They make their way to Willow and Vennic’s house. Willow offers everyone seats and drinks. Vennic describes what he saw. A female dwarf coming from the direction of the mine, dropping clumps of yellow-ish, blue-ish material down one of the baths. She seemed nervous, possibly looking for the fastest way out. She was very pale, had a big ring through her nose and was carrying what looked like mining gear. 
 
-People don't tend to like the dwarves, obnoxious folk. Lots of stakeholders of the mine, Lady Sherome one of them. Nothing of note happening that they, except for Bram being a bit more jittery than usual. Benja is the owner, Bram is the alchemist, are like brothers. Bram wouldn't betray Benja, says Vennik. We finish the questioning and go to the mine to talk to the foreman there.
+Stormbreaker asks if anyone wants the mine implicated. Vennic knows that a lot of people in the Skews want it gone; it’s obnoxious and some of the dwarves are rude. The mine has many stakeholders, Lady Sherome is one of them. Vennic asks Willow if Bram seemed more jittery: he’s always been a big proponent of getting the tannery up to ‘modern’ standards with magic. 
 
-Find the dwarven foreman, Ulmaet Flintguard. Stormbreaker points out that the foreman is cleared from suspicion, as the eye witnesses seem to indicate someone else. Two dwarves out lunching were caught in the blast as well, covered in acid burns. We ask the foreman what he thinks happened. Stormbreaker gives the description of the female dwarf, but doesn't ring a bell with the foreman. Not one of his personnel. Don't employ grey dwarves, as their mines have been warped, tend to have a negative view on other races.
+Concluding the conversation with Vennic, the crew decides to head to the mine. Willow offers to introduce them to Overseer Ulmaet Flintguard, as she’s seen him around a bit. When he sees them approach, Flintguard thanks Stormbreaker for stepping in. Flintguard says two of his men also got hurt during the explosion. 
 
-Myriad does employ grey dwarves.
+Flintguard says it may not be a dwarf who also works in the mines. A lot of people in the neighborhood are looking to pin it on them. A number of the vats at the tannery are now useless. He thinks this may finally be the moment Benja stops being stubborn, though he’s not planning on approaching Benja with an proposal for that right now.
 
-Mine is funded by the Concord.
+Stormbreaker shares the description of the dwarf that Vennic provided them with. Flintguard says none of his workers look like that. They don’t employ any gray dwarves; they give them a bad name. A lot of them are twisted by the time they spend underground. The group recalls that Kirour was also a gray dwarf. 
 
-Thinking about the Myriad angle, Stormbreaker and Doloris suddenly remember that they spotted Bram in the Blushing Mermaid. Mentioning this to Willow causes her to think hard on anything that would connect Bram to the Myriad, but doesn't recall anything. Willow mentions that Bram isn't the drinking type, so it would be weird to see him in a bar.
+Stormbreaker then asks Flintguard if he knows if anyone wants to harm the mine. He says many people don’t like them being here. He names Eda, but he doesn’t think she’s the type to do something like that. There are stakeholders, like Lady Sherome, who may have enemies, but Flintguard doesn’t know much about that. 
 
-We suggest Willow asks if Bram is interested in a drink later on. Asking if Bram wants to join us there later, he gets flustered at the mentioning of the name. Bram had been drinking quite a bit lately, as he has trouble sleeping since coming back from Avernus.
+He says they simply discovered a vein of platinum whilst the city was away in Avernus and they decided to exploit it for the betterment of the Concord. Part of their funding comes from the Concord itself; they feel its a good way for Nicodranas to become financially stable again. 
 
-At the mention of the Myriad, Bram gets more panicked and even tries to cast Suggestions on Stormbreaker.
+Flintguard excuses himself. The crew and Willow brainstorm about who may be suspects. Stormbreaker and Doloris remember seeing Bram in the Blushing Mermaid as they were passing through. They discuss whether or not to talk to the Zhelezo, the staff at the Blushing Mermaid or to Bram himself.
 
-Fight ensues.
+This discussion ends with the crew saying Willow should invite Bram for drinks to the Blushing Mermaid. They head to the tannery, where Bram and Proaker seem to be dividing up the puddings into smaller puddings. 
 
-Bram surrenders finally, confesses that he has been drinking and gambling a bit too much to compensate the lack of sleep. Racked up a debt. Someone from the Myriad asked if the Myriad could see to it that the mine could be expanded. Abused Bram's rank within the tannery to execute this plan. Bram says that they were supposed to do this in the night, that no one would get hurt. Told the Myriad what vat to use and what compound to use. It was all Tira. Kenku and two albino tieflings were there when Bram made the deal for this. After this, Bram would talk to Benja to expand and modernise. Mines would sweep in and offer money for the ground. Tira showed up in the middle of the day. Benja was caught in the blast as well, recuperating from the blast.
+Bram asks the crew about their investigation. They invite him for drinks, which he says he’s not interested in. He seems to recognise the name of the Blushing Mermaid when Willow mentions it. He’s instantly uncomfortable. 
 
-Tira is in the Black Tankard, large fighting pit. Ivory and Ash are the names of the tieflings. We take Bram off to the Zhelezo.
+As they ask further questions, he says alcohol and revelry has been helping him sleep ever since he got back from Avernus. Doloris asks if he happened to make any deals in Avernus, which he says he didn’t, but there seems to be something to it. Stormbreaker asks if anyone’s threatening him. Bram slowly seems to break and panics, casting a spell. He turns invisible after kicking the lid of the clay container, combat ensues. 
+
+After defeating the three mephits and the black pudding, everyone starts chasing after where they think Bram disappeared to. Rayna and Doloris both run through Rayna’s moonbeam, which is still in the doorway where she left it. They manage to lock Bram in the stables. He knocks on the door, asking if he can come out.
+
+They let him. He asks to tell his story before they send him to the authorities. He says since he returned from Avernus he’s been leading a second life. Enjoying a drink and gambling. He discovered there were underground bars when he was in the Blushing Mermaid, there were really good gambling matches there, where he racked up a bit of a debt.
+
+He was eventually told that the Myriad was asked to see to it that the mine could be expanded. They knew he was in a position to do something. To pay of his debt to the Myriad he came up with the plan to cause this explosion. It was supposed to happen during the night, but they didn’t listen. He told them what compounds to use and what vat to throw it into, but other than that, he wasn’t physically involved. It was all Tyra, the grey dwarf. She was there with a kenku and two albino tieflings when he made the deal. He figured that, with the vats outside gone, he could talk Benja into modernizing. 
+
+Willow asks where Tyra is. Last time Bram saw her was in the Black Tankard, a fighting pit in the Undercellar. She usually hangs out with Witness, the kenku previously mentioned, as well as the two albino tieflings: Ivory and Ash. Witness is high up in the Myriad.
+
+The crew decide to deliver Bram to the Zhelezo in the Restless Wharf. He confesses everything to them. Stormbreaker asks Willow to fix his hammer, which she says she’ll do her best to do, offering him a magical infusion on the hammer as well.
