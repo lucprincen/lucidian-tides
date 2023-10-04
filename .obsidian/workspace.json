@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/21 - Session 21.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "monkey",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/21 - Session 21.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/21 - Session 21.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/21 - Session 21.md"
+                "file": "Misc/Ship Roles/First Gunner.md"
               }
             }
           }
@@ -154,10 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df4a0a6ee457522c",
+  "active": "56870d3d83508521",
   "lastOpenFiles": [
-    "Sessions/20 - Session 20.md",
+    "0. Assets/Misc/First Gunner.jpg",
+    "Misc/Ship Roles/First Gunner.md",
+    "Misc/Ship Roles/The Serpent's Tide - Ship.md",
     "Sessions/21 - Session 21.md",
+    "Sessions/20 - Session 20.md",
     "Sessions/16 - T'hausand Mile Stare.md",
     "Sessions/19 - Session 19.md",
     "Sessions/18 - Pigeons.md",
@@ -170,10 +174,7 @@
     "Sessions/11 - Session 11.md",
     "Sessions/10 - Session 10.md",
     "Sessions/9 - Session 9.md",
-    "Misc/Ship Roles/First Gunner.md",
-    "Misc/Ship Roles/The Serpent's Tide - Ship.md",
     "Sessions/7 - Seabed Swindle.md",
-    "0. Assets/Misc/First Gunner.jpg",
     "1. Characters/Port Damali/Alma Hyllyndre.md",
     "1. Characters/Port Damali/Isol.md",
     "0. Assets/Characters/alma.png",
@@ -190,7 +191,6 @@
     "0. Assets/Characters/lucienne-de-montfort.png",
     "0. Assets/Characters/eliander.png",
     "0. Assets/Locations/nicodranas-map.png",
-    "1. Characters/Nicodranas/Guillaume de Montfort.md",
     "0. Assets/Pasted image 20230510213135 1.png",
     "0. Assets/Characters/lady-manza-shirome.png",
     "1. Characters/Myriad",
