@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "monkey",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56870d3d83508521",
+  "active": "df4a0a6ee457522c",
   "lastOpenFiles": [
-    "0. Assets/Misc/First Gunner.jpg",
-    "Misc/Ship Roles/First Gunner.md",
     "Misc/Ship Roles/The Serpent's Tide - Ship.md",
+    "Misc/Ship Roles/First Gunner.md",
+    "0. Assets/Misc/First Gunner.jpg",
     "Sessions/21 - Session 21.md",
     "Sessions/20 - Session 20.md",
     "Sessions/16 - T'hausand Mile Stare.md",
