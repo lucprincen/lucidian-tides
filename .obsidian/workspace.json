@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df4a0a6ee457522c",
+            "id": "eb36c52584eae542",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/22 - Session 22.md",
+                "file": "Sessions/23 - Session 23.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/22 - Session 22.md",
+                "file": "Sessions/23 - Session 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/22 - Session 22.md",
+                "file": "Sessions/23 - Session 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/22 - Session 22.md"
+                "file": "Sessions/23 - Session 23.md"
               }
             }
           }
@@ -154,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df4a0a6ee457522c",
+  "active": "eb36c52584eae542",
   "lastOpenFiles": [
-    "Sessions/20 - Session 20.md",
     "Sessions/22 - Session 22.md",
+    "Sessions/23 - Session 23.md",
+    "Sessions/20 - Session 20.md",
     "Home.md",
     "Misc/Ship Roles/First Gunner.md",
     "Misc/Ship Roles/The Serpent's Tide - Ship.md",
@@ -187,7 +188,6 @@
     "0. Assets/Characters/captain-thuillian.png",
     "0. Assets/Locations/golden-chain-vault-map.png",
     "1. Characters/Nicodranas/Eliander de Matiz.md",
-    "1. Characters/Nicodranas/Lucienne de Montfort.md",
     "0. Assets/Characters/lucienne-de-montfort.png",
     "0. Assets/Characters/eliander.png",
     "0. Assets/Locations/nicodranas-map.png",
